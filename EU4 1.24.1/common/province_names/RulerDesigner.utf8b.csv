@@ -1,0 +1,88 @@
+﻿#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+RD_APPEARANCE;Appearance;Apparence;Aussehen;;Apariencia;;;;;;;;;x
+RD_COAT_OF_ARMS;Coat of Arms;蒫u;Wappen;;Escudo de Armas;;;;;;;;;x
+RD_ATTRIBUTES;Attributes;Attributs;Attribute;;Atributos;;;;;;;;;x
+RD_ETHNICITY;测试;Ethnie;Ethnie;;Etnicidad;;;;;;;;;x
+RD_EYES;眼睛;Yeux;Augen;;Ojos;;;;;;;;;x
+RD_NOSE;鼻子;Nez;Nase;;Nariz;;;;;;;;;x
+RD_MOUTH;嘴巴;Bouche;Mund;;Boca;;;;;;;;;x
+RD_CHIN;下巴;Menton;Kinn;;Ment髇;;;;;;;;;x
+RD_NECK;脖子;Cou;Hals;;Cuello;;;;;;;;;x
+RD_CHEEKS;脸颊;Joues;Wangen;;Carrillos;;;;;;;;;x
+RD_EARS;耳朵;Oreilles;Ohren;;Orejas;;;;;;;;;x
+RD_EYE_COLOR;瞳色;Couleur des yeux;Augenfarbe;;Color de Ojos;;;;;;;;;x
+RD_HAIRSTYLE;Hairstyle;Coiffure;Frisur;;Peinado;;;;;;;;;x
+RD_HAIR_COLOR;Hair Color;Couleur;Haarfarbe;;Color de Pelo;;;;;;;;;x
+RD_BEARD;Beard;Barbe;Bart;;Barba;;;;;;;;;x
+RD_VISUALIZE;Visualize;Visualiser;Visualisieren;;Visualizar;;;;;;;;;x
+RD_CLOTHES;Clothes;Habits;Kleidung;;Ropajes;;;;;;;;;x
+RD_HEADGEAR;Headgear;Couvre-chef;Kopfbedeckung;;Corona;;;;;;;;;x
+RD_AGE;Age;耮e;Alter;;Edad;;;;;;;;;x
+RD_BACKGROUND;Background;D閏or;Hintergrund;;Escenario;;;;;;;;;x
+RD_CANCEL;Cancel;Annuler;Abbrechen;;Cancelar;;;;;;;;;x
+RD_NEXT;Next;Suivant;Weiter;;Siguiente;;;;;;;;;x
+RD_LAYOUT;Layout;Composition;Layout;;Disposici髇;;;;;;;;;x
+RD_SLOT_1;Slot 1;I;Spalte 1;;Partici髇 1;;;;;;;;;x
+RD_SLOT_2;Slot 2;II;Spalte 2;;Partici髇 2;;;;;;;;;x
+RD_SLOT_3;Slot 3;III;Spalte 3;;Partici髇 3;;;;;;;;;x
+RD_SLOT_4;Slot 4;IV;Spalte 4;;Partici髇 4;;;;;;;;;x
+RD_COLOR_1;Color 1;Couleur 1;Farbe 1;;Color 1;;;;;;;;;x
+RD_COLOR_2;Color 2;Couleur 2;Farbe 2;;Color 2;;;;;;;;;x
+RD_COLOR_3;Color 3;Couleur 3;Farbe 3;;Color 3;;;;;;;;;x
+RD_EMBLEM;Emblem;Figure;Emblem;;Emblema;;;;;;;;;x
+PORTRAIT_westerngfx;Western;Occidental;Westlich;;Occidental;;;;;;;;;x
+PORTRAIT_italiangfx;Italian;Italien;Italienisch;;Italiano;;;;;;;;;x
+PORTRAIT_byzantinegfx;Byzantine;Byzantin;Byzantinisch;;Bizantino;;;;;;;;;x
+PORTRAIT_muslimgfx;Muslim;Musulman;Muslimisch;;Musulm醤;;;;;;;;;x
+RD_YOUNG;Young;Jeune;Jung;;Joven;;;;;;;;;x
+RD_MIDDLEAGED;Middleaged;Adulte;Mittleren Alters;;Adulto;;;;;;;;;x
+RD_OLD;Old;Vieux;Alt;;Anciano;;;;;;;;;x
+coa_party_per_fess;Party Per Fess;Coup?geteilt;;Armas Partidas;;;;;;;;;x
+coa_party_per_pale;Party Per Pale;Parti;gespalten;;Armas Tajadas;;;;;;;;;x
+coa_party_per_cross;Party Per Cross;蒫artel?geviert;;Armas Cuarteladas;;;;;;;;;x
+coa_party_triangle;Party Triangle;Tierc?gespaltenes Schildhaupt;;Armas Alternas;;;;;;;;;x
+coa_plain;Plain;Plain;Schlicht;;Liso;;;;;;;;;x
+RD_LINK_PATTERN;Links Patterns across all slots;Lier les motifs sur toutes les partitions;躡ertr鋑t Muster auf alle Spalten;;Mismos modelos en todas las particiones;;;;;;;;;x
+RD_LINK_COLOR;Links Colors across all slots;Lier les couleurs sur toutes les partitions;躡ertr鋑t Farben auf alle Spalten;;Mismos colores en todas las particiones;;;;;;;;;x
+RD_MARRIED;Tick if you want the character to start married;Cochez si vous voulez que le personnage soit d閖?mari?;H鋕chen, wenn der Charakter verheiratet starten soll;;Marca si quieres que tu personaje aparezca casado;;;;;;;;;x
+RD_CLEARTRAITS;Remove all Traits\nRight-click on a trait to remove individual traits;Retirer tous les traits \nClic droit sur un trait pour le retirer individuellement;Alle Charakterz黦e entfernen\nRechtsklick auf entsprechenden Charakterzug, um ihn einzeln zu entfernen;;Borrar todos los rasgos\nSelecciona, con el bot髇 derecho, un rasgo para eliminarlo;;;;;;;;;x
+RD_DIPLOMACY;外交:;Diplomatie? ;Diplomatie:;;Diplomacia:;;;;;;;;;x
+RD_MARTIAL;武力:;Martialit闋: ;Kriegsf黨rung:;;Marcial:;;;;;;;;;x
+RD_STEWARDSHIP;财政:;Intendance? ;Verwaltung:;;Administraci髇:;;;;;;;;;x
+RD_INTRIGUE;智谋:;Intrigue? ;Intrige:;;Intriga:;;;;;;;;;x
+RD_LEARNING;学识:;蓃udition? ;Bildung:;;Aprendizaje:;;;;;;;;;x
+RD_HEALTH;健康:;Sant闋: ;Gesundheit:;;Salud:;;;;;;;;;x
+RD_FERTILITY;生育:;Fertilit闋: ;Fruchtbarkeit:;;Fertilidad:;;;;;;;;;x
+RD_SONS;儿子:;Fils? ;S鰄ne:;;Hijos:;;;;;;;;;x
+RD_DAUGHTERS;女儿:;Filles? ;T鯿hter:;;Hijas:;;;;;;;;;x
+RD_FIRST_NAME;姓名;Pr閚om;Vorname;;Nombre:;;;;;;;;;x
+RD_DYNASTY;家族;Dynastie;Dynastie;;Dinast韆:;;;;;;;;;x
+RD_MARRIED2;婚姻:;Mari闋: ;Verheiratet:;;Casado:;;;;;;;;;x
+RD_CULTURE;文化:;Culture? ;Kultur:;;Cultura:;;;;;;;;;x
+RD_RELIGION;宗教:;Religion? ;Religion:;;Religi髇:;;;;;;;;;x
+RD_EDUCATION;教育;蒬ucation;Bildung;;Educaci髆;;;;;;;;;x
+RD_TRAITS;特质;Traits;Charakterz黦e;;Rasgos;;;;;;;;;x
+RD_FINISH;完成;Terminer;Fertig;;Finalizar;;;;;;;;;x
+RD_IS_MALE;Character is male, click to change;Le personnage est un homme, cliquez pour avoir une femme.;Charakter ist m鋘nlich, hier klicken, um das zu 鋘dern;;El personaje es var髇, pincha para cambiarlo;;;;;;;;;x
+RD_IS_FEMALE;Character is female, click to change;Le personnage est une femme, cliquez pour avoir un homme.;Charakter ist weiblich, hier klicken, um das zu 鋘dern;;El personaje es hembra, pincha para cambiarlo;;;;;;;;;x
+RD_NOT_PLAYABLE;This Religion is not playable?;Les personnages de cette religion ne sont pas jouables.?;Diese Religion ist nicht spielbar?;;¨REsta Religi髇 no es jugable?;;;;;;;;;x
+RD_OPEN_RULER_DESIGNER;Open Ruler Designer;Ouvrir le cr閍teur de personnage;Herrscher-Baukasten 鰂fnen;;Abrir el Editor de Gobernantes;;;;;;;;;x
+RD_CHANGE_GRAPHICAL_CULTURE;Chance Graphical Culture;Changer l'apparence culturelle;Grafik der Kultur 鋘dern;;Cambiar los gr醘icos culturales;;;;;;;;;x
+RD_CHANGE_CULTURE;Change Culture;Changer la culture;Kultur 鋘dern;;Cambiar Cultura;;;;;;;;;x
+RD_CHANGE_RELIGION;Change Religion;Changer la religion;Religion 鋘dern;;Cambiar Religi髇;;;;;;;;;x
+RD_CHANGE_EDUCATIONAL_TRAIT;Change Educational Trait;Changer le trait d'閐ucation;Bildungsweg 鋘dern;;Cambiar Rasgo Educacional;;;;;;;;;x
+RD_CUSTOMIZED_AGE;Age: $AGE$ ( Max: $MAX$ );耮e? $AGE$ (max.? $MAX$);Alter: $AGE$ ( Max: $MAX$ );;Edad: $AGE$ ( Max: $MAX$ );;;;;;;;;x
+RD_RANDOMIZE;Randomize;G閚閞er al閍toirement;Zuf鋖lig;;Aleatorio;;;;;;;;;x
+RD_FAIL_AGE;Character is too old to start the game;Ce personnage est trop vieux pour d閎uter la partie.;Charakter ist zu alt, um das Spiel zu starten;;El personaje es demasiado viejo para iniciar el juego;;;;;;;;;x
+RD_FAIL_CHILDREN;Character is not old enough to have that many children, one year over 16 per child is required;Ce personnage est trop jeune pour avoir autant d'enfants. Il ne peut avoir qu'un enfant par an apr鑣 ses seize ans.;Der Charakter ist nicht alt genug, um so viele Kinder zu haben. Sein Alter muss 16 plus ein Jahr pro Kind betragen.;;El personaje no es tan viejo como para tener tantos hijos, se necesita un a駉 sobre los 16 por cada hijo;;;;;;;;;x
+RD_EXTRA_CLICK;Click to change\nShift-click for x5 effect\nCtrl-click for x10 effect;Clic gauche pour changer d'un point \nMaj.+Clic? de cinq points \nCtrl+Clic? de dix points;Klicken, um zu 鋘dern\nShift-Klick f黵 den f黱ffachen Effekt\nStrg-Klick f黵 den zehnfachen Effekt;;Pulsa para cambiar\nPulsa manteniedo May鷖culas para multiplicar x5 el efecto;;;;;;;;;x
+RD_RESET;Reset;R閕nitialisation;Zur點ksetzen;;Vuelta al Inicio;;;;;;;;;x
+RD_FAIL_NO_NAME;You need to specify a first name;Vous devez attribuer un pr閚om au personnage.;Sie m黶sen einen Vornamen angeben;;Necesitas ponerle un nombre;;;;;;;;;x
+RD_FAIL_NO_DYN_NAME;You need to specify a dynasty name;Vous devez attribuer un nom ?la dynastie du personnage.;Sie m黶sen den Namen einer Dynastie angeben;;Necesitas ponerle una dinast韆;;;;;;;;;x
+RD_RULER_DESIGNER;Ruler Designer;Cr閍teur de personnage;Herrscher-Baukasten;;Editor de Gobernantes;;;;;;;;;x
+RD_FAIL_NO_UNPLAYABLE;Cannot customize unplayable characters?;Impossible de personnaliser les personnages non jouables?;Nicht spielbare Charaktere sind nicht ver鋘derbar?;;No puedes editar personajes no jugables?;;;;;;;;;x
+RD_FAIL_NO_DLC;You need the Ruler Designer DLC to use this?;N閏essite le cr閍teur de personnage (DLC Ruler Designer)?;Sie ben鰐igen den "Ruler Designer"-DLC, um diese Funktion zu nutzen?;;¨RNecesitas el DLC Editor de Gobernantes para usarlo?;;;;;;;;;x
+RD_FAIL_SAME_NAME;Cannot have the same name as the character you are replacing;Ne peut avoir le m阭e nom que le personnage qu'il remplace;Sie k鰊nen nicht denselben Namen angeben wie der des Charakters, den sie ersetzen;;No puede llamarse igual que el personaje al que est醩 reemplazando;;;;;;;;;x
+RD_CHANGE_SONS;Change the number of sons this character has;Changer le nombre de fils qu'a ce personnage;Die Anzahl der S鰄ne des Charakters ver鋘dern;;Cambia el n鷐ero de hijos del personaje;;;;;;;;;x
+RD_CHANGE_DAUGHTERS;Change the number of daughters this character has;Changer le nombre de filles qu'a ce personnage;Die Anzahl der T鯿hter des Charakters ver鋘dern;;Cambia el n鷐ero de hijas del personaje;;;;;;;;;x
+RD_ADD_TRAIT;Add Trait;Ajouter un trait;Charakterzug hinzuf黦en;;A馻dir Rasgo;;;;;;;;;x

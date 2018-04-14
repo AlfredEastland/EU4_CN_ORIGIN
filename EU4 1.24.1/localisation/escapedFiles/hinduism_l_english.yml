@@ -1,0 +1,224 @@
+﻿l_english:
+ shiva_srishti:0 "R/"
+ desc_shiva_srishti:0 "ùRnFZ/ir„vtã‰ÀoÑS†Nßu»lwR/ú^Qr„v2kg."
+ shiva_tirodhana:0 "Tirodhana"
+ desc_shiva_tirodhana:0 "tã‰nFZ(WbìNb—MR–»S«Žb_„v1u©‹ßu»lw(WNLu„v9hn-Nb0R…QÃ_„vs^Y—."
+ shiva_anugraha:0 "?–ªR<hÉbÈT"
+ desc_shiva_anugraha:0 "tã‰nFZ‚YUO°s«ŽŽNáQºNKNMR©‹ßu»lw—_åNSÙN/Tê&^Ùuí•^XàeåwKNl."
+ desc_smartha:0 "ßu»lw]le¸‹Y^yf, ³‹:NÖNìN/fNTb__„v^y#WXR(W."
+ shakti_parvati:0 "ê–qS^ysY"
+ desc_shakti_parvati:0 "ßu»lwÇÆR—R¥Qó`aåw0R'`›RsSê–qS^ysY, ãNhˆOwýwÏ‘åNÊS+Y»Y„vÓuT."
+ shakti_prakrti:0 ",g'`"
+ desc_shakti_prakrti:0 "ßu»lwÇÆR—R¥Qó`aåw0R'`›RsS,g'`, ãNhˆOwSNLuTwû|(WNw„v9hnKN›R."
+ shakti_kali:0 "öeÍk"
+ desc_shakti_kali:0 "ßu»lwÇÆR—R¥Qó`aåw0R'`›RsSöeÍk, ãNhˆOwåb	g9e/°sNýw›R„vÁkmpNŠk¡N."
+ shakti_tara:0 "¦^Ík"
+ desc_shakti_tara:0 "ßu»lwÇÆR—R¥Qó`aåw0R'`›RsS¦^Ík, ãNhˆOwÇOˆNkp&^eg„vê1uNã‰>e."
+ vishnu_lakshmi:0 "	Tey)YsY/Ob"
+ desc_vishnu_lakshmi:0 "ßu»lwS	Tey)YsYÆ‰:N_×kntY„v_ïºN, Í‘Æ‰7usY3N'`„vÓuT."
+ vishnu_brahma:0 "µh)Y/Ob"
+ desc_vishnu_brahma:0 "ßu»lw^gBlfRŽN3wÿø‹‚Y/Ob^y#WåwÆ‹„vN^."
+ vishnu_celibacy:0 "µhLˆg"
+ desc_vishnu_celibacy:0 "ßu»lwÇy2kS`ôuŒT¾|^yýÆ–-NåN·ƒ—_—RYe/Tê."
+ hindu_withdrawn_contemplation:0 "dRûP‰l`"
+ desc_hindu_withdrawn_contemplation:0 "ßu»lw‰lxmŽN—RYeî•˜˜„v`1tKN-N, ØS—_ôf RzfgatSý_Æ‰?e»l."
+ hindu_withdrawn_meditation:0 "dRûP¥Qó`"
+ desc_hindu_withdrawn_meditation:0 "ßu»lw‰lxmŽNÆR—R¥Qó`KN-NåN·ƒ—_sQŽN^yf„vôfñmBSåwÆ‹."
+ hindu_ganges_pilgrimage:0 "gÜbR`³l"
+ desc_hindu_ganges_pilgrimage:0 "ßu»lwSMRûN„v¨špp’dTR`³l, ^y#WKN³l."
+ jnana:0 "å‚²"
+ desc_jnana:0 "ßu»lw·ƒ—_†NsQŽN¾|^y„våwÆ‹, v^N	éb†N(W—RYeî•˜˜N„vSï."
+ hindu_events.1.t:0 "pS¦^Ye„vSï"
+ hindu_events.1.d:0 "[Root.Monarch.GetTitle] [Root.GetName] Ø¡l	g	ébý–„v^yf. ºNlNÅN—‰N×O‹NirN„vc_, _N—‰ÖNìN„v–™†˜US°sáOðNN„vT†Ú‹ŒTùR^yfzfga„v4nBl. [Root.Monarch.GetName]„vupB›ckÙz(WN*NASWRïãS. [Root.Monarch.GetSheHe] Ob	éb„váOðNŒTòTfRS_üR [Root.Monarch.GetHerHis] †˜Ÿ`, b:NÖNkO:N [Root.Monarch.GetTitle] „vW¶N, v^N³QšR [Root.GetName] „vŒTÐ. ²HN, `O‰ý–Œ„vc_ÿ"
+ hindu_events.1.a:0 "nFZ/fóØšKN^y."
+ hindu_events.1.b:0 "'`›R/fóØšKN^y#W."
+ hindu_events.1.c:0 "bSý–×kntYOb	g„vS«Ž."
+ hindu_events.1.e:0 "bmyÜbR`³lsY^y, #W³lKNsY^y."
+ hindu_events.1.f:0 "1kœU)YOc_bìN„vzfga."
+ hindu_events.1.g:0 "óØšKNIQ, Ï‚)R6wS&^Ùub›RÏ‘."
+ hindu_events.1.h:0 "bØ¡l	gZPŒY	éb„vÆQY."
+ hindu_events.2.t:0 "/ir^ynFZ"
+ hindu_events.2.d:0 "(WOb	gÕ‹þVÏcØunFZIQ‰„vz‚/g¶R-Nÿ$ARTIST$„vb1SNôv…ŠÖNºN0Ù_N/f:NÀNHNÖN«ˆ÷‹Û‹s÷^ÿ=S¡rÖN(Wˆ_Y‹N¡RNýwÐcúQ	g(u„vú^®‹ÿÖN(W^y'`N„våwÆ‹ùR`OO6q/fN*NŒ0\n\n N)YZfNÿ`OpúQ[Root.Capital.GetCapitalName]„v«R™Xÿ`Ow0R$ARTIST$ck(WùRÕ–ÏPå]zÛLˆ6e>Sÿ`Oî•SÿÖNÏcØu„v/fnFZ-N„vêTNb—ÿ\nÏkN*NupB›ý/fnFZ¾|^y„vNèRÿ$ARTIST$ÞVTrSÿck‚YnFZR/†NNRÿupB›(WÖN«ˆR/„v²N;R—_0RÝOQO0†Nã‰ÙN¹pÿ`O1S†Nã‰†N^y'`0"
+ hindu_events.2.a:0 "b‰ŒYŒY`1tÖN„vÝ‹."
+ hindu_events.2.b:0 "NÇz‚wKNŠ. [Root.Monarch.GetTitle] RÝu6qNT."
+ hindu_events.3.t:0 "Srishti: Creation"
+ hindu_events.3.d:0 "ÏuÇùRz‚/g¶R„vÝ‹Yt^„v`1t, `O·ƒ—_†N¸‹YsQŽNnFZkO:N/ir^y„v,g(„v†˜Ÿ`. `OTöeaÆ‹0R†NR/(W`OSYuÙuTNW¶N-N„vÍ‘‰'`. *geg„vòTºNìNSOåN ã‰„gNLu„gQrýV¶R„v¥Qó`w S [Root.Monarch.GetName] Ù*NTWRí”°‹."
+ hindu_events.3.a:0 "5U."
+ hindu_events.4.t:0 "ÝO³b^ynFZ"
+ hindu_events.4.d:0 "[Root.GetName]Y(WŒTs^KN-N0ýV¶R(W`O„vßu»lNÏu†S†NNµk3zšRŒTAucƒ„vöegÿÙuˆN`OôfYöeô•Nèl(W¾|^yN„vNLu0Nç]„v/fÿ`OùRÙµkAucƒöegsSSÈuÓu„vP`ç`nnneQ†N`O„v…QÃ_0\n\n$THEOLOGIAN$w0R`O(WnFZ„v^yÏPb—MRT†Ú‹0WHywy0S_`Oõ_ŒR’Tí‹ÿ`OJTÉ‹˜î•`O„vÅbÃ_ÿûRBlÖN„vú^®‹0ÖNcOwÕ–ÏPÞVTrSÿ\nwOw`O<wMR„vKbÿnFZ¬bw„vKbŒcÐc’‘†N`OÖNNêSR/†NÁkmpÿ_NR/†N8lR`0N‰³R`0"
+ hindu_events.4.a:0 "b‰:NdkHywy."
+ hindu_events.4.b:0 "b(W¸‹Y‹NÅ`NáOðNnFZ, FOˆR³bÙ*NýV¶R/fbêñ]„v#ûN."
+ hindu_events.5.t:0 "Sthiti: Preservation"
+ hindu_events.5.d:0 "Yt^ÝQÆ‰OwàeOupSnFZÓub„vPˆN‰RhQNpaÉ…„vKbpS, `Oa0Rêñ]†Nã‰sQŽNnFZkO:NNLu„vˆR³b^y„v¸‹Y. `O„vÃ_upàVdkÞVR_s^Y—, ©‹`OïSåNÆ–-N¾|^yßu»l [Root.GetName] v^gq˜Ù*NýV¶R„vNR, ck‚YnFZgq™eNir."
+ hindu_events.5.a:0 "5U."
+ hindu_events.6.t:0 "4xOW^ynFZ"
+ hindu_events.6.d:0 "[Root.GetName](Wb‰N-N0ýV¶R«ˆLeºNBŽŽÿ0RYý/fÁkmpŒTŸ^ŸX0(WÙâl­ˆûQKN-Nÿ`Oˆ_S	göeô•»S¥Qó`ÿb/fûNUOŠ|‹W„v—RYe`w06qw	gN)Yÿ`O(Wn’‘KN-Nw0R†NOˆŒTkp„vŠ^aŒ0(W²öeÿ`OaÆ‹0R`O_N¸‹(WkO:NnFZT†Ú‹„vß–wSïNï‹eQgk0\n\n $INQUISITOR$ÿNMOT†Ã_IY.swÿeg0R`O«ŽMR0\n'b„v[Root.Monarch.GetTitle]'ÿÖNô‹Sÿ'N‰‰lNnŽNÇ»S0NLuS(WppìpÌ‘Í‘u0O'Y„vnFZ_N/fÙ7h0'"
+ hindu_events.6.a:0 ">TSåNdkŠdk`4O–>TLˆ."
+ hindu_events.6.b:0 "ºNåNÁy2kmpN. >TIràeCgLˆnFZKN‹N."
+ hindu_events.7.t:0 "Samhara: Destruction"
+ hindu_events.7.d:0 "b‰N©‹`Ow0R†N¸‹YÁkmp, FO_N©‹`Ow0R†N't–vQT„vÍ‘ú^. =S¡rÁkmp†N`O„vLeºN„vkp0q,g(Nv^N^y#W, `OO6qa0Rêñ]ùRnFZ(uŽNÍ‘ø”NLu„vkp0q	g†Nôf^yNBS„vtã‰."
+ hindu_events.7.a:0 "5U."
+ hindu_events.8.t:0 "–?S^ynFZ"
+ hindu_events.8.d:0 "(WùR¾|^yNLu„výûR-Nÿ`ONôva0R	g›NN‰(WEeaÞV`O0‚Yœg^y'`XR(WNR‹NirS_-NÿƒRÈS`HNOýûRƒR„vºNÿ\n\n`OT$PHILOSOPHER$â‹î•Ù*Nî•˜˜ÿÖNó`†NNO?QÿÞVTrSÿnFZŠbÖN„v'Yýw(WR/KNT1S–Ï…†Nweg0tã‰ÙN¹p/fÛNektã‰^y'`„vúWOxÿ‚Yœgwt²HN>fwfÁ‰„vÝ‹ÿ²_NN(u9›RbûR†N0"
+ hindu_events.8.a:0 "bSSÕ‹†Nã‰vQ-NaIN."
+ hindu_events.8.b:0 "²HNbSçuíu(W+RYbûR/T:y."
+ hindu_events.9.t:0 "Tirobhava: Illusion"
+ hindu_events.9.d:0 "ÏuÇ†NYt^sQŽNnFZ‚YUOSwåw–Ï…ŽNáQºNObÁ‰KNY„v¥Qó`KNT, `O…QÃ_¾0R†Ns^ŒT. fŒv†N`O,g«Ž„vXR(W, ýûRåNÊSgÈu„v†˜Ÿ`ýOVŽNdk, `Oò]Ïuw0RÙagŸSR%_+oŽN°sN„vÏkN*NÒ‰=„KN-N."
+ hindu_events.9.a:0 "5U."
+ hindu_events.10.t:0 "/Tê^ynFZ"
+ hindu_events.10.d:0 "`O±‚9Yt^ûRbNMO³åNc_`O„vN^, tSNôv¡l	gb0RNMOýwYp`S_—_ã‰Ê‘XR(W„v^yØy, :N`Oã‰_—RYeN‘uÑ`„vºNir. öeóÊNåe, `Oò]Ïu_ËY>e_ùR3w„vg…_lwNvQÖNßu»lw¢c¨‹Ã_upî•˜˜.\n\nN)Y, `ON [Root.GetName] N*NTßvýV¶R„vßu»lw³NŒ, ¨‹º‹upB›„v,g(ÊSvQN^yf„vÆRNïSR. =S¡rÖNý–„v/f×kntY, `OsQŽNnFZ„v³‹Æ‹O6q—_0R†NqQ#ž.\n\nNENKNT, `OÞVó`wÙµkùRÝ‹öeaÆ‹0Rêñ],TwegNÏPN*N¢c1t—RYeî•˜˜„vfRu, ÍSwôfÏPNMO'Y^. _N¸‹nFZ(WPˆN`OÙN/TêKNöeò]„`6q(W`Ob—MRUS°svQOÅ–„v«ŽÿY."
+ hindu_events.10.a:0 "b‰`1tb/f‚YUO·ƒ—_ÙN/Tê„v."
+ hindu_events.10.b:0 "NÇ/f*N³wEm„vó`Õlwò]. bØ	g¸‹YN‰—‰T•wìNfR`N."
+ hindu_events.11.t:0 "Anugraha: Emancipation"
+ hindu_events.11.d:0 "ÇùRYt^Ã_upýûROb·ƒ—_„v†˜Ÿ`„v¥Qó`, `OÈuŽNfŒv†NnFZTNLuUS:yvQOÅ–«ŽÿYv^SzfgaPˆNáQºN„vÇz.  ck‚Y`OþfÏu(Wêñ]ý*gþfaÆ‹0R„vÅ`µQNSÙN†˜Ÿ`R«NŽNßvËS, `O°s(W_NïSåNSvQR«NŽNvQÖNºNv^Nc_ÖNìN."
+ hindu_events.11.a:0 "5U."
+ hindu_events.12.t:0 "	Tey)YsY, ×kntY„v°eZ"
+ hindu_events.12.d:0 "ôucNvQÖNýV¶R„vZZûYýwYÌu&^(WY³NNùR [Root.GetName] 	gOwˆ_'Y„v©RÊv. (WgÑN!kN`O„vûY²Nßu»lw„vOb—-N, `OìN¢c¨‹†NZZûYÌu&^(W¾|^yN„vÍ‘‰aIN.\n\n²MOßu»lwŒT¸‹Y'YOý/f×kntY„vý–w, S×kntY„vM‘vP	Tey)YsYÆ‰kO'`›RS«Ž. `O“bOOÙ*N:gOTÖNìN²‹ð†NÙMOsY^ykO:NT^y#W„v_ïºN„vÍ‘‰'`. `O„vÝ‹<ONNˆ_	gHeœg, ÖNìN„vßu»lw°s(WùRbìN„váOðN	g†Nôfñm„vtã‰, v^Nôf RÍ‘Æ‰NbìN„vTwûYsQû|."
+ hindu_events.12.a:0 ")YsYsS›R, )YsYsSŽ."
+ hindu_events.13.t:0 "Ík^yÐc×k"
+ hindu_events.13.d:0 "[Root.Heir.Dynasty.GetName] gÑ—_0R†NNMO°e„vçubºN. S [Root.Heir.GetName] ©‹`OùR*gegEQán†N^g. [Root.Heir.GetHerHisCap] „vúQu_N©‹`OÞVó`w`OSÐc×kÆ‰kOóØšàeN„v^yf„v1u. =S¡r`OåN [Root.Monarch.GetTitle] „v«ŽýNßu»l [Root.GetName], FO©‹`O„vOˆ	ö^íu„v›RÏ‘åNÊSŒRŒRhQhQ„vte*NNLuý/fÙMOsY^y„v†˜ßW.\n\nÎN`O„vM‘vP«ŽNwÁ‰sY^yÙNb—„v•bq_©‹`O‰lxm(WÐc×k„vŽN„UKN-N."
+ hindu_events.13.a:0 "Ù7h„v†˜Ÿ`Sc_b*geg„v`w."
+ hindu_events.13.b:0 "b1rb„v»YPR, FOyYv^^—sY^y."
+ hindu_events.14.t:0 "Ík^yÐc×k"
+ hindu_events.14.d:0 "gÑ, `O:N [Root.Heir.Dynasty.GetName] ¶RÏe&^uN†NýwY/Ob`OW¶N„v°ePRãU. S [Root.Heir.GetName] ©‹`OùR*gegEQán^g. [Root.Heir.GetHerHisCap] „vúQu_N©‹`OÞVó`w`OSÐc×kÆ‰kOóØšàeN„v^yf„v1u. [Root.GetName] „vNNûNßu»lw1u`Ow·ƒ—_uŒT, te*NNLuR1uÐc×kwÞ‹uŒTÍ‘u.\n\nÐc×kSÙNO›R(uŽN„ULˆ/fyY„v„UNŽ„vfÁ‹, w†˜Ÿ`0RÙN›RÏ‘_NXR(WŽN`Oêñ]«ŽSOKN-N©‹`OSdkÆ‰:NÐc×kh×_'`„vNb—."
+ hindu_events.14.a:0 "bSýûRåNdkeg†Nã‰Ðc×k."
+ hindu_events.14.b:0 "bSO/f*NŒYÍk²N, FOkO:N [Root.Monarch.GetTitle], bÅ_Š˜öQsÀoÈp. sY^y¦N‚Y/f."
+ hindu_events.15.t:0 "	Tey)Y>m"
+ hindu_events.15.d:0 "êÎN”Nt^MR`O„viRPRúQuKNT, `OùR'`›RsY^y„v³‹Æ‹ò]Ïu	gOb9eØS. `OO6qfŒvƒRÁkmp'`„výwÏ‘, FO_N†Nã‰†NvQOb	g„vegn. ùR`Oegô‹, sY^y/fŽ=Nw)nÔg„v. `OS&^OwÙÍy)nÔg, åNàe=S„v›RÏ‘kO:NTþv, egßu»l [Root.GetName]."
+ hindu_events.15.a:0 "5U."
+ hindu_events.16.t:0 "ZZûYÌu&^"
+ hindu_events.16.d:0 "`OùR'`›RsY^y„vR/›RŒTOÅ–Nb—„v³‹Æ‹.^©R†N [Root.GetName] P`TRñ‹vQÖNýV¶R ReQbìN„v–O. (WNY*NýV¶Rú^ËzTwûYsQû|KNT, `OÑS°sÙ/f(WôucýV¶RKNô•Ìu&^„v¸‹YÍy¹e_-Ngrm	gHe„vNÍy. Ç [Root.Monarch.Dynasty.GetName] ¶RÏeOˆ	„vTwû|, Y³N³N‰mØSb†NNÍy¶R­^ZwO„vYö^.\n\nÑeg, Ù›NÌu&^aINñmÜ„vq_ÍT_ËYÀoÑS`O`wsY^y‚YUO.^©R†N`O„výV¶R. _N¸‹ôfñmBS„vÆR—R¥Qó`ýw©‹`Oôf4ÑsY^y."
+ hindu_events.16.a:0 "»YPRNN+Y„vÓuT/f^yfóØšàeN„vèea."
+ hindu_events.16.b:0 "'`›RsY^y&^egÓuTêSàVNir†vegêvQ¾|NS."
+ hindu_events.16.c:0 "?e»l/f?e»l, —RYe/f—RYe."
+ hindu_events.17.t:0 "ê–qS^ysY"
+ hindu_events.17.d:0 "ÏuÇ3Nt^ÆR—R¥Qó`, `1tsQŽNZZûYsQû|NÐc×kŒTÐcFZKNô•^y#WÌu&^„vTwû|, `Oaåw0R†Nê–qS^ysY, nFZ„v»YPRåNÊS¸‹Y^yf„vÍk²N. kO:NOb	g›RÏ‘„vegn, yYS:N`O&^eg›RÏ‘v^.^©R`OŒcácáQºNKNô•„vÌu&^."
+ hindu_events.17.a:0 "5U."
+ hindu_events.18.t:0 ",g'`"
+ hindu_events.18.d:0 "ùRsY^y„v,g(ÛLˆ†N3Nt^„vÆRR¥Qó`ÿO`O³‹Æ‹†Nê6q,g«Ž„v^y'`Prakriti0 `O„v¾|^yNhTôV¯sƒX„v²NŒT›ROvQÖNºNa0R‰RÃ_ÿv^bŸRâVÓu†NºNìN [Root.GetName]."
+ hindu_events.18.a:0 "5U."
+ hindu_events.19.t:0 "ÝO³b^yÐc×k"
+ hindu_events.19.d:0 "[Root.GetName] ltm(WbkpKN-N. LeºN‰‰|Žx`O„výV¶Rv^Sà_ŽNyY„vºN`S.bNzz. ‚Ydkv`LˆÝuNïS¥c×Sÿ `OÃ_-N	g¾–åNŠhˆ„v`kp(WTOwLeºNÃqçp. ÎNvQÖNºNw`O„v<w^yÌ‘, `OåwSdk;R3a`w³QÝu„vêñ]wwegASRïS`.\n\n(WN¶^úR™^-NOo`öe, `Ow0RNSöQ´fïS`„vöeÍkQXÏP. 6qw(W²ÌS¢ur‚„v`<w-N, `Ow0R†NNêñ]«ŽNøv<O„vN‰³Q6q. ck‚YöeÍkÝO³byY„viRPRìNN7h, `OSˆR³b [Root.GetName] „v?QsYìNôv0RÈuÓu."
+ hindu_events.19.a:0 "ÁkmpKNÃ_-N_N	gOwŽ."
+ hindu_events.19.b:0 "bìNSeSLˆLw#, sSO²asTOwce­dÁkmp, FOÙv^N/fb<w-N„vÐc×kKNS."
+ hindu_events.20.t:0 "öeÍk>m"
+ hindu_events.20.d:0 "b‰N6erR†N¸‹YuŒT, FO/f(W`OGÁ‰†NsY^yKNT, `OÑS°sb‰N©‹`Oôf	g›RÏ‘. `OaÆ‹0RupB›KNŽŒT^yfv^N>f2—ŽNY(W„vOÅ–, w/fUS°s(W²q™+TzfgaŒTÇRl„vOˆù‘e‘e„v8ž^."
+ hindu_events.20.a:0 "5U."
+ hindu_events.21.t:0 "ÍS;e"
+ hindu_events.21.d:0 "(W`O³QšR]Üb'`›RsY^y„vöQ´fNb—KNTò]ÏuÇ†Nˆ_•öeô•.  S_öe, [Root.GetName] ØYŽNLe›QµOeuKNN; °s(W, `O„v›Q–_ËYÛ;e. Ïu†S†Nb‰N„v3N¶OKNT, `Oa0RùRÍ‘QXNLu„vÁkmp›RÏ‘	g†Nôfñm„v†Nã‰. `O„v°‹Æ__N©‹`OkPNek_ËY`1t<wMR„vÛ;eLˆ¨R.\n\n`OObáOðN„vÐc×k/f´fÈp„v, FO/f0R`7h„vz¦^ÿ (W¥Qó`-N`1tÁkmpLeºN„vaIN_N¸‹ýw&^egsQŽN:NUOsY^yOce^Šk¡N„v/Tê."
+ hindu_events.21.a:0 "ÖNìN„vöe°0R†N. bìNåN^yKNTÁkmpÙ›Nªv`„v›RÏ‘."
+ hindu_events.21.b:0 "ÖNìN„vOˆSm(WbìNTê1u„vSïN."
+ hindu_events.21.c:0 "°s(WN/f¥Qó`„vöeP. bìN(WSb×N!"
+ hindu_events.22.t:0 "öeÍk"
+ hindu_events.22.d:0 "3Nt^„vÆR—R¥Qó`©‹`Oaåw0R†NöeÍk, Ñžr‚sY^y. &^Ow'`›RsY^yÙ	g›Rwzfga„vNb—, `O—_åN(ukp0qSq=Sªv`v^Í‘QXNLu."
+ hindu_events.22.a:0 "5U."
+ hindu_events.23.t:0 "¦^Ík"
+ hindu_events.23.d:0 "3Nt^„vÆR—R¥Qó`©‹`Oaåw0R†N¦^Ík, 8lR`ÃqçpKNf. LeºNOˆ…n”Nek, w`O„vºNlS—_0Rê1uŒTˆR³b."
+ hindu_events.23.a:0 "5U."
+ hindu_events.24.t:0 "	Tey)YsY, ×kntY„v°eZ"
+ hindu_events.24.d:0 "[From.GetName] „v [From.Monarch.GetName] /f`OObáOûN„v [From.Monarch.GetWomanMan], ÙÍyáOûNNÅNP–ŽN?e»l. `Oñm1r„v4O²OegêTNGrW0W, v^N [From.Monarch.GetTitle] Ïu8^Ùu`O&^egòTfRN„v/Tê.\n\nN)Y, `Ock(W¨‹º‹sQŽN×kntYŒTupB›,g(„vó`Õl. [From.Monarch.GetTitle], N*N'`›RsY^y„vý–w, ÐcúQ`OìNéOý–„v^yfÆRNïSR, 1SÏPN+YN»YPR, wupB›N^yf_N¦N‚Ydk.\n'‚Yœg`Oó`†Nã‰×kntY,' [From.Monarch.GetSheHe] ô‹S, '`OÅ_Š˜ÇÖN„vM‘vP, 	Tey)YsY, egaåwÖN.'"
+ hindu_events.24.a:0 "ck‚Yb„vZZûYTwT†NýV¶R, 	Tey)YsYS©‹b„vupB›ŒT×kntYTwû|(WNw."
+ hindu_events.24.b:0 "bS‰l`sY^yŒTÙÍyTwû|."
+ hindu_events.24.c:0 "1Œ1Œ`O„vú^®‹, FO/fbùR×kntY„výûRN—‰-NËN."
+ hindu_events.25.t:0 "	Tey)YsY/Ob"
+ hindu_events.25.d:0 "Ç×kntY„vM‘vP, 	Tey)YsYÛLˆ„v”Nt^¾|^yýûRã‰_¸‹Y`OþfÆ‰:N^yØy„vŒ˜˜. `O°s(W†Nã‰†N©‹`OŒT1rºNÓuT„v²MOËSºN„va`, åNÊSSupB›ŒT^yf'tÆRÞÓu„vÍ‘‰'`."
+ hindu_events.25.a:0 "5U."
+ hindu_events.26.t:0 "×kntYN	Tey)YsY"
+ hindu_events.26.d:0 "ÏuÇ”Nt^¥Qó`, `1t×kntYŒT	Tey)YsY„vÓuT, `O—_0R†NsY^y„v/Tê. `Oò]ÏuNQSyYÆ‰kO’ZËN, w/fóØšó#W,g«Ž„vNèR."
+ hindu_events.26.a:0 "	Tey)YsY/fóØš^y×kntYÌwT„v›RÏ‘."
+ hindu_events.26.b:0 "	Tey)YsY,g«Žuó…Ç†N×kntY."
+ hindu_events.26.c:0 "bSý–sY^y„vSï, ›RÏ‘KNï."
+ hindu_events.27.t:0 "åwÆ‹„v/Ob"
+ hindu_events.27.d:0 "`OùR—RYewt„výûR__wweg’_³RàeŸR„vÿ<ONN^y'`ŒT`O„v¾|^yNLu9hncXR(W„vŸSR,g«Ž1S/f’Nøv”–»y„vÿ`OTg÷^„vNMO˜î•ÿ$THEOLOGIAN$ûRBlTrHhÿÖNÞVTrô‹ÿ\n"`OOba×S0R„v/ftã‰×kntY„v,rNek0ŒRhQ„vwtŒTbìNXR(W„v°sžRNLu’NøvKNô•/fR”–„v0sQŽNO^y„våwÆ‹Am/ONeg¸‹EN†Nÿ‚Yœg`Oó`åwSÿbïSåNYe`O0"\n\n$THEOLOGIAN$'YÆwhˆ¾†Nó`‰b:NÖN„v†˜;N„v¾|^yüR^ÿÙN>N¨R©‹`OÊ`¶‹ÿFO<ONNÖN/fùR„vÿ`OnxžR—‰NMO¾|^yüR^0"
+ hindu_events.27.a:0 "`Oô‹„vùR. bS¥c×S`OåwÆ‹„vˆ™`."
+ hindu_events.27.b:0 "bST3wfR`N, FON/fT`O."
+ hindu_events.27.c:0 "bSìrêbûRwt."
+ hindu_events.28.t:0 "µh)Y/Ob"
+ hindu_events.28.d:0 "Ç»S„v”Nt^`OfR0R†Nˆ_Y. ¥c×S`O„v˜î•kO:NN^.^©R`OŒcác†N^yfkO:NNupB›R”–„vXR(W, v^©‹`O—_åNåNdk:Nc_¥Q`×kntY. `O_ËYÆQYSdkwt/O¾TÖNºN, ck‚Y`O·ƒ—_ÙN/Ob."
+ hindu_events.28.a:0 "5U."
+ hindu_events.29.t:0 "µh)Y/Ob"
+ hindu_events.29.d:0 "ÒbÝu†NN*NUSìr„vüR^lwT¸‹Y3w÷‹BlupB›c_©‹`O—_åN·ƒ—_¸‹YNTÆ‰Ò‰. 6qw, `O_NaÆ‹0Rtã‰^yf„v,g(/f`7hô•Ý„vNy˜ûN¡R. nxžR, `OïSýw‰wz=Sdku:NdkýûR."
+ hindu_events.29.a:0 "5U."
+ hindu_events.30.t:0 "|iO–W, ×knFZ„vý–w"
+ hindu_events.30.d:0 "`OùR×knFZ„vT†Ú‹v^¡l	g¨YxN'`›R>m„v—RYe¢c¨‹. [From.GetName] „v [From.Monarch.GetTitle] [From.Monarch.GetName] /fnFZ„vý–w, FO_N/fNMOÍ‘‰„vßvËS, gËS, åNÊSüR^. ô‹w×kntY„vNMOý–w, Î˜´fKN^y|iO–W, `OÑS°s [From.Monarch.GetName] ÇnFZaåw0R†NÖN.\n\n[From.Monarch.GetHerHisCap] ùRÙMO^yf„vÏcð/f‚Ydk„vœœ;mwwQ	gup'`, OºNñmáO|iO–W1S/f²MOS—RYeåwÆ‹/O¾ÙuºNŠ|„v^yf."
+ hindu_events.30.a:0 "Ù/fàV:N|iO–W/f×kntYgée„vè•’_."
+ hindu_events.30.b:0 "Nir†v	g#Wup. bT7h‰TnFZ¥Q`."
+ hindu_events.30.c:0 "bˆ_ØštQ [From.Monarch.GetName] ò]Ïub0R†N [From.Monarch.GetHerHis] ^yf, FObÅ_Š˜b0Rbêñ]„v."
+ hindu_events.31.t:0 "|iO–W/Ob"
+ hindu_events.31.d:0 "`O„v¥Qó`NÇ×kntY„vfRu|iO–Weg†Nã‰ÖN†Nã‰„vSÕ‹(WÇ»S”Nt^Ì‘c_†N`O. kO:N×kntY„vý–w, `OûRBl!jÿN|iO–W„vHQ‹Ov^/O­dÖN„våwÆ‹. `OŒTOb	g„vè•’_åNÊSNô•Nir, ý/fÕl›Ràe¹„vóØšó#W, ×kntY„vNèR."
+ hindu_events.31.a:0 "5U."
+ hindu_events.32.t:0 "×kntYNnFZ"
+ hindu_events.32.d:0 "ùR†Nã‰nFZN×kntY„vsQû|„vªR›R.^©R†N`Oã‰³Q¸‹Yî•˜˜. `OSÙMOóØš^yÆ‰kOwQ	gàe¹Õl›R„v^yup, ƒR„v¾|NSsSXR(WŽN`O,gºN„vupB›KN-N, _NXR(WŽNte*NNLu. sSOÖN‚YdkàeYN(WåNóŽN¡l	gN*NTWRýwwckÏcðÖN, `OO6q—‰åNN*Nðy|Tegý–ÖN."
+ hindu_events.32.a:0 "ÖN„vTWRO6q/f×kntY, ck‚Y|iO–WObíc:y„v."
+ hindu_events.32.b:0 "ÖN„vTWR/fnFZ, ‚HŽKN^y."
+ hindu_events.32.c:0 "ÖN„vTWR/fnFZ, ÁkmpKN^y."
+ hindu_events.33.t:0 "ÛV#Wåz"
+ hindu_events.33.d:0 "[Root.GetName] ¡l	gko(WçubºN. ‚Yœgôv0R`OŠkMRý¡l	gçubºNúQ°s, [Root.Monarch.Dynasty.GetName] ùRÙ*NýV¶R„vßu»lïSýwO­eÝu, àVdkçubºNb:N†N‹S(W(W`OÃ_4Y„vNWWè]ów. `OÏk)YýTO^ywyJTHyBlPRãU, v^gÈuBlî•ŽNNMON^, â‹î•:NUO`O„vHyBlÎN*g—_0RÞV”^. ÖNÙu`O²‹†NN*NEe‹N.\n\n'ÎNMR, R/^yµh)YÎNÖN„v«ŽSOÌ‘R/úQ†NÛV*NiRPR, _N1S/fÛV#Wåz, eg/ObÖN„vW¶Nv^.^©RÖN/ir. 6qw, ÛV#WåzÒbÝu†N‚YdkR'Y„vûN¡RwNèlŽNfR`NŒTYeˆc^y#W. å‚^—ÖNìN„vˆRNT†Ú‹, ×kntY„våwÆ‹NïSýwAm/OŽNN:NbìNObåw.\n\n‚Yœg`O^gÖS¦`×kntY, >eN`OÑSêCg›R2kŒT‰w2k„vùRçubºN„v4ngegûRBlwt'T.'"
+ hindu_events.33.a:0 "ÎNÊN_TbSåN¯u¹|KNÃ_.s«ŽŽNN×kntY!"
+ hindu_events.33.b:0 "bSuª_`O„vú^®‹Nµköeô•, FObNýwŠ_•^>e_b„vLw#."
+ hindu_events.33.c:0 "Cg›R/fb„vLw#, ‰w2k/fb„v1ZPN. `O„vÝ‹ëkàeaIN."
+ hindu_events.34.t:0 "Akhanda Brahmacharya"
+ hindu_events.34.d:0 "ÎN`O>e_ýBlPRãUlwˆR•b«ŽŽN/TO–ò]ÏuÇ»S†NkQt^. `OŠkTOÑSuÀNHNO6q¬`w*g³Q, FO`O„vT†Ú‹v^*g¨RGd. púQ†NN*N [Root.Monarch.GetTitle] „våe8^KNT, `Otã‰†N#WåzìNåNÊSÖNìN³QšR/O­d×kntYåwÆ‹„v³QšR."
+ hindu_events.34.a:0 "5U."
+ hindu_events.35.t:0 "#Wåz/Ob"
+ hindu_events.35.d:0 "ˆR-N„v”Nt^¥Q`YeO†N`OsQŽN#Wåz, ×kntY„váOO, „v¸‹YN‰. =S¡r`ONO_NNýw>e_kO:N [Root.GetName] ßu»lw„virí‹ýBl, Ùµköeô•Ø/fÙuˆN†N`OåN„oˆo„v¾|^yÆ‰Î‘Â‰ßRNLu„v:gO. ÙµkSOŒšS4O–`OÊNTkO:N [Root.Monarch.GetTitle] „vÏkN)Y."
+ hindu_events.35.a:0 "5U."
+ hindu_events.36.t:0 "bìNSïN„vœ–x"
+ hindu_events.36.d:0 "(W`O„vßu»lN, [Root.Capital.GetCapitalName] 1–˜wúQb:N†Nz‚/gŒTÑyfR„vv˜ðS, ø‹»ýV¡s‚„vùRaŒ. [Root.GetName] TvQÖNýV¶RUS°s†N_åwÆ‹ŒTR°e„vSï. 1kœU)YÍ‘Æ‰zfga, ƒRˆ_#kO`O„výV¶R(WýûRzfga„vSïNZPúQ„vªR›R.\n\n6qw, –Ow`O„vÛek, `OÑS°sxvzG0R†NŠegŠ„vœ–x. `ONbkN!k’QúQÙ7h„võ_4Y, b¸‹1kœU)YkO:NR/ŒTlûyÙ*NNLu„vœ–x'`‰/t„v^yf, NÅN(W`O„vxvz-N.^©R`O, Töe_NO R'Y`Oxvz„v¾–¦^."
+ hindu_events.36.a:0 "bÅ_Š˜±‚öeô•egtã‰vQ-Nñma."
+ hindu_events.36.b:0 "bìNv^N/fÇzz`¥Qó`eg¾bÑyb†˜HQ„v!"
+ hindu_events.37.t:0 "1kœU)Y"
+ hindu_events.37.d:0 "ÏuÇ†N”Nt^ùR3wW„kO, _NfN, åNÊSÑyfR¶RŒT×‹ºNìN„vfNM|„vxû‹, `O_ËY†Nã‰1kœU)Y:N`O„vÑyfRxvz¾‹nœ–x„v¨R:g. [Root.GetName] „v†˜HQ©‹yY„v¾|ñ‚ìN, Sìb`Oêñ], ØS—_êwEm„…. `O°s(WaÆ‹0R†Nwck„vzfga—‰&Œ. °s(W, Ç»S„vðV¾–åNÊS_üR`OpTÙNzfga„vcbýò]«ˆ`O)u(W«ŽT."
+ hindu_events.37.a:0 "5U."
+ hindu_events.38.t:0 "1kœU)Y„vÞ‹°"
+ hindu_events.38.d:0 "`OkO:NN*NùR1kœU)Y…áQT†Ú‹„v [Root.Monarch.GetTitle] „vTðXéeò]Ü­d [Root.GetName] „výVƒX¿uKNY, `OÑS°s¸‹YºN^g`O(WlQ_:WThˆ¾ÙÍyT†Ú‹.\n\n1kœU)Y„vÞ‹°N,‚/f(WËycR†^]y„v, –OwåePR„v4NÑ, `O_ËYÉ‰—_>NLˆN*NìSÆ–egê [Root.GetName] T0WºNl„v>NN©wîv„vÛvxQbwO/fN*NÇáOðNŒTmyxQSºNlTwTweg„vÝusO:gO."
+ hindu_events.38.a:0 "[Root.Monarch.Dynasty.GetName] ¶RÏeùR1kœU)Y„vT†Ú‹Å_Š˜©‹Ob	gºNýw0R!"
+ hindu_events.38.a.tt:0 "myxQS«ˆ¥Y„U‰R’cv^(WN*NgT>NLˆ."
+ hindu_events.38.b:0 "bìNùR1kœU)Y„vý–O6q/f¶RÏe…Qè‹Nir."
+ hindu_events.39.t:0 "1kœU)YÞ‹°‚‚"
+ hindu_events.39.d:0 "ÊN)Y, `OSÞVó`1kœU)YÞ‹°„vEe‹N, ÞVó`1kœU)YKNÍkê–qS^ysY/f`7hR/†NƒR, `7hSƒR6r²NnFZ„v'YaŒ„v4YKˆN†NƒR. ÊN)YFO`Ov^N/fdR«ŽNºN. ÊN)Y, Ù*NEe‹N(Wte*N [Root.Capital.GetCapitalName]åNÊS [Root.GetName] T0W«ˆÍSY„v/O‚˜Ow. ¸‹Y1kœU)Y„vÕ–QXO(WÊN)Y«ˆícU^. ºNìN_NR«NOw«ƒ¾KQ, 1kœU)YOb1r„vu¹p. kO:N_ïzKN^y, 1kœU)Y>f6q:N [Root.GetName] íc_†N°e„vNU^."
+ hindu_events.39.a:0 "cƒw†vR_ŽN1kœU)Y!"
+ hindu_events.40.t:0 "«ŽT‹N"
+ hindu_events.40.d:0 "(Wý–R`³lsY^y„vNu-N, `OÁ‰ÇpeNn„vŠk¡N, Ïu†SÇàepe„vl„<y. 	göel„<y-NOO(uegê#W³l(R`³l)„v4l. `Oò]Ïu;m†Nˆ_EN†N, 0R†N`O_ËYwQ†êñ]'YP–„vöeP, wQ†	gN)Y`O„v«ŽSOOŠk¡NwupB›OGSeQ)YýV.\n\n`O^gêñ]ýwŠk(WR`³l¸S¹, `—ÑR`³lsY^y. 6qw, áQºNàeÕl„˜åwêñ]„vŠkg, ObåN`OêSýw‚YdkggOw0 FO`OóS^gÇS¨špp’deQR`³leg·ƒ—_QeN, ©‹R`³lsY^yïSåN(WŠkT„vNLuçuíuQO³b`O, N‚Y`Ouöe."
+ hindu_events.40.a:0 "bgŒYZP›NÆQY, Ù7hb„v²N^SåwSb„vW?a."
+ hindu_events.40.b:0 "l„<yÿ bØýw;m¸‹Yt^!"
+ hindu_events.41.t:0 "R`³ll„<y"
+ hindu_events.41.d:0 "[Root.GetName]„vMRãNßu»lw, R`³lsY^y„vý–wNENMR»S†N. l„êNKNT, [Root.Heir.GetHerHisCap] ¨šppŒT’deQ#W³l(R`³l)„vW?a«ˆNwYuÙu†N`O.\n\n=S¡rbìNSR`³lsY^yÆ‰kOgØšsY^y, R`³lv^NzÇ [Root.GetName]. S¨špp_R`³lO±‚9N›Nöeô•, FOÙ_NS/f`O RñmùRR`³lsY^y†Nã‰„vN*N:gO."
+ hindu_events.41.a:0 "bS²NêMR_R`³lg#W, åNnxÝO¨špp‰RhQ0R¾."
+ hindu_events.41.a.tt:0 "[Root.Monarch.GetName] S²NêMR_R`³l."
+ hindu_events.41.b:0 "S¨špp’deQ4NÑ„v³lAm, b	gôfÍ‘‰„v‹NÅ`»SZP."
+ hindu_events.42.t:0 "R`³ll„<y"
+ hindu_events.42.d:0 "Root.GetName]„vMRãNßu»lw, R`³lsY^y„vý–wNENMR»S†N. l„êNKNT, [Root.Heir.GetHerHisCap] ¨šppŒT’deQ#W³l(R`³l)„vW?a«ˆNwYuÙu†N`O.\n\n[Root.GetName] „vW0WNôv×S0RÎN-NzÇ„v#W³l„vi`P, àVdkÙv^N/fN*Np‚¾–„vûN¡R. 6qw, l„<yO6qO±‚9N›Nöeô•, ©‹`ON—_N‚föe»y_kO:N [Root.Monarch.GetTitle] „vLw#."
+ hindu_events.42.a:0 "Ù/fN*NbûRsY^y„vŒY:gO."
+ hindu_events.42.a.tt:0 "[Root.Monarch.GetName] S²NêMR_R`³l."
+ hindu_events.42.b:0 "b¡l	göeô•egÀT3O."
+ hindu_events.43.t:0 "R`³lsY^y"
+ hindu_events.43.d:0 "0R¾R`³l¸S¹„vöeP, `Oa0R†NNÍy¥Q¥Q)Ya. –Ow`OgcOw¨špppeQ4l-N, `Ow0R†N«Ž¹„vR`³l4lzÇ	N*NNLu, w0R†NâlTW(0WNNLu)„vÑž—fŒTSvarga()YNNLu)„vŽ=N.\n\nâe6qR`³lsY^yþfÏuM–Nv^åNR`³lPyNLu, `OMRûN„vupB›Å_šR_NSGSeQ)YýV. `Oa0RNÍyÎN*g	gÇ„vNsY^yŒT#W³l„v'tÆRÞÓu, HywyOwêñ]S(WÙ^y#W„v³l¸SNpTdku„vÈuÓu."
+ hindu_events.43.a:0 "5U."
+ hindu_events.44.t:0 "*Y3–^y™^"
+ hindu_events.44.d:0 "Ï‚)R6wNQÏPS_R²HN×S0R]Üb. SÖNÆ‰kOóØšó#W„v*Y3–>m(Wte*NpS¦^„v/O­dÎN*g‚YdkËQö–. ¸‹YmyÜbÖN„v™^‡R«ˆgdÁkbŸ^_. N/fÏk*Nßu»lwýÏP`ON7hÝOcOwùRÏ‚)R6w„vT†Ú‹„v, v^NvQÖNáOðN„v_ïzìN±‚9†N'YÏ‘„v›RlegÆbÁkÙ›N^SŽNóØšKNIQ„vgT!X’W.\n\n6qw, (W [Root.Capital.GetCapitalName] Ï‚)R6w„v^y™^O6qØšØš8wËzOw. (W`Of‹’‘„vîvIQN, _N(WÆRYW, O|iÿb, ŒT?–w<S„vQO³bN, ƒRS8lNw–=„. vQÖN*Y3–^y™^„vŒTÐùR`Oegô‹/fN*Nf‹JT, `OwQ†Ow(Wôu³b^y™^N±‚9ôfY„vöeô•ŒTÑ‘±”."
+ hindu_events.44.a:0 "‚YœgÏ‚)R6wO—‰b„vÝ‹, ²HNÅ_šR/fdköedk;R."
+ hindu_events.44.b:0 "êS‰ [Root.Capital.GetCapitalName] Ø(Wb„vßu»lKNN, ^y™^NO	g‹N„v..."
+ hindu_events.45.t:0 "Ï‚)R6w"
+ hindu_events.45.d:0 "Ñvcw [Root.Capital.GetCapitalName] „v*Y3–^y™^„vôu³b„vTöe, `O_N(W^y™^Ì‘ÛLˆwyJTŒT¥Qó`. `Oôu³bÙ¶^Ï‚)R6wO'Y0N‘x„v³QÃ__Nôf:_†N. `OSgq˜ [Root.GetName], 1SÏPÏ‚)R6wgq˜`ON7h. ûNUOSÕ‹gdÁkó`gdÁk^y™^„vºNýS«ˆ`O„v3akp¹pÃq, N‚Y*Y3–gqw'Y0W."
+ hindu_events.45.a:0 "5U."
+ hindu_events.46.t:0 "cR‚‚ØSbc"
+ hindu_events.46.d:0 "ÒR¬QsSSÓu_g. Ï‚)R6wck(W‰clÖN„vbfv^S–f%f&^T [Root.GetName]. N,‚egô‹, Ï‚)R6w„vT†Ú‹áO’_ìNO(W¶R-NÛLˆN›NrUS„vêN_egÛLˆ†^]y. FO/f(W [Root.Capital.GetCapitalName] „v*Y3–^y™^—_0RîO.KNT, ŠegŠY„vºN_ËY(W²Ì‘GlZw. ÙïSýw/fN*NåNôf'Y‹W„vmyxQegmyÜbóØšKNIQ„vÝusO„v:gO."
+ hindu_events.46.a:0 "©‹bìN1kÎOb	g*Y3–^yáO’_MReg [Root.Capital.GetCapitalName], Ï‚)R6wKNaN!"
+ hindu_events.46.a.tt:0 "myxQS«ˆ¥Y„U‰R’cv^(WN*NgT>NLˆ."
+ hindu_events.46.b:0 "Ø	g¸‹YS„v^y™^ïSåN›OÖNìNmyÜb."
+ hindu_events.47.t:0 "*Y3–‚‚"
+ hindu_events.47.d:0 "(u+t Q±‚öSltmÀQ«ŽKNT, `OekpeQ [Root.Capital.GetCapitalName] „v*Y3–^y™^0egê [Root.GetName] hQýVT0WMRegÂ‰<ymyxQ„vºNìN&^eg†N4l0œœ±‚åNÊS4lœg0T†Ú‹„váO’_ìN(WNè•Åˆp™Ç„vÏ‚)R6wüf6ƒWN'tÆRTwÓu, qQT‰lxm(WùR*Y3–^y„v]ÜbåNÊSùRÒR¬QQ!kÜ»S„v1kPN-N0"
+ hindu_events.47.a:0 "^Ž*Y3–!"
+ hindu_events.48.t:0 "Ï‚)R6wKNPR"
+ hindu_events.48.d:0 "[Root.GetName] ò]Ïu	gNµköeô•:SçubºN†N. [Root.Monarch.Dynasty.GetName] „v¸‹YbXT_ËYÅbç_. NMOOˆßu¯uck„vlQ;NgÑuN†NN*N,gïSb:N,rNçubºN„viRPR. î•˜˜/flQ;N,gºNvQžRS*gZZM‘.\n\n6qw, kO:N¾|0idÃ‹FZWY0xQEe„v‡v³R, lQ;NÍ‘ð†NO'YýV‹sæS³u„vÍk²NåNYsYKN«Ž×SURŽNÏ‚)R6w,gSw©‹ÖNÞ‹uŽNN„vEe‹N. lQ;Nã‰Ê‘ô‹yY_NfROv^O(u†N²MO/Oô‹-N„vlQ;N(uåN×SURŽN^y„vüf`W, Ù*NiRPR/f*Y3–KNPR, ŒT-NèlšRSYu³‚ŽNN."
+ hindu_events.48.a:0 "Ï‚)R6wò]PyŽNbìN! Ù/f*Y3–‹sg„v_ïz."
+ hindu_events.48.b:0 "YsYuPRÿ `OØ/f»SßúWcw’_ìNô‹`O„vEe‹N'T."
+ hindu_events.49.t:0 "ô]Éb"
+ hindu_events.49.d:0 "`O„výV¶RckYŽNb‰N-N, wùRŽNNMO [Root.Monarch.GetTitle] egô‹, b‰N/f¶R­^î•˜˜. `O„v?QPR, [Root.Heir.GetName] ò]Ïu«ˆûNŒT:NS›Q, v^S‡s†˜ [Root.GetAdjective] ›Q–pTÜw)R. `O„vsY?Q_N_ËYùRb‰Nhˆ°súQSmšS„vtQ², (WyY„v—RYefR`NKNY_N_ËYxvzb‰N.\n\nN)YZfN, NMON^ck(W²‹ðBala Tripurasundari„vEe‹N. ²MOsY^yúQŽNŒYGY, þfNyY„vDQ_ìNv^©wkOb. `O„vsY?Q(WFw,T-N«ˆñmñm8T_OO†N, †Nã‰0R†NBala„vÍk²NþfÏu`7hN!kÈSN!k„vÆ‰þV‘b6RyYÂS Rb‰N„v?ag. S_yYgÈu³QšReg0R`Ob—MR„vöeP, `Oò]ÏufŒv†NyYS‰ZPúQ„v÷‹Bl."
+ hindu_events.49.a:0 "»S'T! &^OwsY^y„vzfga, ©‹ [Root.GetName] „vLeºNìN(W`Ob—MRbh'T."
+ hindu_events.49.b:0 "t^ŠºN„vtQ²”^å‹«ˆ_üRTR/ŒTs^w^—ÑSwb‰N."
+ hindu_events.50.t:0 "N^„v¥Qó`"
+ hindu_events.50.d:0 "[Root.Monarch.GetTitle] ŒTnfºNN7hÅ_Š˜öe8^OV^y#WüR^„vzfga. NMON^NÅN/fNMOw^, _N/fN*N¾|^yN„vfRu, àVw	göe—‰ÞV0RN×Sr^pb„v¯sƒX-NÛLˆÍS`. NMO [Root.Monarch.Dynasty.GetName] ¶RÏeY	gOVv^NP×SºNìNSle„vN^gÑØS—_g:NñmESrúQ, SàQNNOb	g„vöeô•ý±‚(W¥Qó`N. ÷^ãìNŒTºNlýØS—_N‰R, ³‹:NÙ/fN*Nß|Õ|„vùaŒ."
+ hindu_events.50.a:0 ">f6q/f*NêbžR°s„ví‹Š..."
+ hindu_events.50.a.tt:0 "¹pûQ/Ÿhæ].•çuíu."

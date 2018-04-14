@@ -1,0 +1,65 @@
+﻿l_english:
+ guru_angad:0 "Hh=OO–N^"
+ desc_guru_angad:0 "ÙMO!•KQYeN^ck(W/O­däSSFzúW‡e,ÃOÛYe²w."
+ guru_amar_das:0 "?–idWjZN^"
+ desc_guru_amar_das:0 "ÙMO!•KQYeN^>múQ†NT:NidQh·_„v0W¹eãNhˆ/O­dáOðNÊS_üR!•KQYe’_."
+ guru_ram_das:0 "Ý„jZN^"
+ desc_guru_ram_das:0 "ÙMO!•KQYeN^ck(W„gú^>yOSOû|ÊS:N—RYe-NÃ_`YúW."
+ guru_arjan:0 "?–ìeN^"
+ desc_guru_arjan:0 "ÙMO!•KQYeN^ck(WfN™Q<hpQ¯e™l^/O,Ù/fNÍy6eU_†NHQ3NvQÖNN^—RYeåwÆ‹„v‡eÆ–."
+ guru_hargobind:0 "=Oa¾RN^"
+ desc_guru_hargobind:0 "ÙMO!•KQYeN^_ËYfkÅˆÖN„vý–wìNv^N­‹ÃuÖNìNkOb."
+ guru_har_rai:0 "=OWN^"
+ desc_guru_har_rai:0 "ÙMO!•KQYeN^l_l_	g<yÅd•Y³N,ûRBlŒTs^„vã‰³Q¹e_v^(ŒNa0W¥YOSW„êñ]„váOðN."
+ guru_har_krishan:0 "=OñOéT‚N^"
+ desc_guru_har_krishan:0 "ÙMO!•KQYeN^(WYt—RYeY³Nî•˜˜N*YÇt^Š†N."
+ guru_tegh_bahadur:0 "Œ=OFZzN^"
+ desc_guru_tegh_bahadur:0 "ÙMO!•KQYeN^ZWšRÍSùRpS¦^Ye’_„v—RYeë³R."
+ guru_gobind_singh:0 "a¾RçP=ON^"
+ desc_guru_gobind_singh:0 "ÙMO!•KQYeN^ck(W:NaSS™lYeâV`YúWÿS!•KQYe’_âVÓuwegv^OÖNìNÆQYŒY:NÍS—b‹Së.s«Ž."
+ save_the_burning_world_title:0 "ïbQeÙ*NÃqçp„vNLu"
+ save_the_burning_world_desc:0 "bìN„váOðN:N(WÙ*NNŒ„vNLu-NûRBl'YTwuÿv^NZWáOW„^y/fÌQšŽNNô•„v—RYeRgkKNN„v. FO/fÿ‚YœgbìNó`‰QbmpÙNô•„vŸSjKNkpÿbìN—‰ZWáOwt„vºN."
+ saving_the_burning_world:0 "ckïbQeW„Ù*NÃqçp„vNLu"
+ desc_saving_the_burning_world:0 "bìNS9hd–Nô•jv`Æ‰:Nñ]ûNÿ:NOuc_wtKNïÿsSOÙasTW„‰’Q¯rvQÖNáOðN."
+ sikhism_flavor.1.t:0 "!•KQYeáOðN"
+ sikhism_flavor.1.d:0 "[Root.GetName]PW=„(WpS¦^Ye’_ŒTO¯epQYe’_ZwES:SKNô•.(WÙ*N—RYeb_¿R%NûSYBg„v0W¹e,NMOTëSÿb²KQ„v7uºN_ËY^Sÿ²RðyNô•âeàepS¦^Ye’_ÿ_N¡l	gFz¯e—g, wtêS:NN^Ob	g,wÖNâe^—pS¦^Ye’_ÿ_N^—Fz¯e—g.\n\nŒ†6qÖNùRäSw`N×O„v’c¥eO—_ [Root.Religion.GetName]„váO’_ìN_8^3a`, ÿb²KQùRŽNÍyÓY6R¦^„vàeÆ‰`¦^ŒTÖNRËz„váOagÍN6qOÖN„vYeüR(WlO-NNb†N9h. ÖN„váO’_ìN«ˆðy:N!•KQYe’_ÿÖNìNÅSÙÍy°e„váOðN/OM†N[Root.GetName]."
+ sikhism_flavor.1.a:0 "bìN—‰b0RÙ*Nÿb²KQÿŒTÖNŒŒsQŽN[Root.Owner.Religion.GetName]„váOðN„vî•˜˜."
+ sikhism_flavor.2.t:0 "Hh=OO–N^"
+ sikhism_flavor.2.d:0 "'Šk¡NN”^å‹«ˆðy:NOW‹NÿºNìNêTÿ‚YœgN*NºNåwS‚YUOwck0WŠk»S.'\n\nbìNáOðN„vRËYºN»SN†N. ÿb²KQN^„v‰wSOŠk»S†N, FOÖN„v¾|^yXR(WŽNÖN„vçubºNHh=OO–N^«ŽN.Hh=OO–/fÿb²KQgà_žR„vý–wÿÉycW„ÖN„vW×_ÿú^Ëz!•KQYe>y:Sÿ/O­d°eWRÍkhˆ„vO(uÿåNdkÃOÛt^ŠºN„vYe²w."
+ sikhism_flavor.2.a:0 "N^„vIQ’‚8lÜc_W„MRï."
+ sikhism_flavor.3.t:0 "?–idWjZN^"
+ sikhism_flavor.3.d:0 "Hh=OO–N^»SN†NÿŠbN^„vMOn/OÙu†NÖNà_žR„vÆNºN?–idWjZN^. =S¡r?–idWjZN^/fN*NgvQ&ŒQS„vºNÿ6qwÖNtS	gW„S!•KQYeÑSlbIQ'Y„vÎ‘Ã_, ÖN:_S†N	gsQOus^Ir0WYeINÿÙO—_ƒR×S0R†NôfYnfºN„v1kÎÿÖNØ¾‹Ëz†NT:NidQh·_„v—RYeãNhˆ, ObìN„vYeIN/O­d—_ÔkN^QRSRNºNöeÜ—_Y."
+ sikhism_flavor.3.a:0 "bìN„vN^/f1_w„vÝO³b^yŒTtY¶–„vã‰>ew!"
+ sikhism_flavor.4.t:0 "Ý„jZN^"
+ sikhism_flavor.4.d:0 "?–idWjZN^»yN†NÿSN^„vMOn/OÙu†NÖN„váO’_0sYZpgTX,sS°s(WºNìNObåw„vÝ„jZN^. ÖNcwÃO†NbìN^y#WÎW^„vçuíuú^¾‹ÿv^NŸ±RÖN„vý–wìNNÅNÎNdRìr„v¥Q`-Nÿ_NÇïygÂSN0R>y:SŒT!•KQYeËSìN„v;m¨R-NŸ`S."
+ sikhism_flavor.4.a:0 "b„vN^/fw^y„vÆNºNÿwbìN/fN^„vÆNºN."
+ sikhism_flavor.5.t:0 "?–ìeN^"
+ sikhism_flavor.5.d:0 "?–idWjZN^WÂRT,ÖN„vS?QPR?–ìe«ˆ	kONNûNN^ÿw^—ÖN„våTåT. :N†NÝOXRHQ#WìN„våwÆ‹N,?–ìe_ËY‚u™pºNãS„vÏufNkOÁTÆ–,gRÏu.Ùè‡eSè]W„ZwÆ–†N¸‹YüR^NN^ìN„vÃ_OˆÿŒRbƒR„vûN¡R«ˆRM‘N»Sÿˆ_YºNý	gD<hÂSNvQ-N.ÖNØîOú^†NN¶^RO„vúR™^,,gÈTüfêSúR,:NhQè„v!•KQYe’_Ðc›O†NÆ–ON<yÜb„v:WOb."
+ sikhism_flavor.5.a:0 "bìN”^å‹ÝO³bŒYbìN„våwÆ‹ÿåNdkSbìN„v‹NNÑSlbIQ'Y."
+ sikhism_flavor.6.t:0 "=Oa¾RN^"
+ sikhism_flavor.6.d:0 "'1SŒYÔkbOcŽxÙ›N`O&^Ùub„vmq„N7h,`O„v?QPR_N‰OcŽxÖN„vLeºNìN„v4Y…˜,Ù7hÖN1SïSåNb:NNTO'Y„vÇRëXŒTNMOØšS„vN^.'\n\n=Oa¾RN^„vçubºNÿHQåwô]^jO‚Y/fô‹.öeãNØS†Nÿ!•KQYe’_ìNNQŠáOÖNìN„vLeºNìNO`	gÁNHa,w/fŠbêñ]fkÅˆ†NwegÿùR—b²›NSb—r`SOgN^ÊSvQáO’_„vLeºNìN."
+ sikhism_flavor.6.a:0 "RQR”^å‹ÖSãNN^„v‹s Q."
+ sikhism_flavor.7.t:0 "=OWN^"
+ sikhism_flavor.7.d:0 "=Oa¾RN^„vYRPR,=OW,NôvåNeg«ˆÖN„v7r7rkO:NçubºNùWŠQÿÆQYW„¥cÇN^„vcˆ•Q,‚YÊNöe:gò]0R. =S¡rMRûNc:yÖNZWcfkÅˆ—e‰N„vSïÿÝOcfkÅˆ›RÏ‘„vú^¾‹ÿ=OWN^„vOea'`<hŒTÖNùROu„vZS1rÃOOÖNûRBlY³N„vã‰³Q¹e_."
+ sikhism_flavor.7.a:0 "b‰N0Rdk:Nbk'T; ‚YÊN0R†NîOŠQuo`„vöeP†N."
+ sikhism_flavor.8.t:0 "=OñOéT‚N^"
+ sikhism_flavor.8.d:0 "=OWN^»SN†N,YuN†NNMO^—8^t^Š„vçubºNbvQcˆµ”. ÔkwÖN²*NŠbY³NžR(u;NINw—_ÔkáOðN„và_Ø‰Í‘‰„våTåTÿ=OñOéT‚/fN*Nôf:NT„vP	ºN. =S¡rbìN„vN^v^N:ONT†Ú‹ŒT„Uo‚ÿFOÖNÅN	g4SÿÙ'Y'Y0WP–6R†NbìN„vY³N	éb."
+ sikhism_flavor.8.a:0 "bìN„vN^ÍN/fbìN„vyR."
+ sikhism_flavor.9.t:0 "Œ=OFZzN^"
+ sikhism_flavor.9.d:0 "t^Š„v=OñOéT‚N^Nx^»SN†N. Ïu†S†NNû|RsQŽNŒ/fçubºN„v‘u‘NT, Œ=OFZzN^«ˆ	kO†NN^. gRÖN/fNT–ëXÿFOÖNˆ_ë_0W-]2—4YÒ‰, Á‹f†Nêñ]/fNMOZWšRœg³Q„v†˜–ˆ. =S¡rÖNÒbÝuNRAu‡e‚‚, ÖNÍN6qÇ‘ÖS†NNû|R‰RhQªcÌeNÅNÅN:N†NÝO³bÖNêñ]„váO’_,_N:N†NÝO³b²›N:N²Ž—RYeë³Rw0RbìN†˜W„vpS¦^Ye’_ìN."
+ sikhism_flavor.9.a:0 "bìN„vN^/fNMOwck„v‹swÿ/fOb	g×Së³Rw„vÝO³b^y."
+ sikhism_flavor.10.t:0 "a¾RçP=ON^"
+ sikhism_flavor.10.d:0 "–W„Œ=OFZzN^„vÙN,!•KQYe’_ìNN—_NÈSN!kôvb—?e»lN—RYeNOYLeºN„vLea.ÖN„v?QPRa¾RWNšR³QÃ_âVÓuOb	g!•KQYe’_ÿZwÆ–w²›N?aa:N†NÖNìN„vN^.súQuŒT„váO’_. ¥cNeg„vàQASt^Ì‘bìNÁ‰Á‹†NÈTS(„„vÞ‹uÿÙ/f1uN^P1uêN_/OˆcÙubìN„váOðN0a¾RW(WòSfN-N«ˆðykOa¾RçP=ON^."
+ sikhism_flavor.10.a:0 "ÈTS(„^SŽNw^yÿÜw)R^SŽNw^y!"
+ sikhism_flavor.11.t:0 "<hpQyr›<hN^"
+ sikhism_flavor.11.d:0 "a¾RçP=ON^»SN†N, SN^KNMO/OÙu†N8luKNºN. #WxQ«ˆ6eÆ–tetÿb:N†NW„T„v,gRÏu,?–ìeN^R/†NƒRÿÖN„vçubwìNŒR„U†NÖN,<hpQyr›<hN^«ˆa¾RçP=ON^6RšR:N!•KQN^„vgÈuçubºN.ÎNdkåNT,!•KQYe’_ìNTN^ObÐcúQ„vûNUOî•˜˜ÿýïSåNÎN,gRÏuÌ‘b—ûRb0RTrHh."
+ sikhism_flavor.11.a:0 "²›Nó`‰ûRbw^y„vºNÿïSåN(WÏufN„vWRÌ‘Lˆô•-NûRb0RÖN."
+ sikhism_flavor.11.b:0 "The Guru is the Fulfiller of the desires of the mind."
+ sikhism_flavor.12.t:0 "NQ	gN^†N"
+ sikhism_flavor.12.d:0 "[Root.GetName] °s(W/fN*N[Root.Religion.GetName] 0W:S.bìNNQðy|Têñ]/f!•KQYe’_†N,v^NR­e†NN!•KQYeN^„vTwû|."
+ sikhism_flavor.12.a:0 "°s(W [Root.Religion.GetName] „vSïOc_bìN."
+ sikhism_flavor.13.t:1 "Guru in [Root.GetName]"
+ sikhism_flavor.13.d:0 "N*N«ˆºNìNðykON^„vºN0R¾†N [Root.GetName]. ÖN²Rðyêñ]×S0R†N^yup„v/T:y, «ˆ)YX_üROwÿÎNÖN„v¶RaNÅeLˆ0ReÜ„v0W¹e,/O­dOw/UNw^y„vèea.\n\nÖN„vè•’_ìNZWðyw^y„vèeaÇOb	g„v—RYeáOðN/O¾,Sìb [Root.Owner.Religion.GetName], v^N©ðyÿb²KQã‰Ê‘†NbìNáOðN„vwøv. 6qwÿëkàe‘uî•ÿÙ›NYeINÒbÝubìN„vêN_ŒT/OßuÿOºNOP»y†N [Root.Owner.Religion.GetName]„vcknxSï."
+ sikhism_flavor.13.dnanaknolonger:0 "A man who some call a guru has arrived in [Root.GetName]. He claims to have received a revelation, being called by Heaven to travel from his home to distant lands, spreading the message of the one true God.\n\nHis local disciples insist that this God is revealed through all religions, including [Root.Owner.Religion.GetName], and defends him as simply revealing the truths in our own faith. However, there is no question that these teachings reject our rituals and traditions, making people stray from the true path of [Root.Owner.Religion.GetName]."
+ sikhism_flavor.13.a:0 "êS‰ÖNìNØçuíu³Nzÿ¡rÖNìNáOðNÀNHNbT."
+ sikhism_flavor.13.b:1 "Get this man out of [Root.GetName]!"

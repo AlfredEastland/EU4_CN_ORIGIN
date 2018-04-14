@@ -1,0 +1,415 @@
+﻿l_english:
+###############################################
+#
+# aow_l_english.yml
+#
+###############################################
+# prices.5.d:1 "Originally a drink largely associated with the Muslim world, coffee has become more and more commonplace even among the Christians in Europe. In an increasingly interconnected world acquiring anything, including coffee is no longer quite as hard as it once was. As a result, coffeehouses are increasingly being established in Europe and the exotic beans are in increasing demand."
+# desc_per_mushashaiya:1 "The militant Musha'sha'iyyah sect has taken hold of this province, leading to unrest and social instability."
+# desc_per_safawiya:1 "The militant Safawiyyah order has taken hold of this province and many of its inhabitants long to join up with their members of faith."
+# flavor_ori.10.d:1 "Up until now Sanskrit has been the only language of literature in Orissa, with the colloquial Oriya language being reserved for the Shudras and lower castes. Sarala Das, a retired soldier with little formal education has begun to change this, however, by translating the Mahabharata into Oriya. Sarala Das' original work is also exclusively in Oriya and other poets have now begun to take up this practice."
+
+###############################################
+#
+# areas_regions_l_english.yml
+#
+###############################################
+ north_kurdistan_area:1 "库尔德斯坦"
+# hudavendigar_area_name:1 "Bursa"
+# hudavendigar_area_adj:1 "Bursan"
+# kastamonu_area:1 "Karadeniz"
+ yemen_area:1 "下也门"
+
+###############################################
+#
+# core_l_english.yml
+#
+###############################################
+# EXPENSEAM:1 "Army Maintenance"
+# EXPENSEFM:1 "Fleet Maintenance"
+# PIETY_DESCRIPTION:1 "Piety represents the type of religious devotion that your ruler promotes within your nation. It is measured on a scale between -100 (§YMysticism§!) and 100 (§YLegalism§!).\nThe piety of your ruler is affected by various actions you can take. Event options will move your position on the scale as will declaring war on infidels (Increase), brothers in faith (Decrease) or succesfully converting provinces (Increase)."
+# PIETY_DESCRIPTION_ESTATES:1 "\nThe type of piety of your ruler will influence the loyalty of your Estates."
+# PATRIARCH_DESCRIPTION:1 "Patriarch Authority represents the level of influence that the Orthodox Church has on the nation. In Orthodox provinces, high Patriarch Authority will decrease local unrest and increase the number of recruits joining the army."
+# MAPMODE_PATRIARCHS_DESC:1 "This displays states with Consecrated Metropolitans. Yellow states have a Metropolitan, green states can be assigned one, and red states cannot have a Metropolitan."
+# FE_HOTJOIN_DESC:1 "Enables or disables the ability for other players to join the game after it starts. This option can also be changed in-game."
+# FE_COOP_DESC:1 "Enables or disables the ability for several players to manage the same country simultaneously. This option can also be changed in-game."
+# SAVEGAME_WARNING_OLD_VERSION_DESC:1 "The loaded savegame $NAME$ is from a different version of EU4.\n\n This can cause problems in the game and §Rcan potentially ruin Ironman saves§!.\nGames with Random New World are especially fragile.\n\nSaving again, closing the game and reloading may help."
+
+###############################################
+#
+# cossacks_l_english.yml
+#
+###############################################
+# MAJOR_DLCS_NOT_IN_SAVE:1 "§Y- One or more DLCs have now been toggled that were previously enabled or disabled in the savegame.§!"
+
+###############################################
+#
+# countries_l_english.yml
+#
+###############################################
+ ADE:1 "亚丁"
+ KOK:1 "费尔干纳"
+ ADE_ADJ:1 "亚丁"
+ KOK_ADJ:1 "费尔干纳"
+ TAB:1 "马赞德兰"
+ TAB_ADJ:1 "马赞德兰"
+# BHT:1 "Soran"
+# BHT_ADJ:1 "Sorani"
+# RAS:1 "Rassids"
+
+###############################################
+#
+# cradle_of_civilization_l_english.yml
+#
+###############################################
+# hanbali_school:1 "Hanbali"
+# hanbali_school_desc:1 "The Hanbali Madhab is named after Ahmad ibn Hanbal, and champions withholding from any speculative theology, Kalam. Hanbalis maintain that the Quran and Sunnah are the only proper sources of jurisprudence and that they should be interpreted in a literal and traditionalist sense. Though it is accepted as a valid Madhab very few states actively promote the Hanbali school, and it was banned by the Abbasid Caliphs."
+
+###############################################
+#
+# decisions_l_english.yml
+#
+###############################################
+# recognization_of_eastern_power_north_desc:1 "By our territorial conquests we have proven to our Western neighbors that we are a powerful force to be reckoned with on the field of battle. With our political influence growing daily in the major courts of Europe, it would therefore behove us to take a more Western oriented approach to our culture, economy and politics, as we come into increasing contact with our new neighbors."
+# recognization_of_eastern_power_south_desc:1 "By our territorial conquests we have proven to our Western neighbors that we are a powerful force to be reckoned with on the field of battle. With our political influence growing daily in the major courts of Europe, it would therefore behove us to take a more Western oriented approach to our culture, economy and politics, as we come into increasing contact with our new neighbors."
+
+###############################################
+#
+# diplomacy_l_english.yml
+#
+###############################################
+# PEACE_EFFECTS_BADBOY:1 "With $THE$$CASUS$ Casus Belli, $ACTIVE$ suffers a base of $BADBOY$ Aggressive Expansion relations penalty."
+# PEACE_DEFENDER_EFFECTS_BADBOY:1 "As a defender, $ACTIVE$ suffers a base of $BADBOY$ Aggressive Expansion relations penalty"
+# PEACE_EFFECT_AGGRESSIVE_EXP:1 "This peace will cause $WHO$ to suffer a base of $VALUE$ Aggressive Expansion relations penalty."
+# WARN_LOW_ARMY_MAINTENANCE:1 "§YYou are not at 100% Army Maintenance!§!"
+
+###############################################
+#
+# EU4_l_english.yml
+#
+###############################################
+# RUSABIL_POOL:1 "\nWe gain §G+$GAIN$§! $NAME|Y$ at the start of each year, up to a maximum of $MAX|Y$."
+# KARMA_FROM_CONV:1 "This increases our Karma by §G+$VAL$§!."
+# GOLD_DEPLETE_WARNING:1 "§RIncreasing the gold production of this province to§! §Y$PROD$§!§R will result in a§! §Y$CHANCE$%§!§R chance of the mine depleting each year, halving its production.§!\n\n"
+# IMP_BASE_PROD:1 "Improve Base Production"
+# IMP_BASE_MP:1 "Improve Base Manpower"
+# MODIFIER_MONARCH_ADMIN_POWER:1 "Monarch Administrative Skill"
+# MODIFIER_MONARCH_DIPLOMATIC_POWER:1 "Monarch Diplomatic Skill"
+# MODIFIER_MONARCH_MILITARY_POWER:1 "Monarch Military Skill"
+# HAVE_MISSIONARY_ON_LOCATION:1 "Missionary Present.\n"
+# HAS_TRADER_IS_NODE:1 "§Y$WHO$§! has a Merchant in §Y$NAME$§!\n"
+# RELIGION_CHANGE:1 "§Y$NEW$§W becomes the new state-religion of $WHO$.\nThis will also apply to our ruler and possible heirs.\n"
+ DEFINE_RULER_EFFECT:5 "$NAME|Y$$SKILLS$成为统治者，$AGE$$CLAIM$$CULTURE$$RELIGION$。\n"
+ DEFINE_RULER_EFFECT_NOCLAIM:3 "$NAME|Y$$SKILLS$成为统治者，$AGE$$CULTURE$$RELIGION$。\n"
+ DEFINE_HEIR_EFFECT_UNKNOWN:5 "一位新的合法继承人$SKILLS$出现了，$AGE$$CLAIM$$CULTURE$$RELIGION$。\n"
+ DEFINE_HEIR_EFFECT:5 "$NAME|Y$$SKILLS$成为新的继承人，$AGE$$CLAIM$$CULTURE$$RELIGION$。\n"
+ DEFINE_QUEEN_EFFECT_UNKNOWN:5 "一位新的$CONSORT$$SKILLS$出现了，$AGE$$CULTURE$$RELIGION$。\n"
+ DEFINE_QUEEN_EFFECT:5 "$NAME|Y$$SKILLS$成为新的$CONSORT$，$AGE$$CULTURE$$RELIGION$。\n"
+ DEFINE_HEIR_EFFECT_DYN:2 "一位来自$NAME$家族的贵族$SKILLS$成为继承人，$AGE$$CLAIM$$CULTURE$$RELIGION$。\n"
+# NO_MIL_COST_MAINT:1 "This leader will cost §G0§!£mil in maintenance.\n"
+# MIL_COST_MAINT:1 "This leader will cost $COST|Y$£mil each month in maintenance. We have $CURR|Y$ leaders, and can have $ALLOW|Y$ leaders without upkeep.\n"
+# CONVHEIR_IRO:1 "§YGive Your Heir a Military Command§!"
+# CONVERT_HEIR_DRO:1 "This will make a general out of your heir. He or she will then be available to command your armies. Having your heir leading an army could be beneficial, but it is also a large risk, as generals have risk of dying on the battlefield."
+# positive_piety:1 "Legalism"
+# negative_piety:1 "Mysticism"
+# PIETY_BAD_WAR_EFF:2 "Declaring war on a fellow $REL$ will move us away from Legalism by §Y$VAL$§!."
+# PIETY_GOOD_WAR_EFF:2 "Declaring war on the $REL$ will move us towards Legalism by §Y$VAL$§!."
+# COMBAT_IN_FRONTLINE:1 "§Y$STRENGTH$§W in first rank (Morale: §Y$MORALE$§W)\n"
+# COMBAT_IN_SECONDLINE:1 "§Y$STRENGTH$§W in second rank (Morale: §Y$MORALE$§W)\n"
+# COMBAT_IN_RESERVES:1 "§Y$STRENGTH$§W in reserves (Morale: §Y$MORALE$§W)\n"
+# COMBAT_IN_RETREAT:1 "§Y$STRENGTH$§W has retreated (Morale: §Y$MORALE$§W)\n"
+# SELECT_CULTURE:1 "§YCultural Shift§!"
+# PROMOTE_CULTURE:1 "§YPromote Culture§!"
+# DEMOTE_CULTURE:1 "§YDemote Culture§!"
+# mughal_musketeerDESCR:1 "With Babur's invasion of India the subcontinent saw its first organized use of fire arms. Unlike in the west, however, the musketmen, or Tofangchis, as used by Babur would serve as marksmen in his armies, firing individually at specific targets both during pitched battles and sieges. Babur took care to train these troops to achieve better results and unlike the Mughal cavalry arm the recruitment, training and organization of musketmen would be kept under his direct control. Whether Babur's great success at Panipat was due to the use of fire arms or not the use of musketmen became increasingly commonplace in Indian armies after Babur's invasion."
+# CANT_ABORT_EXPLORATION_MISSION:1 "This fleet has left port and is out of your Supply Range and cannot be assigned a new mission until it returns from its exploration mission."
+
+###############################################
+#
+# flavor_events_l_english.yml
+#
+###############################################
+# flavor_rus.EVTDESC3415:1 "Not long before the Byzantine Empire collapsed, the Russian Church became, in effect, independent from the Patriarchate of Constantinople. Metropolitan Jonah, installed by the Council of Russian bishops, was given the title of Metropolitan of Moscow and All Russia. Ever since the Russian Church has been growing more and more independent of Constantinople, instead allying itself with the Russian state."
+# flavor_rus.EVTOPTA3415:1 "Let us lead the True Faith from [Root.Capital.GetCapitalName]."
+# flavor_rus.EVTOPTB3415:1 "Let us help our brethren to reclaim Constantinople."
+# flavor_tur.EVTDESC3357:1 "In order to train administrators for his expanding empire, Mehmed II established an educational institution in the inner courtyard (Enderun) of the newly constructed Topkapi Palace. Students were chosen from among the most promising devshirme recruits (conscripted Christian youths mostly from the Balkans), and were trained in the Islamic faith, the sciences, and the military arts. They were expected to develop competency in the three languages of Turkish, Arabic, and Persian. This prepared them to serve in the Sultan's household, from which they could hope to graduate as government administrators with the rank of bey or pasha. The staffing of government posts with devshirme recruits trained in the palace school and loyal to the sultan formed the backbone of the Ottoman system of patrimonial rule throughout the fifteenth and sixteenth centuries."
+# flavor_tur.EVTOPTB3357:1 "Expand the Timar system instead"
+# flavor_tur.EVTNAME3358:1 "Land Reforms of Mehmed II"
+# flavor_tur.EVTDESC3358:1 ""Mehmed II was a centralizing monarch, who sought to expand his personal power within the Ottoman Empire at all costs. Near the end of his reign he sought to reduce the power of the ulema by rerouting revenues from the foundations (waqf) which supported them to the timar system instead, further strengthening the Ottoman army. This move, illegal under Islamic Law, caused widespread resentment and was quickly reversed by his son Bayezid upon Mehmed's death in 1481."
+# flavor_tur.EVTOPTA3358:1 "Expand the Timar System."
+# flavor_tur.EVTOPTB3358:1 "Leave the Ulema alone."
+# flavor_tur.EVTDESC3360:1 "Ever since the young Ismail, head of the Safavid order, threw off the yoke of the Aq Qoyunlu to proclaim himself Shah of Iran in 1501, the Qizilbash heresy had grown stronger in Anatolia. Near the end of the reign of Bayezid II, the Qizilbash (Shiite-leaning Turkmen) rose up in revolt against the centralization efforts of the Ottomans' Sunni regime. Supported by Shah Ismail, and taking advantage of the succession struggle between Bayezid's sons, the rebels threatened to change the course of Ottoman history..."
+# flavor_tur.EVTNAME3371:1 "Protector of the Pilgrimage"
+# flavor_tur.EVTDESC3371:1 "Following the spectacularly successful Mamluk campaign, Sultan Selim I accepted the homage of the sharif of Mecca and adopted the title "Servant of the Two Holy Places" (Khadim al-Haramayn), pledging to protect the security of the pilgrims traveling to Mecca and Medina each year for the hajj rituals required by the Muslim faith. Defense of the pilgrimage routes henceforth became one of the most significant sources of legitimacy and prestige for the Ottoman dynasty, as it was a role of immeasurable importance for all Muslims which no other dynasty could claim to fulfill."
+# flavor_tur.EVTOPTA3371:1 "Assume the title of Khadim al-Haramayn."
+# flavor_tur.EVTDESC3373:1 "The treacherous governor of the newly conquered Mamluk Syria, Janbirdi al-Ghazali, rose up in rebellion against the Ottomans hoping to re-establish the Mamluk state under his own leadership."
+# flavor_tur.EVTDESC3375:1 "Sultan Süleyman I became known as Kanuni - Lawgiver - to his own people thanks to his extensive legal reforms and just rule. While further codifying the dynastic laws, 'kanun', he worked in conjunction with the famous Sheikh al-Islam Ebussuud Efendi to bring them in line with Muslim Shari'ah laws, creating a more harmonious legal system for the empire."
+# flavor_tur.EVTNAME101:1 "The Janissaries and the Bektashi Order"
+# flavor_tur.EVTDESC101:1 "With the rising importance of the Janissary Corps in our society we have also seen an increased influence for the Bektashi order of Sufis. The highly unorthodox, quasi-Shiite Bektashi order has maintained a close relationship with the Janissaries since the 15th century, contributing to their unique culture. So long as the Janissaries remain influential, we will have to provide a degree of tolerance even for the most heterodox of religious practitioners."
+# flavor_tur.EVTOPTA101:1 "Ok."
+# flavor_tur.EVTDESC102:1 "As the standing army and loyal servants of the Sultan, the Janissaries and other palace troops traditionally expected to be paid a salary bonus upon the accession of each new ruler. Breaking this tradition could cause riots and instability."
+# flavor_tur.EVTNAME105:1 "Civilianization"
+# flavor_tur.EVTDESC105:1 "While Janissaries had become active in trades and landholding from an early date, the practice became more widespread due to rampant inflation in the Mediterranean economy. Unable to support themselves on their declining salaries, Janissaries increasingly turned to craft trades in order to make a living, reducing their military discipline."
+# flavor_tur.EVTOPTA105:1 "Everyone needs to make a living."
+# flavor_tur.EVTOPTB105:1 "Let us increase drilling and salaries instead."
+# janissary_decadence.1.d:1 "Great commotion was abound in [Root.Capital.GetCapitalName] today as the Janissaries, long discontent with what they see as the misrule of the empire by the [Root.Monarch.GetTitle], rejected the bread given by [Root.Monarch.GetTitle] and overturned their cauldrons in the central square. The Janissaries claim that [Root.Monarch.GetName] is a disgrace to the House of Osman, that [Root.Monarch.GetSheHe] has made the Sheikh-ul-Islam his personal puppet and that he aims to destroy the military strength of the empire.\nThe Janissaries have now moved quickly to seize control over the government and have secured the support of many of the other political groups of the capital. While [Root.Monarch.GetSheHe] is still alive [Root.Monarch.GetName] is no longer in control of [Root.Monarch.GetHerHis] empire."
+# janissary_decadence.2.t:1 "Death of a [Root.Monarch.GetTitle]"
+# janissary_decadence.2.d:1 "[Root.Monarch.GetName]’s attempts to satisfy the Janissary coup-makers in [Root.Capital.GetCapitalName] has led to no avail, and now opposition to [Root.Monarch.GetHerHis] rule has grown so great that they see [Root.Monarch.GetHerHis] deposal as the only remaining solution. Having secured the support of other interest groups in the capital a large group of Janissaries today stormed the palace and captured the [Root.Monarch.GetTitle].\nThey paraded the sovereign through the streets of the capital and, waving a legitimizing fatwa from the Sheikh-ul-Islam, strangled [Root.Monarch.GetName] to death. [Root.Monarch.GetHerHis] successor, still in shock from the day's events, has been brought out from the harem to be enthroned. It is apparent to all that the new ruler is little more than a puppet, and that order is far from being restored."
+# janissary_decadence.2.a:1 "Long live [Root.Heir.GetName]!"
+# janissary_decadence.2.b:1 "This is a disgrace to the [Root.Monarch.Dynasty.GetName] line!"
+# janissary_decadence.3.t:1 "Offices Awarded"
+# janissary_decadence.3.d:1 "With the power of government comes great influence over how offices are assigned. The Janissaries have increasingly begun to place their preferred candidates in offices of government. Nominations that [Root.Monarch.GetName] will have a hard time rejecting without angering the coup makers."
+# janissary_decadence.3.a:1 "Outrageous"
+# janissary_decadence.4.t:1 "Janissary Pay-Increase"
+# janissary_decadence.4.d:1 "The Janissaries feel that their current salaries do not reflect the great importance of their corps in times of war as well as the responsibility they are currently taking for the governance of the Empire. They now demand that the state provide them with better compensation.\nGiven their current powers we can hardly refuse."
+# janissary_decadence.4.a:1 "Let us reward them directly."
+# janissary_decadence.4.b:1 "Let us increase their salaries."
+# janissary_disaster_notifier:2 "The §YJanissary Coup§! Disaster will become available after the §YAge of Discovery§!."
+# disband_the_janissaries_title:1 "Force Janissaries to Undergo Yoklama"
+# disband_the_janissaries_desc:1 "In the payrolls of the Janissaries there are many that are not truly Janissaries or not truly fit for service. Let us force them to undergo a general review of who should still be on the rolls, bringing order and dicsipline to this group."
+# flavor_per.EVTNAME3560:1 "Qizilbash Uprisings in Anatolia"
+# flavor_per.EVTDESC3560:1 "Ever since the young Ismail, head of the Safavid order, threw off the yoke of the Aq Qoyunlu to proclaim himself Shah of Iran in 1501, the Qizilbash heresy had grown stronger in Anatolia. Near the end of the reign of Bayezid II, the Qizilbash (Shiite-leaning Turkmen) rose up in revolt against the centralization efforts of the Ottomans' Sunni regime. Supported by Shah Ismail, and taking advantage of the succession struggle between Bayezid's sons, the rebels threatened to change the course of Ottoman history..."
+# flavor_tim.EVTDESC3:1 "Our illustrious monarch, [Root.Monarch.GetName], has indicated that he desires to build a grand observatory so that Samarkand will become the center of astronomical learning for the entire world. His beliefs are summarized by the words he wishes to have carved on its walls: 'Religions rise and fall, empires crumble into dust, but the works of science are for all time'.\nHowever noble his intentions, such projects are very costly however..."
+# flavor_mch.EVTOPTA1:1 "A Great Day for the Manchu Peoples"
+# flavor_hab.19.d:2 "While still young the Ostende Company has done better than anyone in $CAPITAL_CITY$ expected. The Company may lack the financial muscle of the older India Companies but the Ostende Company has still managed to do very well in some areas. Last year half of the tea exported to Europe was transported by Ostende ships.\nThe success of the Company has, however, not made us any friends. The English and Dutch both claim that the Ostende Company is a sham set up by their disloyal subjects masquerading as Austrian/Flemish sailors. They show little understanding for our desire to get in on the India trade and as long as the Company operates they will hold it against us. In $CAPITAL_CITY$ some sympathize with them, our country has never been a naval power and this all seems like an unnecessary adventure to them."
+# flavor_mng.21.d:1 "So far contacts between our church and the Chinese have been handled exclusively by the Jesuits. In order to approach the Chinese the order has learnt their customs, their language and in general tried to be a part of Chinese society.\nWith the arrival of Dominicans and Franciscans in China, however, disturbing reports have begun to reach us. It seems the Jesuits are tolerating a very high degree of non-Christian rituals among the supposedly converted Chinese. The other orders are abhorred by the Jesuit conduct and by their supposedly Christian converts and have urged us to make a clear statement that the Chinese Ancestor rites have no place among Christians and that anyone who wishes to join our Church must abandon such things."
+
+###############################################
+#
+# generic_events_l_english.yml
+#
+###############################################
+# muslim_piety.1.t:1 "Spread of Extreme Practices in [spread_of_extreme_practices_province.GetAreaName]"
+# muslim_piety.1.d:1 "The late Middle Ages saw the emergence of several new forms of Islamic mysticism, one of the most controversial being a brand of Sufi dervishes known as the 'renunciationists'. These men sought to separate themselves entirely from normal society, shaving all body hair down to their eyebrows and publicly breaking the rules of the Sharia in order to demonstrate their unique relationship with God, all while wandering from town to town begging for alms. Our religious scholars are calling for their persecution, arguing that the uneducated populace's tendency to view them with awe will lead them away from the true faith."
+# muslim_piety.1.a:1 "Expel them from [spread_of_extreme_practices_province.GetAreaName]."
+# muslim_piety.1.b:1 "Leave them be."
+# muslim_piety.2.t:1 "Returning Scholars"
+# muslim_piety.2.d:1 "Particularly in the aftermath of the Mongol conquests of the thirteenth century, Egypt and Syria emerged as the foremost centers of scholarly learning in the Muslim world. Sunni scholars of every persuasion flocked to Damascus and Cairo to learn from the most renowned teachers of science, theology, and above all law, while Shi'ites travelled to Jabal Amil in Lebanon to meet with the scholars of orthodox Twelver Shi'ism. Many students from our lands, having completed their educational pilgrimage, are now returning home and hoping to implement legalistic Islam in our [Root.GovernmentName] just as they learned it in the heartlands of Islam."
+# muslim_piety.2.a:1 "They will make a welcome addition to our country."
+# muslim_piety.2.b:1 "Contact with the divine is not about studying books."
+# muslim_piety.3.t:1 "Sufi Organizations Rally Support"
+# muslim_piety.3.d:1 "During the early modern period popular forms of Sufi worship became extremely widespread in the Muslim world. Seeing the weakened state of our armies, the sheikh of a major order has begun urging his followers to take up arms in support of us against our enemies."
+# muslim_piety.3.a:1 "We cannot rely on mystics for support!"
+# muslim_piety.3.b:1 "Let us welcome these warriors of faith."
+# muslim_piety.4.t:1 "Religious Harmony"
+# muslim_piety.4.d:1 "Just as many members of the Ulema have developed Sufi leanings, many of our Sufi orders have likewise come to extol the virtue of a pious life lived in accordance with the Sharia. Despite disapproving voices on both extremes, we have managed to strike a balance between mysticism and legalism. Our realm is currently enjoying the fruits of moderation and tolerance of differing religious practices."
+# muslim_piety.4.a:1 "God is good."
+# muslim_piety.5.t:1 "Debate over the Philosophy of Ibn Arabi"
+# muslim_piety.5.d:1 "Ibn Arabi was an Andalusian scholar and mystic, regarded by many Sufis as the foremost spiritual master. His pantheistic philosophy of the 'unity of being' viewed all of creation as a manifestation of God, and invited worshippers to see divine beauty in all aspects of life, not merely in the traditional rituals of Islam. Ever since, debates have raged on over the compatibility of his philosophy with scholarly interpretations of Islam, with some going so far as to label him an unbeliever. For many Sufis, on the other hand, Ibn Arabi's philosophy became the foundational principle of their religious practice. Now we too are being asked to take sides."
+# muslim_piety.5.a:1 "Deny the unity of being."
+# muslim_piety.5.b:1 "Support the unity of being."
+# muslim_piety.6.t:1 "Dhimmi Building Restrictions"
+# muslim_piety.6.d:1 "Under Islamic Law, non-Muslims faced a number of restrictions on the construction of new buildings in urban centers: their houses were not to be taller than those of the Muslims, and they were not permitted to construct new centers of worship, only to maintain those which already existed. In practice, these rules often went unenforced, but as our realm shifts further toward a legalistic interpretation of Islam, key members of the Ulema are beginning to call for their stricter implementation."
+# muslim_piety.6.a:1 "Enforce the letter of the law."
+# muslim_piety.6.b:1 "Leave them to do as they please."
+# muslim_piety.7.t:1 "Dhimmis Flout Building Restrictions"
+# muslim_piety.7.d:1 "Despite being officially prohibited from constructing houses of worship and tall buildings, the dhimmis in several provinces of our realm are openly disobeying the laws, and many of our qadis are too lax to respond, either because they see no harm in it or because of the hefty bribes they can earn for turning a blind eye."
+# muslim_piety.7.a:1 "Increase enforcement efforts."
+# muslim_piety.7.b:1 "Let the laws go unenforced."
+# muslim_piety.8.t:1 "Enjoining Right and Forbidding Wrong"
+# muslim_piety.8.d:1 "Muslims are encouraged in the Qur'an to take an active role in their community in order to “enjoin right and forbid wrong.” While this command has been interpreted in many ways by Muslim scholars, it was sometimes used by reformist groups to justify the forceful spread of more extreme views. A group of charismatic mosque preachers in [Root.Capital.GetCapitalName] have begun calling for the end of unorthodox religious practices and are inciting the populace against the Sufis, leading to violence and street battles."
+# muslim_piety.8.a:1 "Stamp down on the movement."
+# muslim_piety.8.b:1 "Offer them our support."
+# muslim_piety.9.t:1 "Debate over Sufi Practices"
+# muslim_piety.9.d:1 "Muslim scholars were not united on the question of the permissibility of Sufism. While most appreciated the heightened levels of religious devotion it inspired among the general population, some disapproved of how certain Sufis expressed their faith. Poetry and song about wine and illicit love, as well as communal dancing and veneration for the tombs of those regarded as saints, could at times provoke opposition from more hardline elements of the Ulema."
+# muslim_piety.9.a:1 "Support the hardliners."
+# muslim_piety.9.b:1 "Support the moderates."
+# muslim_piety.10.t:1 "Purification of Tax Laws"
+# muslim_piety.10.d:1 "Ensuring that the realm's laws operate in accordance with the sacred Sharia requires us to occasionally re-examine our tax-collection practices, and to strive to align them as closely as possible with the legal positions held by the great lawmakers of our [Root.GetReligiousSchool] school. This means eliminating the customary taxes which have accumulated over the years, and taking only what is permitted by the Sharia."
+# muslim_piety.10.a:1 "The peasantry must be free from unlawful exactions."
+# muslim_piety.10.b:1 "Reject the proposal."
+# muslim_piety.11.t:1 "Mystics and Storytellers"
+# muslim_piety.11.d:1 "Many among the Ulema would question the great influence that storytellers have over the life of common men. The traditional hero stories of our people are centuries old but they risk making a cult out of seriously distorted fates of historical figures. A prominent cleric in [storytellerprovince.GetAreaName] have taken a strong stand against the storytellers of the realm, and cautions that religious scholars of the past have warned that obsessive listening to stories could lead to false worship."
+# muslim_piety.11.a:1 "We must ban offensive stories from the realm."
+# muslim_piety.11.b:1 "There is nothing wrong in idealizing our ancestors."
+# muslim_piety.12.t:1 "Trade Guilds and Fraternities"
+# muslim_piety.12.d:1 "Guilds and fraternities are a constant factor in the public life of the [Root.GovernmentName], in many ways these are small communities within the community, with their own rules, customs and even laws. It is also very common for these associations to indulge in mystic traditions, sufism and often unorthodox adaption of the Sharia. Something that sometimes makes it hard for the laws of the Ulema to penetrate the urban milieu.\nAn artisan in [fraternity_province.GetName] has reached out to the state, warning us of a local guildsman with a great influence on local affairs. Anyone wishing to take up a craft in the city is currently required to be approved by this man and then swear an oath of allegiance."
+# muslim_piety.12.a:1 "This is unacceptable."
+# muslim_piety.12.b:1 "Let us not interfere with the guilds."
+# muslim_piety.13.t:1 "Social Dissent and Popular Sufism"
+# muslim_piety.13.d:1 "The great stress that our government has placed on Legalism and the limiting of Mysticism in our society has had the effect of closely associating Sufism with resistance to central rule. In times of social distress many now look to the Mystical orders for spiritual guidance as an alternative to the highly legalistic Ulema and its [Root.GovernmentName] ally.\nAs tensions flare in [popular_sufism_province.GetName] an influential Sufi Master declared his support for [Root.Monarch.GetTitle], potentially calming the situation."
+# muslim_piety.13.a:1 "We cannot accept the support of a Mystic."
+# muslim_piety.13.b:1 "God is good."
+# muslim_piety.14.t:1 "Coffee and Tobacco"
+# muslim_piety.14.d:1 "While they are quite new to our society the use of stimulants such as Coffee and Tobacco has spread quickly, with coffee houses now a common feature from [Root.Capital.GetCapitalName] to [coffee_province.GetAreaName]. The popularity is especially marked among the Sufi orders. The novelty of these substances means that the religious establishment is divided on their proper use.\nMany strict legalists wants us to limit their use while others argue for caution, as both Coffee and Tobacco are very popular in our state. The local governor of [coffee_province.GetName] have now turned to [Root.Capital.GetCapitalName] wanting to close down the local coffee houses that he believes have become meeting places for dissidents."
+# muslim_piety.14.a:1 "Let us impose Restrictions."
+# muslim_piety.14.b:1 "Let them have their coffee."
+# muslim_piety.15.t:1 "Sufi Orders growing in popularity in [new_province.GetName]"
+# muslim_piety.15.d:1 "Some of the more prevalent Sufi orders in [Root.GetName] have quickly started to establish themselves in the newly acquired [new_province.GetName] province. While the locals seem somewhat hesitant about [Root.GetAdjective] rule they have embraced the orders and this has greatly eased the integration of the province into our [Root.GovernmentName]."
+# muslim_piety.15.a:1 "Strengthen the legal establishment instead."
+# muslim_piety.15.b:1 "This is excellent."
+# muslim_piety.16.t:1 "Disregard of the Sharia?"
+# muslim_piety.16.d:1 "The learned Ulema complain over the widespread flouting of Sharia rules in our [Root.GovernmentName]. They demand that we reduce the influence of Mystic orders and heterodoxy in the country. Failing to comply could see us risking losing their support and many of these valuable legal scholars might even leave for other courts."
+# muslim_piety.16.a:1 "Let us follow their recommendations."
+# muslim_piety.16.b:1 "We cannot give in to such threats."
+# muslim_piety.20.t:1 "A New [Root.Monarch.GetTitle]"
+# muslim_piety.20.d:1 "Our nation has sorely lacked a firm guiding hand under the rule of [Root.Heir.GetName], a timid child, ill-prepared to face the dangers of the world. Fortunately for us all, one of [Root.Heir.GetHerHis] uncles, and close advisors has decided to act. The child is now safely locked away where [Root.Heir.GetSheHe] can do no more harm. The advisor has been proclaimed our new [Root.Monarch.GetTitle], and has sworn to provide our nation with the strong leadership it so desperately needs."
+# EVTNAME9520:1 "Abolition of Slavery"
+# EVTDESC9520:1 "As slavery has been abolished in $COUNTRY$, all subjects, even in remote regions need to find another way to earn their living. Hopefully our traders can figure out another thing that is as profitable."
+# EVTDESC1423:1 "These so called pilgrims are following the [heretics_from_here.Religion.GetName] faith, which is an abomination to our $COUNTRY_RELIGION$ church. They are following a wicked faith and will most likely perish in the colonies.\nStill they have managed to gain the support of many of our settlers and have made a new home for themselves in this faraway land."
+
+###############################################
+#
+# hints_l_english.yml
+#
+###############################################
+# HINT_COMBATWIDTH_TEXT:1 "Combat Width determines how many regiments may fight at the same time. Increased Combat Width can be unlocked by Military Technology."
+
+###############################################
+#
+# institutions_l_english.yml
+#
+###############################################
+# INSTITUTION_CAN_APPEAR:1 "Among your provinces it is most likely to appear in $PROVINCE|Y$ due to:\n"
+
+###############################################
+#
+# mandate_of_heaven_l_english.yml
+#
+###############################################
+# CONFIRM_HARMONIZATION_DESC:2 "While Harmonizing, Harmony will decrease with $HARMONY|R$ per year.\n Harmonization will be finished in $MONTH_YEAR|Y$."
+
+###############################################
+#
+# messages_l_english.yml
+#
+###############################################
+# CENTEROFREFORMCONVERT_SETUP:1 "When a Center of Reformation or Religious Center spreads its faith."
+# CENTEROFREFORMCONVERT_5:1 "$CENTER$ in"
+
+###############################################
+#
+# modifers_l_english.yml
+#
+###############################################
+# janissary_decadence:1 "Janissary Coup"
+# desc_janissary_decadence:1 "Discontent with what their lack of direct influence over the government, the Janissary Corps have revolted against their sovreign and taken control over the state."
+
+###############################################
+#
+# muslim_dlc_l_english.yml
+#
+###############################################
+# muslim_dlc.EVTDESC3:1 "The ruler of $FROMCOUNTRY$ has invited an emissary of our realm to celebrate the Feast of Breaking the Fast which marks the end of Ramadan. The feast will be celebrated for three days and all that is asked of us is to forgive and forget any differences with others or animosities that may have occurred during the year."
+
+###############################################
+#
+# powers_and_ideas_l_english.yml
+#
+###############################################
+# RECRUIT_EXPLORER_IRO:1 "§YRecruiting an Explorer§!\nThis will cost you §Y$COST$§!£dip \n"
+# RECRUIT_CONQUISTADOR_IRO:1 "§YRecruiting a Conquistador§!\nThis will cost you §Y$COST$§!£mil \n"
+# RECRUIT_GENERAL_IRO:1 "§YRecruit a General§!\nThis will cost you §Y$COST$§!£mil \n"
+# RECRUIT_ADMIRAL_IRO:1 "§YRecruit an Admiral§!\nThis will cost you §Y$COST$§!£dip \n"
+# ghazi_desc:2 "Our sultans emphasize their role as gazis, leaders in war against the non-believers. Warriors thus flock to our banner, seeking to win wealth, glory, and salvation in the fight to expand the Abode of Islam"
+# timariot_system_desc:1 "The Ottoman Empire developed a system of feudal land holding to build up and maintain a cavalry force. Each Timariot was responsible for supplying cavalry for the imperial army based upon the amount of land he held."
+# lawcode_of_suleiman_01_desc:1 "Suleiman is remembered as one of the great rulers of history – a soldier, a lawmaker and a reformer. In fact, while the West knows him as Suleiman the Magnificent, in his homeland he is called "The Lawgiver". Central to his reforms was the re-examination of Ottoman dynastic law, 'Kanun', in order to bring it in line with the Islamic Sharia."
+# the_qizilbash:1 "The Qizilbash"
+# the_qizilbash_desc:1 "The Qizilbash, or Red Heads, are a Shiite military movement ready to fight and die for their religious convictions. They are ready to support our state and could form the nucleolus of our army."
+# jute_production:1 "Jute Production"
+# custodian_of_the_two_holy_cities_desc:1 "Our people feel particularly connected to the holy places of Mecca and Medina, the cradle of Islam. Their place of origin affords them the feeling of being a chosen people and also provides them with special status in the eyes of many other Muslims."
+# sharifs_of_mecca:1 "Sharifs"
+# sharifs_of_mecca_desc:1 "The holiest city of Islam is ruled by our Sharifs who are descendants through a long and honourable lineage. Historically, the Sharif was charged with protecting the cities and ensuring the safety of pilgrims performing the Hajj."
+
+###############################################
+#
+# prov_names_adj_l_english.yml
+#
+###############################################
+# PROV_ADJ386:1 "Bishaian"
+# PROV_ADJ389:1 "Mukallan"
+# PROV_ADJ399:1 "Batinahn"
+# PROV_ADJ402:1 "Qishni"
+# PROV_ADJ423:1 "Tblisian"
+# PROV_ADJ654:1 "Samari"
+# PROV_ADJ1101:1 "Hollhavaian"
+# PROV_ADJ2204:1 "Karsian"
+# PROV_ADJ2308:1 "Urfan"
+# PROV_ADJ2332:1 "Turuban"
+# PROV_ADJ2335:1 "Dawasiri"
+# PROV_ADJ2336:1 "Aflajan"
+# PROV_ADJ2337:1 "Buraydahn"
+# PROV_ADJ2344:1 "Mariban"
+# PROV_ADJ2345:1 "Beihan"
+
+###############################################
+#
+# prov_names_l_english.yml
+#
+###############################################
+# PROV386:1 "Bishah"
+# PROV389:1 "Mukalla"
+# PROV399:1 "Batinah"
+# PROV402:1 "Qishn"
+# PROV415:1 "Kirkuk"
+# PROV423:1 "Tbilisi"
+# PROV462:1 "Odishi"
+# PROV654:1 "Samar"
+# PROV1101:1 "Hollhavai"
+# PROV1397:2 "Visayan Sea"
+# PROV2203:1 "Kakheti"
+# PROV2204:1 "Kars"
+# PROV2308:1 "Urfa"
+# PROV2332:1 "Turubah"
+# PROV2333:1 "Zufra"
+# PROV2335:1 "Dawasir"
+# PROV2336:1 "Aflaj"
+# PROV2337:1 "Buraydah"
+# PROV2341:1 "Masirah"
+# PROV2344:1 "Marib"
+# PROV2345:1 "Beihan"
+
+###############################################
+#
+# rights_of_man_l_english.yml
+#
+###############################################
+# AI_RULER_PERSONALITY_REGULAR:1 "\n  An AI player is not influenced by this personality.\n"
+
+###############################################
+#
+# sikh_l_english.yml
+#
+###############################################
+# sikhism_flavor.13.t:1 "Guru in [Root.GetName]"
+# sikhism_flavor.13.b:1 "Get this man out of [Root.GetName]!"
+
+###############################################
+#
+# text_l_english.yml
+#
+###############################################
+# CENTER_OF_REFORMATION_CENTER:2 "§Y$PROVINCE$§! is a §Y$RELIGION$§! $TYPE$.\nNearby provinces will gradually be converted to §Y$RELIGION$§! as long as it is here and there are provinces it can spread to."
+# CENTER_OF_REFORMATION_CONVERT:1 "The religion in §Y$WHERE$§W is being converted to §Y$NEW$§W by a nearby $TYPE|Y$.\n"
+# CENTER_OF_REFORMATION_CONVERT_PROGRESS:1 "The religion is getting converted to §Y$NEW$§W because of its proximity to a $TYPE$.\nThe progress is currently at §Y$VALUE$%§!.\n"
+# CONVERT_RULER_IRO:1 "§YGive Ruler Military Command§!\nThis will make a general out of your ruler. He or she will then be available to command your armies."
+# CONFIRMGMDESC:1 "Do you wish to recruit $NAME$? This will cost us §Y$NOW$§W¤ and an additional §Y$LATER$§W¤ a month."
+# alert_alliance_breaking_delayed:1 "The following allies no longer consider your alliance worth keeping and will end it soon:\n$LIST$."
+# GOTO_HEADER:1 "Find"
+# GOTO_BOX:1 "Enter Name"
+# GOTO_LIST_BOX:1 "Matches"
+# CONFIRM_BUILDING_DESTROY:1 "Are you sure you want to destroy the $BUILDING$ in $PROVINCE$?\n$EFFECT$"
+# M_GOTO_BUTTON:1 "Find"
+# DEFINE_ADVISOR2:2 "Gain a skill $SKILL|Y$ ($EFFECT$) $TYPE$$CULTURE_TEXT$$RELIGION_TEXT$$LOCATION$."
+# MIS_CONST_TIP:1 "A Missionary is tirelessly working to spread the $RELIGION|Y$ Faith in this province."
+# desc_the_devshirme_system:1 "From the end of the 14th to the middle of the 17th century, the Ottoman dynasty acquired slaves for its household through the practice of devshirme. Carefully chosen Non-Muslim children, usually Christians from the rural Balkans between the ages of 12 and 14, were sent to live with Turkish families to learn Turkish and the rules of Islam before being brought to the imperial capital. Most joined the Janissaries, an infantry standing army trained under strict discipline, while those who displayed particular leadership and intellectual ability were enrolled directly into the sultan's household as pages, where they were educated and, if successful, could be promoted to the highest ranks of the Ottoman military-administrative elite. With their livelihood dependent upon the ruler, these slaves, known as kul, showed intense loyalty and were critical for the Ottoman dynasty's establishment of centralized control over the empire."
+# CANCEL_MISSIONARY_DIALOG_DESC:1 "Are you sure you want to cancel converting $PROV$ to $RELIGION$?"
+
+###############################################
+#
+# tradenodes_l_english.yml
+#
+###############################################
+# MERCHANT_PRESENT:1 "Merchant present: §Y$VAL$§W"
+
+###############################################
+#
+# triggers_and_effects_l_english.yml
+#
+###############################################
+# HAVE_NO_PATRIARCH_IN:1 "No State Metropolitan in $NAME$.\n"
+# HAVE_PATRIARCH_IN:1 "State Metropolitan in $NAME|Y$.\n"
+# HAS_MERCHANT_TRIGGER:1 "$WHO|Y$ has a Merchant in $WHERE|Y$.\n"
+# TRADE_MODIFIER_ADDED:1 "$WHO$ gains §Y$WHAT$§! ($EFFECT$) in §Y$WHERE$§! until $DATE$.\n"
+# TRADE_MODIFIER_REMOVED:1 "$WHO$ loses §Y$WHAT$§! ($EFFECT$) in §Y$WHERE$§!\n"
+

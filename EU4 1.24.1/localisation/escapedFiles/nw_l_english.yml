@@ -1,0 +1,238 @@
+﻿l_english:
+ LIBERTY_DESIRE_CURRENT:0 "îvMR„vê1ugg: §Y$VAL$%§!"
+ LIB_OUR_TARIFF:0 "(WbìN„v6eeQ-N/eØN§Y$VAL$%§! sQzÙu$MOTHER$,‚Yœg/eØNsQzØšŽNbìN„vê1ugg,²HNê1ugg¿OOÏkt^NGS§G+$INC$%§! ."
+ LIBERTY_DESIRE_CURRENT_DESC:0 "ê1ugg>f:y†N–kl0WýBlìrËz„vëRz¦^0ÐcØšsQzIr‹NöNOOvQ–Owöeô•¨cûywžX•0"
+ LIBERTY_DESIRE_CURRENT_LIMITS:0 "ê1ugg>f:y†NýV¶RýBlê1u„vëRz¦^0ÖNìNïSýw(Wê1ugg…Ç §Y$VAL$%§!öeÍSÛS0"
+ INCREASE_TARIFFS:0 "žX6esQz"
+ INCREASE_TARIFFS_DESC:1 "±‚9$POINTS|R$ $TYPE$åNŒØš$TARIFFS|%1G$sQz.Töe_NOžX R$COUNTRY|Y$ „vê1ugg§R$LIBERTY|0$%§!."
+ INCREASE_TARRIF_MAX:0 "sQzò]¾g'Y"
+ INCREASE_TARIFFS_NO_POWER:0 "`O—‰eg§Y$VAL$§! $TYPE$ŒØšsQz"
+ DECREASE_TARIFFS:0 "ÏQNOsQz"
+ DECREASE_TARIFFS_DESC:1 "±‚9$POINTS|R$ $TYPE$åNÏQNO$TARIFFS|%1G$sQz.Töe_NOÏQNO$COUNTRY|Y$ „vê1ugg§R$LIBERTY|0$%§!"
+ DECREASE_TARRIF_MAX:0 "sQzåN¾gS<P."
+ DECREASE_TARIFFS_NO_POWER:0 "`O—‰åN §Y$VAL$§! $TYPE$ ÏQNOsQz"
+ SUBJECT_INHERITANCE_CHANCE:0 "T;Nš)]Týwçub„vàQ‡s:$VAL|+%$"
+ SUBJECT_BREAK_CHANCE:0 "T;Nš)]TTwßu4xÂˆ„vàQ‡s:$VAL|-%$"
+ COLONIAL_OVERLORD:0 "/f–kl0WKNN$LIST$"
+ COLONIAL_SUBJECTS:0 "–kl0W	g$LIST$"
+ COLONIAL_SUBJECT_OF:0 "$LORD$„v–kl0W"
+ SUBJECT_COLONY_TARIFF_EFFICIENCY:0 "sQzHe‡s:N§Y$VAL$§!%."
+ SUBJECT_COLONY_TARIFF:0 "§Y$NAME$§!Ïkg/eØNÙubìN§Y$VAL$§!¤."
+ SUBJECT_COLONY_TARIFF_DESC:0 "–kl0WSÖNìNNèRzK(ukOsQz(úWŽNsQzHe‡s)/eØNÙubìN.`OýwYžX Rdk-NÔk‹OFO_NýwüRô–kl0W„vÛSqN."
+ SUBJECT_INCOME:0 "§Y$NAME$§!Ïkg/eØNÙubìN§Y$VAL$§!¤0"
+ SUBJECT_INCOME_DESC:0 "`O„v $TYPES$«ˆ‰Bl/eØNÖNìNgeQz6e„v$VALUE|Y$ Ùu`O0"
+ SUBJECT_NO_INCOME_DESC:0 "$TYPES$¡l	gÙuˆNbìNûNUOz6e0"
+ SUBJECT_DISLOYAL_INCOME_DESC:0 "Nà_„v^SýVOÒbÝuN4z6eŒTsQz0"
+ SUBJECT_ARMY_SIZE:0 "bìN„v^SýV	gN/e§Y$NUM$§!âVÄ‰!j„v›Q–.bìN„v›Q–	gN/e§Y$LORD_NUM$§!âV–Ä‰!j„v›Q–."
+ SUBJECT_ARMY_SIZE_DESC:0 "^SýVåb	gÔk—R;NýVôf:_'Y„v›Q–öeOôf>PTÑSwÛSqN."
+ SUBJECT_TP_FROM_PROT:0 "ÙuåNNRhˆ-N„v8f‚‚¹p§YTrade power§!8fÞz‰N›R."
+ UNION_BREAK_OPINION:0 "^SýVùRvQ—R;N„v`¦^NOŽN§Y$LIMIT$§! (°s(W: $CURRENT$)öeÿTwßuSO4xÂˆ."
+ UNION_BREAK_PRESTIGE:0 "å‚—R;NýV„vZgNOŽN§Y$LIMIT$§! (°s(W: $CURRENT$)öeÿTwßuSO4xÂˆ."
+ PROTECTORATE_LEAD:0 "×SÝO³býV	g$LIST$"
+ PROTECTORATE_WEAK:0 "/f$LIST$„v×SÝO³býV"
+ HEADER_SUBJECTS:0 "D–^SýV"
+ HEADER_ESTATES:0 "6–¶u"
+ HEADER_NATIVES:0 "WW„"
+ HEADER_RELIGIOUS_REFORMS:0 "—RYe9ei—"
+ NO_CURR_SUBJECTS_TT:0 "`O°s(W¡l	gûNUO„v^SýV."
+ ideas_invested:0 "tõ_"
+ FATHER_TIME_ON_TECH:0 "–öeô•žX•ÿ$VAL$\n"
+ MIGRATE:0 "è=„Á™_"
+ MIGRATE_DESC:0 "ÛLˆè=„Á™_„vöeP,$COUNTRY$ O1Y»SùR$PROVINCE$„v¶c6R.ÖNìNOÁ™_0R«ˆ	-N„v»ÑwýN.S_ÛLˆÁ™_öe$COUNTRY$O·ƒ—_ùRT;NCg›R„v Rb."
+ native_council:0 "è=„5ÏeO®‹"
+ native_council_desc:0 "N*NbY*Nè=„„v–™†˜Äub„vN­ˆ_®‹O.bXTìNYt?e¡RöeÅ_Š˜ÏuÇ•öeô•„v¨‹º‹Mbýw—_úQÓuœg,6qT1uTINN„vK‘•lQ_ÑS^ck_ŒTäN."
+ native_council_ruler:0 "K‘•"
+ native_council_ruler_female:0 "sYK‘•"
+ st_lawrence:0 "#W³R&O¯en"
+ laplata:0 "ÉbnfÉbTX³l"
+ ACCESS_DEPEND:0 "‚Yœg`OŒTùR¹esQû|'tÆRbgÎNTN†˜;N,RN—‰3u÷‹yršR„vLˆCg."
+ ACCESS_OVERLORDS_OVERLORD:0 "^SýV—R;NýV„v—R;NýVv^N—‰yr+RˆcˆNLˆCg0"
+ DIPLO_COLONY_NATION:0 "–kl0WýV¶R: "
+ COLONINAL_NATION_GROWTH_IMPACT:0 "–kl0WýV¶R: §Rx$VAL$§!\n"
+ merchant_republic_size:0 "'Y‹WFUNqQŒTýV"
+ NATIVES_CANT_FABRICATE:0 "WW„è=„Nýw*O/²Rðy0\n"
+ WEST_REASON_NATIVE:0 "`OÅ_Š˜HQ9ei—`O„v?eœ^SO6R."
+ WEST_REASON_RELIGION_REFORM:0 "`O—‰HQÛLˆ—RYe9ei—."
+ REFORM_RELIGION_EXPL:1 "T §Y$WHO$§!fR`N,9ei—bìN„v—RYeŒT>yO,ïSåNÎNT†˜ßW·ƒ—_§Y$LVL$§!Ñyb."
+ REFORM_RELIGION_EXPL_DET_2:0 "‚YœgbìNŒRb†NOb	g„v—RYe9ei—	y˜v^N'k2mýV¶Røv»ÿb/fÑyb4ls^;`qQ¾0R$NEEDED|Y$¶uÿ1SïSåN9ei—bìN„v—RYeN>yO0"
+ REFORM_RELIGION_NO_SPONSOR_EXPL:0 "Ç”^(ubìNùRb/g„vtã‰eg9ei—bìN„výV¶RÿÙSOObìN„v?eœ^ôf R°sãNSv^NÙuˆN`noeg.^©RbìN0"
+ REFORM_NATIVE_EXPL:1 "9ei—ó§Y$GOV$§!, ÇT§Y$WHO$§!fR`N,ïSåNÎNT†˜ßW·ƒ—_§Y$LVL$§!Ñyb."
+ REFORM_NATIVE_EXPL_DET_2:0 "å‚bìNŒRbOb	gWW„_Sv^NÑ»/fN*N'k2mýV¶Röeÿb/fÑyb4ls^;`qQ¾0R$NEEDED|Y$¶uöeÿbìN	gïSýwS•wO®‹?eSO9ei—:NæSN*Nôf:NHQÛ„v?eœ^SO6R0"
+ REFORM_NATIVE_NO_SPONSOR_EXPL:0 "Ç”^(ubìNùRb/g„vtã‰eg9ei—bìN„výV¶RÿÙSObìN„v?eœ^ôf R°sãNSÿObìNýwY‰¹eS0"
+ GOTTA_CATCH_THEM_ALL:0 "§R- —‰hQè„vWW„/OßuSO6Ri—°e.§!\n"
+ GOTTA_CATCH_THEM_ALL_REFORMS:0 "§R- —‰Ob	g„v—RYe9ei—§!\n"
+ NEED_HELP_OR_TECHS_FOR_REFORM:1 "§R- bìN—‰N*Nò]Ïu¥c×S†NN›N`no„v»ýVÿåNÊSN*Nøv»„v8hÃ_wýN0 §!\n"
+ NATIVE_CHANGE_GOVERNMENT:0 "9ei—?eœ^SO6R"
+ MIGRATE_REASON_GOVERNMENT:0 "$NAME$NýwÛLˆè=„Á™_"
+ MIGRATE_REASON_OPM:0 "N*Nè=„ýV¶RNýwåb	g…ÇN*NåNN„vwýN,Ù7hMbýwÛLˆè=„Á™_."
+ MIGRATE_REASON_WAR:0 "Nýw(Wb‰Ngô•ÛLˆè=„Á™_."
+ MIGRATE_REASON_COOLDOWN:0 "NN!kè=„Á™_„vöeô•/f $DATE|Y$."
+ MIGRATE_COOLDOWN:0 "$COUNTRY$ýw(W$DAYS|Y$)YTQ!kÁ™_.($DATE|Y$)"
+ MIGRATE_POSSIBLE_BUTTON_DESC:0 "¹pûQSb_Á™_è=„Æ‰É‰."
+ MIGRATE_TO_DESC:0 "$COUNTRY$SOÁ™_0R$NEWPROV$6qTO1Y»S$OLDPROV$„v¶c6RCg.$COUNTRY$OàV:NÁ™_w—_0R$ADM$£adm£, $DIP$£dip£ ŒT $MIL$£mil£.$COUNTRY$Oôv0R$DATE$MbýwQ!kÁ™_. "
+ alert_can_migrate_instant:0 "§YÛLˆè=„Á™_.§!"
+ alert_can_migrate_delayed:0 "°s(WýwÁ™_0RN*N4NÑ„vwýN."
+ alert_religious_reform_instant:0 "§Y`OïSåNÛLˆ—RYe9ei—.§!"
+ alert_religious_reform_delayed:0 "$LIST$"
+ alert_can_upgrade_government_instant:0 "§Y`OïSåNÐcGS?eœ^Ir¶u.§!"
+ alert_can_upgrade_government_delayed:0 "ØšN¶u„v?eœ^ïSåNÐc›Oø‹YŒYY."
+ alert_native_advancement_instant:0 "§Y`O°s(WýwÑSUSNy˜WW„/Oßu6R¦^„vi—°e.§!"
+ alert_native_advancement_delayed:0 "$LIST$"
+ alert_federation_drop_instant:0 "§Y`O«ˆè=„TwßvOb›b_.ÿ"
+ alert_federation_drop_delayed:0 "$LIST$\n‚Yœg`O„vè=„Twßvßv;NùR`O	gNŒY„vwÕl,`OSO«ˆ1ŽúQè=„Twßv."
+ alert_high_liberty_desire_instant:0 "§YN*NbY*N`O„v^SýV	gƒØš„vê1ugg.§!"
+ alert_high_liberty_desire_delayed:0 "$LIST$\nå‚`O^SýVê1uggØšŽN$LIMIT|Y0$ÿÖNìN1SONà_v^NïSýwÑS¨RìrËzb‰N."
+ WHO_LIBERTY_DESIRE:0 "$WHO|Y$ „vê1ugg:N: $VAL|Y$"
+ FEDERATION_NEEDS_GOOD_OPINION:0 "è=„Twßvßv;NÅ_Š˜ùR°ebXTÝOcïyg„v`¦^."
+ MIGRATE_REASON_NOT_NEIGHBOR:0 "N/fN*Nøv»wýN."
+ MIGRATE_REASON_NOT_DISCOVERED:0 "àeÕlÁ™_óN*N*g«ˆÑS°s„vwýN."
+ MIGRATE_REASON_NO_PROVINCES:0 "¡l	gïSÁ™_„v»ÑwýN."
+ MIGRATE_REASON_OWNED:0 "$PROVINCE$ «ˆ $COUNTRY$ ¶c6R."
+ MIGRATE_REASON_WASTELAND:0 "NýwÁ™_óRƒœ‚KN0W."
+ MIGRATE_REASON_SEA:0 "NýwÁûy0RwmN."
+ MIGRATE_REASON_POSSIBLE:0 "ýwYÁ™_0R$PROVINCE$."
+ MODIFIER_NATIVE_ADVANCEMENT_COST:0 "WW„/Oßu6R¦^i—°e—‰±‚9"
+ WHEN_GROUPS_FILLED:0 "S_hQè $MAX|Y$ 6R¦^i—°eÄuò]«ˆŒRhQã‰•,`O¿OýwY9eØS?eœ^Š|‹W.$UNLOCKED|Y$ i—°eÄu0RîvMR:Nbkò]«ˆŒRhQÑSUS."
+ MAPMODE_COLONIALANDTRADECOMPANYREGIONS:0 "–kl0WN8f0W:S"
+ MAPMODE_COLONIALANDTRADECOMPANYREGIONS_DESC:0 "–kl0WýV¶RŒT8flQøSïSåNbËz„v0W:S"
+ NOT_IN_FEDERATION:0 "$NAME$ N/fè=„Twßv„vbXTKNN."
+ federation_leader:0 "è=„Twßvßv;N"
+ FEDERATION_LEADER:0 "è=„Twßvßv;N:$LEADER|G$"
+ FEDERATION_MEMBERS:0 "è=„TwßvbXT:"
+ FEDERATION_LEADER_BONUS:0 "è=„Twßvßv;Nýw—_0RNN Rb:\n$BONUS$"
+ FEDERATION_OF:0 "$LEADER$ Ob†˜üR„vè=„Twßv"
+ ONLY_FEDERATION_LEADER_MAY_INVITE:0 "êS	gè=„Twßvßv;Nýw÷‹»SÄuú^Twßv."
+ NEW_LEADER_ON_DEATH:0 "S_ßv;NŠkT,TwßvZggØš„v²*NýV¶RSb:N°e„vßv;N.°s(W$NEWLEADER|Y$åb	g $VAL|Y0$ TwßvZg"
+ FEDERAL_AUTHORITY:0 "TwßvZg:$VAL|+2$"
+ REQUEST_TO_JOIN_FEDERATIONTITLE:0 "÷‹Bl ReQè=„Twßv"
+ REQUEST_TO_JOIN_FEDERATIONDESC:0 "`O/f&T÷‹Bl$ACTOR$  ReQÖNìN„vTwßv."
+ REQUEST_TO_JOIN_FEDERATIONREQDESC:0 "$ACTOR$ (W÷‹Bl ReQbìN„vTwßv.bìN/f&T¥c×SÖNìN„v÷‹Bl."
+ INVITE_TO_FEDERATIONTITLE:0 "÷‹Bl ReQè=„Twßv."
+ INVITE_TO_FEDERATIONDESC:0 "÷‹Bl$ACTOR$ ÖNìN ReQbìN„vTwßv."
+ INVITE_TO_FEDERATIONREQDESC:0 "$ACTOR$ ÷‹BlbìN ReQÖNìN„vTwßv.bìN‰ÂS RTÿ"
+ JOIN_FEDERATION:0 " ReQTwßv"
+ JOIN_FEDERATION_REQ_DESC:0 "`O^g ReQ$LEADER$Äuú^„vè=„Twßv."
+ JOIN_FEDERATION_DESC:0 " ReQÙ*NTwßv"
+ JOIN_FEDERATION_TITLE:0 " ReQTwßv"
+ INVITE_TO_FEDERATION:0 "÷‹óTwßv…Q"
+ INVITE_TO_FEDERATION_REQ_DESC:0 "`O^g÷‹$COUNTRY$0R`O„vTwßv…Q."
+ INVITE_TO_FEDERATION_DESC:0 "÷‹ó`O„vTwßv…Q"
+ INVITE_TO_FEDERATION_TITLE:0 "÷‹óTwßv…Q"
+ REQUESTTOJOINFEDERATIONTITLE:0 " ReQTwßv"
+ REQUESTTOJOINFEDERATIONDESC:0 "â‹î•$COUNTRY$/f&TOÂS R$LEADER$†˜üR„vè=„Twßv."
+ INVITETOFEDERATIONTITLE:0 "÷‹óTwßv…Q."
+ INVITETOFEDERATIONDESC:0 "â‹î•$THEY$/f&TOÂS R$LEADER$†˜üR„vè=„Twßv."
+ LEAVEFEDERATIONTITLE:0 "1»yTwßv"
+ LEAVEFEDERATIONDESC:0 "$COUNTRY$S1»y1u$LEADER$†˜üR„vTwßv."
+ KICKFROMFEDERATIONTITLE:0 "ÎNTwßv-NTRd–"
+ KICKFROMFEDERATIONDESC:0 "$COUNTRY$ SOTRd–úQ$LEADER$†˜üR„vTwßv."
+ NEED_FEDERATION_LEADER_INVITE:0 "$COUNTRY$ —‰b:NTwßv„vßv;NMbýw÷‹vQÖNýV¶R."
+ NEED_FEDERATION_LEADER_REQUEST:0 "$COUNTRY$ —‰b:NTwßv„vßv;NMbýw¥c×SvQÖNýV¶R„v÷‹Bl."
+ ALREADY_IN_FEDERATION:0 "$COUNTRY$ ò]Ïu(W1u$LEADER$†˜üR„vTwßv…Q."
+ REQUEST_JOIN_TO_LEADER:0 " Rßv÷‹Blò]Ïu¾óßv;N$LEADER$Kb-N."
+ REQUEST_LEAVE_TO_LEADER:0 "1»y÷‹Blò]Ïu¾óßv;N$LEADER$Kb-N."
+ humiliate:0 "ž±"
+ humiliate_desc:0 "`O„vîv„vN/f`S†˜8—`SÖNìN„vW0W,w/fÙuÖNìN¹pYe­‹åNdkž±ÖNìN."
+ humiliate_rotw:0 "ž±"
+ humiliate_rotw_desc:0 "îvh/fëO`O„vLeºNb³‹1Y%ÿ©‹ƒR(WhQNLu„vèlÆ‰N«ˆž±0"
+ cb_humiliate_rotw:0 "ž±ŠkLe"
+ cb_humiliate_rotw_desc:0 "bìNïSåNž±bìN„vŠkLe0"
+ HUMILIATE_ROTW_WAR_NAME:0 "$ORDER$$FIRST$ž±$SECOND_NAME$"
+ NO_PROVS:0 "Nýw«ˆ(ueg:YÖSûNUOwýN0"
+ blockade_ports:0 "S•/nãS"
+ blockade_ports_desc:0 "`O„vîvh/f`—S•=SÏ‘Y„v/nãSåN4xOWLeºN„v8fï¿u."
+ HAVE_HIGHER_LIBERTY_DESIRE_THEN:0 "ê1ugggS §Y$VAL$%§!"
+ HAVE_LOWER_LIBERTY_DESIRE_THEN:0 "ê1uggSŽN §Y$VAL$%§!"
+ IS_NOT_IN_THE_COLONIAL_REGION:0 "N(W–kl0W:S…Q"
+ IS_IN_COLONIAL_REGION:0 "(W–kl0W:S…Q"
+ AT_LEAST_ONE_PROVINCE_IN_COLONIAL_REGION:0 "gS	gN*NwýN(W$REGION$"
+ NOT_ONE_PROVINCE_IN_COLONIAL_REGION:0 "¡l	gN*NwýN(W$REGION$"
+ ALL_PROVINCES_IN_COLONIAL_REGION:0 "Ob	gwýNý(W–kl0W:S$REGION$"
+ NOT_ALL_PROVINCES_IN_COLONIAL_REGION:0 "N/fOb	gwýNý(W–kl0W:S$REGION$"
+ LIBERTY_EFFECT:0 "$DIRECTION$ $PERC$ ê1ua?a.\n"
+ TARIFF_VALUE_EFFECT:0 "$DIRECTION$ $PERC$ sQz÷N<P.\n"
+ ADD_LOCAL_AUTONOMY_EFFECT:0 "$DIRECTION$ $PERC$ 0W¹eê»l¦^ (W $WHERE$\n"
+ SET_LOCAL_AUTONOMY_EFFECT:0 "¾‹nS_0Wê»l1u$WHERE|Y$ó$VALUE|Y$\n"
+ IS_NOT_CLIENT_OF:0 "N/fN*ND–¸^ýVÿÎN^SŽN "
+ IS_CLIENT_OF:0 "/fN*ND–¸^ýVÿÎN^SŽN "
+ IS_NOT_CLIENT:0 "N/fD–¸^ýV"
+ IS_CLIENT:0 "/fD–¸^ýV"
+ IS_NOT_COLONY_OF:0 "N/fvQ-NNWW–kl0W"
+ IS_COLONY_OF:0 "/fvQ-NNWW–kl0W"
+ IS_NOT_COLONY:0 "N/fNWW–kl0W"
+ IS_COLONY:0 "/fNWW–kl0W"
+ IS_NOT_VASSAL:0 "N/fD–¸^ýV"
+ IS_VASSAL:0 "/fD–¸^ýV"
+ western_europe_coast:0 "‰'k"
+ VASSAL_TOO_BACKWARD:0 "Ù*NýV¶R*YÇ=„TNýwb:NN*ND–¸^ýVêSýwb:NN*N×SÝO³býV."
+ VASSAL_EFF_EXPL:0 "bìN„vD–¸^ýVN4„v6eeQ×SåNNÙ›NàV/tq_ÍT:\n"
+ COLON_EFF_EXPL:0 "bìN„v–kl0WN4„v6eeQ×SåNNÙ›NàV/tq_ÍT:\n"
+ LEDGER_COUNTRY_INCOME:0 "ùRÔk6eeQ"
+ NEWCOLONIALCOUNTRY_SETUP:0 "S_N*NýV¶R„vwmYwýNú^bN*N–klýV¶R."
+ NEWCOLONIALCOUNTRY_HEADER:0 "$MESSENGER$"
+ NEWCOLONIALCOUNTRY_1:0 "°eÞ‹u–klýV¶R"
+ NEWCOLONIALCOUNTRY_2:0 "$NAME$"
+ NEWCOLONIALCOUNTRY_3:0 "ÎNwmYwýNÄuú^vQ"
+ NEWCOLONIALCOUNTRY_4:0 "$COUNTRY$ (W $REGION$"
+ NEWCOLONIALCOUNTRY_5:0 "Ù*N°eýV¶Råb	gìrËzŽNÍkýV„vLˆ?e0WMO,(W*gegÌ‘å‚:ON¡rtSOäNvQ1»y`O„v¶c6R"
+ NEWCOLONIALCOUNTRY_6:0 ""
+ NEWCOLONIALCOUNTRY_LOG:0 "$NAME$ ú^Ëz(W $REGION$."
+ NEWCOLONIALCOUNTRY_BTN1:0 "ŒY„v"
+ NEWCOLONIALCOUNTRY_BTN2:0 "ŒY„v"
+ NEWCOLONIALCOUNTRY_BTN3:0 "MR_"
+ NEWCOLONIALCOUNTRY_MAP:0 "°e–klýV¶R!"
+ SUBJECT_SORT_TYPE:0 "åN^SýVŠ|‹W’c^"
+ SUBJECT_SORT_NAME:0 "åNTWR’c^"
+ SUBJECT_SORT_INCOME:0 "åN6eeQ’c^"
+ SUBJECT_SORT_EFFICIENCY:0 "åN6eeQHe‡s’c^"
+ SUBJECT_SORT_BONUS:0 "	c R<P’c^"
+ SUBJECT_SORT_ACTION:0 "	c¨RkO’c^"
+ SUBJECT_SORT_INHERTIANCE:0 "åNçub:gO’c^"
+ SUBJECT_SORT_BREAK:0 "åNê1ugg’c^"
+ SUBJECT_SORT_ARMY:0 "åN›Q–Ä‰!j’c^"
+ SUBJECT_COLONY_INCOME:0 "–kl0W6eeQ:"
+ SUBJECT_VASSAL_INCOME_LABEL:0 "D–¸^ýV6eeQ:"
+ SUBECT_TOTAL_INCOME:0 "^SýV;`6eeQÿ"
+ NO_TARIFFS_COUNTRIES:0 "¡l	g–kl0W"
+ SUBJECT_SORT_TRADE:0 "åNlûy„v8fÞz‰N›R’c^"
+ SUBJECT_SORT_OPINION:0 "åN^SýV„v`¦^’c^"
+ SUBJECT_NO_COLONIES:0 "bìN¡l	g–kl0W"
+ SUBJECT_NO_VASSALS:0 "bìN¡l	gD–¸^ýV."
+ WE_ARE_AT_WAR:0 "bìN(W³NbKN-N."
+ cb_colonial_independance_war:0 "–kl0WìrËz"
+ cb_colonial_independance_war_desc:0 "bìN”^å‹ìrËz."
+ COLONIAL_NAME_FROM_OWNER_PROVINCE:0 "°e$NAME$"
+ TRADE_WIND_TITLE:0 "§YáOÎ˜§!"
+ TRADE_WIND_DESC:0 "S_`O(WáOÎ˜-N*‚Lˆöe,Oq_ÍT`O„v4NwmwýN„vûy¨Rˆmw.T7h_Nq_ÍT8fÝ»yåNÊS–klÝ»y."
+ resource_depleted:0 "Á™_T„vDn¯gíz"
+ desc_resource_depleted:0 "ŒQér=S,œgCU,ízýln.ê6q—‰öeô•egîOYºNŠ|4xOW„vÓuœg."
+ SUBJECT_SHOW_RELEASE_COLONY:0 "Ê‘>eN*N–klD–^SýV0"
+ SUBJECT_SHOW_RELEASE_COLONY_DESC:0 "`O/f&T^gýwçuíu©sÙÍyýV¶R."
+ LIBERATE_COLONY:0 "ã‰>e–kl0W"
+ LIBERATE_COLONY_DESC:0 "§Y$COUNTRY$§W OÞ&^Ê‘>eåNNwýN: $LIST$.\n"
+ RELEASEDCOLONY_SETUP:0 "S_–kl0WÎNNN*N—R;NýV-Nã‰>e."
+ RELEASEDCOLONY_HEADER:0 "$MESSENGER$"
+ RELEASEDCOLONY_1:0 "–kl0WýV¶Rê1u†N"
+ RELEASEDCOLONY_2:0 "$NAME$"
+ RELEASEDCOLONY_3:0 "ã‰>eêMR–kl0W"
+ RELEASEDCOLONY_4:0 "$COUNTRY$ (W $REGION$."
+ RELEASEDCOLONY_5:0 "Ù*N°eu„výV¶RS/fN*NŒRhQìrËz„výV¶R."
+ RELEASEDCOLONY_6:0 ""
+ RELEASEDCOLONY_LOG:0 "$NAME$ (W $REGION$ «ˆÊ‘>e."
+ RELEASEDCOLONY_BTN1:0 "ŒY„v"
+ RELEASEDCOLONY_BTN2:0 "ŒY„v"
+ RELEASEDCOLONY_BTN3:0 "MR_"
+ RELEASEDCOLONY_MAP:0 "–kl0W«ˆã‰>e†N."
+ RELEASE_COLONY_BUTTON:0 "$COUNTRY|Y$/fN*Nê1u„výV¶R"
+ RELEASE_COLONY_BUTTON_TO_LOW:0 "ê1uggÅ_Š˜…Ç$LIMIT|Y$,îvMRê1ugg:N$CURRENT|Y$"
+ RELEASE_AT_WAR:0 "Nýw(Wb‰N-Nã‰>e–kl0W."
+ IRONMANMODE_START:0 "Á”ºN!j_"
+ RANDOM_WORLD_START:0 "–:g°eNLu"
+ CVIEW_LIBERTY_DESIRE_AFFECTS:0 "§YS_MRìrËz>PTÙubìN&^eg„vq_ÍT:§W"
+ liberty_desire:0 "ìrËz>PT"
+ ADM_SCORE_OCCUPATION:0 "`S†˜: §R$VAL$§!\n"
+ MIL_SCORE_EXHAUSTION:0 "ŒSb¦^: §R$VAL$§!\n"
+ DIP_SCORE_WARSCORE:0 "“‰cb‰N: §R$VAL$§!\n"
+ MIL_SCORE_MAIN_FORT:0 "!X’Wôu³bÿ$VAL$\n"
+ ENVOY_DIPLOMATING_IMPROVING_RELATION_DONE:0 "ÙµksQû|ýwY«ˆÐcGSYŽN$OPINION|+$,SŒRb(W$DATE|Y$."
+ CHECK_ALL_DLC:0 "hQ	 / hQèÖSˆm"

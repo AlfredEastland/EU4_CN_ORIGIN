@@ -1,0 +1,65 @@
+﻿l_english:
+ vassal_title:0 "D–¸^ýV"
+ march_title:0 "kSbýV"
+ client_vassal_title:0 "êú^D–¸^"
+ client_march_title:0 "êú^kSbýV"
+ personal_union_title:0 "«ˆTwßuýV"
+ protectorate_title:0 "ÝO³býV"
+ colony_title:0 "–kl0W"
+ daimyo_vassal_title:0 "'YT"
+ vassal_title_plural:0 "D–¸^ýV"
+ march_title_plural:0 "kSbýV"
+ client_vassal_title_plural:0 "êú^D–¸^"
+ client_march_title_plural:0 "êú^kSbýV"
+ personal_union_title_plural:0 "«ˆTwßuýV"
+ protectorate_title_plural:0 "ÝO³býV"
+ colony_title_plural:0 "–kl0W"
+ daimyo_vassal_title_plural:0 "'YT"
+ vassal_long_desc:0 "N*ND–¸^ýVÅ_Š˜ß–ƒRìN„v—R;NýV ReQb‰NÿNýwÇ‘ÖSyršR„vY³NLˆ¨Rÿv^N‰N³NƒRìN6eeQ„vNšRÔk‹OÙuvQ—R;NýV0"
+ march_long_desc:0 "N*NkSbýV/fN*NNýw«ˆTv^„vD–¸^ÿv^NNN4ûNUO!zÿFOÔk8^Ä‰„vD–¸^ýV	gôf:N:_'Y„v›Q‹Nýw›R0"
+ client_vassal_long_desc:0 "ŒT8^Ä‰„vD–¸^ýVN7hÿêú^D–¸^Å_Š˜ß–ƒRìN„v—R;NýV ReQb‰NÿNýwÇ‘ÖSyršR„vY³NLˆ¨Rÿv^N‰N³NƒRìN6eeQ„vNšRÔk‹OÙuvQ—R;NýV0"
+ daimyo_vassal_long_desc:0 "N*N'YTb__„v^SýVÅ_Š˜ß–ƒRìN„v—R;NýV ReQb‰NÿNýwÇ‘ÖSyršR„vY³NLˆ¨Rÿv^N‰N³NƒRìN6eeQ„vNšRÔk‹OÙuvQ—R;NýV0'YTb__„v^SýVKNô•ïSåNøv’N_b0"
+ client_march_long_desc:0 "ŒT8^Ä‰„vkSbýVN7hÿN*Nêú^kSbýV/fN*NNýw«ˆTv^„vD–¸^ÿv^NNN4ûNUO!zÿFOÔk8^Ä‰„vD–¸^ýV	gôf:N:_'Y„v›Q‹Nýw›R0"
+ colony_long_desc:0 "N*N–kl0W/fN*NUSìr„v–kl0WýV¶RÿYŽNvQ—R;NýV–6RKNN0–kl†˜—‰Ïkg/eØNsQzÙuƒRìN„v—R;NýVÿv^N³NÖNìN $TRADE|0%$pe˜„v8fÞz‰N›R0–kl†˜êSýwTŸSËYýV¶RbvQƒR–kl†˜_b0"
+ protectorate_long_desc:0 "N*NÝO³býVSOÐc›OvQNJS„v8fÞz‰N›RÙuƒRìN„v—R;NýVÿTöe—R;NýVSÝO³bƒRìN0"
+ personal_union_long_desc:0 "(WN*NTwTßu»l-Nÿ3N*NýV¶R«ˆTN*NT;NObßu»l0«ˆTwßu„v!k‰N¹eŠ˜ß–ƒRìN„v—R;NýV ReQb‰Nÿv^NNýwÇ‘ÖSyršR„vY³NLˆ¨R0S_T;NŠk¡NöeÿTwTßu»lïSýwOö^íuÿb/f4xÂˆÿb/f«ˆTwßu„v!k‰N¹e«ˆçubŒTTv^0"
+ vassal_is_our:0 "$NAME|Y$ /fbìN„vD–¸^ýV0"
+ march_is_our:0 "$NAME|Y$ /fbìN„vkSbýV0"
+ client_vassal_is_our:0 "$NAME|Y$ /fbìN„vêú^D–¸^0"
+ client_march_is_our:0 "$NAME|Y$/fbìN„vêú^kSbýV0"
+ personal_union_is_our:0 "$NAME|Y$ (WN*NTwTßu»l-N«ˆbìNObßu»l0"
+ protectorate_is_our:0 "$NAME|Y$ /fbìN„vÝO³býV0"
+ colony_is_our:0 "$NAME|Y$/fbìN„v–kl†˜0"
+ daimyo_vassal_is_our:0 "$NAME|Y$/fbìN„v'YT^SýV0"
+ IS_OUR_OVERLORD:0 "$NAME|Y$ /fbìN„v—R;NýV0"
+ colony_cant_fight:1 "kO:NN*N $SUBJECTTYPE$ÿ`OêSýwùRvQƒR–kl0WýV¶Rbøv»„vŸSËYýV¶RŒT_YeýV¶R²Rb0"
+ subject_cant_fight:0 "$SUBJECTTYPES$Nýwêñ]²R^b‰N0"
+ subject_cant_rival:0 "$SUBJECTTYPES$ Nýw	ébŠkLe0"
+ subject_cant_ally:0 "$SUBJECTTYPES$ NýwÓußv0"
+ subject_cant_marry:0 "$SUBJECTTYPES$ NýwÓu‹s³RTwûY0"
+ subject_only_fight_same_overlord:0 "kO:NN*N$MYSUBJECTTYPE$ÿbìNêSýwTTN—R;NýVN„v $THEIRSUBJECTTYPES$_b0"
+ subject_only_fight_other_overlord:0 "kO:NN*N$MYSUBJECTTYPE$ÿbìNêSýwTNT—R;NýVN„v $THEIRSUBJECTTYPES$_b0"
+ subject_only_rival_same_overlord:0 "kO:NN*N$MYSUBJECTTYPE$ÿbìNêSýw²R^TN—R;NýVN„v $THEIRSUBJECTTYPES$:NŠkLe0"
+ subject_only_rival_other_overlord:0 "kO:NN*N$MYSUBJECTTYPE$ÿbìNêSýw²R^NT—R;NýVN„v $THEIRSUBJECTTYPES$:NŠkLe0"
+ subject_only_ally_same_overlord:0 "kO:NN*N$MYSUBJECTTYPE$ÿbìNêSýwNTN—R;NýVN„v $THEIRSUBJECTTYPES$Óußv0"
+ subject_only_ally_other_overlord:0 "kO:NN*N$MYSUBJECTTYPE$ÿbìNêSýwNNT—R;NýVN„v $THEIRSUBJECTTYPES$Óußv0"
+ subject_only_marry_same_overlord:0 "kO:NN*N$MYSUBJECTTYPE$ÿbìNêSýwNTN—R;NýVN„v $THEIRSUBJECTTYPES$Óu‹s³RTwûY0"
+ subject_only_marry_other_overlord:0 "kO:NN*N$MYSUBJECTTYPE$ÿbìNêSýwNNT—R;NýVN„v $THEIRSUBJECTTYPES$Óu‹s³RTwûY0"
+ personal_union_no_overlord_dow:0 "`ONýwTN`OTYN*NTwTßu»l-N„výV¶R²Rb0"
+ colony_no_overlord_dow:0 "`ONýwT`O„v–kl†˜²Rb0"
+ protectorate_no_overlord_dow:0 "`ONýwT`O„vÝO³býV²Rb0"
+ relation_fight:0 "²R^_bÿùR¹e/f"
+ relation_rival:0 "ŠkLe"
+ relation_ally:0 "ßvËS"
+ relation_marry:0 "	gN*N‹s³RTwûYÿÓuøvùR¹e/f"
+ THEIR_SUBJECT_TYPE_NO_ALLOW:0 "ÖNìN/f$SUBJECTTYPE$0"
+ tributary_state:0 "g!ýV"
+ tributary_state_title:0 "g!ýV"
+ tributary_state_title_plural:0 "g!ýV"
+ tributary_state_is_our:0 "§Y$NAME$§! /fbìN„vg!ýV0"
+ tributary_state_long_desc:1 "N*Ng!ýVÅ_Š˜Ïkt^Û!ÙuÖNìN„v—R;NýVÿåNbcÖS(Wå‹ýVê›RÂS R„vb‰N-N„vÝO³b0g!ýVNß–vQ—R;NýV ReQb‰Nÿv^NýwYê1u0WÇ‘ÖSƒRìNêñ]„vY³NLˆ¨R0"
+ dummy:0 "P!Q"
+ dummy_title:0 "P!Q"
+ dummy_title_plural:0 "P!Q"
+ dummy_is_our:0 "§Y$NAME$§! /fbìN„vP!Q0"
+ dummy_long_desc:1 "N*NP!Q/fN*NºNSO!j‹Wÿ(ukOTÍy(u0"

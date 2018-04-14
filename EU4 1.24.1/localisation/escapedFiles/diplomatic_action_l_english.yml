@@ -1,0 +1,7 @@
+﻿l_english:
+ demand_dummy_title:0 "‰Blb:NP!Q"
+ demand_dummy_desc:0 "‰Bl[From.GetName]„v[From.Monarch.GetName]b:NbýVP!Q0ÙS	g©RŽNÌS¹e„v’NøváOûNÿ"
+ demand_dummy_tooltip:0 "‰BlÖNìNb:NbýVP!Q0"
+ demand_dummy_dialog:0 "[This.GetName]‰Bl`Ob:NÖNìN„vP!Q0ÙS	g©RŽNÌS¹e„v’NøváOûN0"
+ demand_dummy_alert_tooltip:0 "‰BlbìNb:NvQP!Q0"
+ HAS_MORE_MANPOWER:0 "[This.GetName]Ôk[From.GetName]	gôfYºN›R0\n"

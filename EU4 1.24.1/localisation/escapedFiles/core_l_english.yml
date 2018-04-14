@@ -1,0 +1,894 @@
+﻿l_english:
+ MENU_MESSAGES_DISABLE_ALL:0 "sQí•Ob	g"
+ ai_handicap:0 "5uO¿R"
+ player_handicap:0 "©s¶RO¿R"
+ FILTER:0 "ÇänhV"
+ TO_ME:0 "ÑSÙub„v"
+ FROM_ME:0 "bÑSúQ„v"
+ INTERESTING:0 "atQ²„v"
+ OTHERS:0 "vQÖN"
+ DECAY:0 "ÏQS"
+ SM_LANGUAGE:0 "í‹Š"
+ ENGLISH_SUPPORTED:0 "/f"
+ SPANISH_SUPPORTED:0 "/f"
+ GERMAN_SUPPORTED:0 "/f"
+ FRENCH_SUPPORTED:0 "/f"
+ ENGLISH:0 "ñ‚<hpQ"
+ SPANISH:0 "‰ísYr"
+ GERMAN:0 "åe3wüf"
+ FRENCH:0 "ÕlpQ‰"
+ NO_WINTER:0 "¡l	g¬Q)Y"
+ custom_setup:0 "êšRIN"
+ desc_arctic:0 "ASRv`²R„vg0WlP,Œv+ƒ+ƒNGr."
+ desc_arid:0 "lPr^ñeSè–,/b'Y‹Wè–eˆÙuðV¾–."
+ desc_tropical:0 "íp&^lPOb&^eg„vŽpípŒT¾uÅu,Ùu°eÎW^&^egg'Y„vÑSUS;–x."
+ desc_mild_winter:0 "0WNSÏ‘ïyê–,l)nRŒY¾ö–¦^åNN."
+ desc_normal_winter:0 "0WN	gïyê–†‰Öv,l)n8^YŽNö–¦^åNN."
+ desc_severe_winter:0 "0WN'Yê–šSïypeBS,l)ngNO."
+ WINTERS_WILL_BE:0 "Ype0W:Sck(WÏu†S '§Y$KEY$§!'."
+ MOVE_CAPITAL_AT_WAR:0 "`ONýw(Wb‰NöegÁý0RvQÖNwýN"
+ MOVE_CAPITAL_TO_FIXED:0 "`OêSýwŠb$WHO$–™ýÁûy0R §Y$PROV$§!."
+ MOVE_CAPITAL_FIXED:0 "`ONýwŠb$WHO$–™ýÁúQ§Y$PROV$§!"
+ MAPMODE:0 "0WþV!j_"
+ MAPMODE_PLAYERS:0 "©s¶R"
+ MAPMODE_ACCEPTEDCULTURES:0 "¥c×S‡eS"
+ MAPMODE_CLIMATE:0 "lP"
+ MAPMODE_WINTER:0 ")nyr¯e"
+ MAPMODE_FEDERATIONS:0 "è=„Twßv"
+ MAPMODE_LOCAL_AUTONOMY:0 "0W¹eê»l¦^"
+ MAPMODE_SIMPLE_TERRAIN:0 "rf0Wb_"
+ REGION:0 "0W:S"
+ CONTINENT:0 "'YF–"
+ SUBCONTINENT:0 "!k'YF–"
+ AREA:0 ":SßW"
+ PROVINCEGROUP:0 "wýNÄu"
+ PROVINCEGROUPS:0 "wýNÄu"
+ COLONIALREGION:0 "–kl0W:S"
+ TRADE_COMPANY:0 "8flQøS"
+ THE_NAME_AREATYPE:0 "§W§Y$NAME$§! $AREATYPE$§!"
+ IS_ATPEACE:0 "ŒTs^"
+ IS_IN_DEFICIT:0 "	gdWR"
+ IS_NOT_IN_DEFICIT:0 "¡l	gdWR"
+ IS_FEDERATION_LEADER:0 "/fTwßv†˜–ˆ"
+ IS_NOT_FEDERATION_LEADER:0 "N/fTwßv†˜–ˆ"
+ IS_ATWAR:0 "YŽNb‰N¶r`"
+ IS_NOT_GREAT_POWER:0 "N/f'YýV"
+ IS_GREAT_POWER:0 "'YýV"
+ WHO_IS_GREAT_POWER:0 "$WHO|Y$ /f:_CgKNN"
+ HAVE_LESS_GP_RANK:0 "(W:_Cg-N’cTMRŽNÿ"
+ HAVE_MORE_GP_RANK:0 "(W:_Cg-N’cTTŽNÿ"
+ TECHNOLOGY_COST:0 "Ñyb±‚9ÿ§Y$VAL$%§!\n"
+ IS_NOT_PROTECTORATE:0 "N/f×SÝO³býV"
+ IS_PROTECTORATE:0 "×SÝO³býV"
+ IS_NOT_COUNTRY_CHRISTIAN:0 "$WHO$„v—RYeN/fúWcwYe"
+ REFORM_DESIRE_TOOLTIP:0 "§Y9ei—|TðX§!\nÙhˆ:yùRYeOÛLˆ9ei—„v4ngz¦^.‚YœgÙNpe<PÇØšÿ1SOúQ°s'YÄ‰!j„v_Ye:_ëYeOÛLˆ9ei—.Ù*Npe<P4ls^(Wte*N)Y;NYeNLu/fßuN„vÿûNUO)Y;NYeT;NÇ‘ÖS„vªcÌeýOžX RÙ*Npe<P."
+ WAIT_FOR_HOTJOIN:0 "÷‹Ir…_;N:g:N`O¾‹n8nb.S_;N:gŠb8nbXRchÑSÙu`OKNTÿ`O1SïSåN	ébN*NýV¶R ReQ8nb.\n"
+ HOST_PREPARING_GAME:0 "÷‹wÃ_Ir…_ÿ\n;N:gck(W:N`OÆQY8nb."
+ HOTJOIN_CONFIRM:0 "nx³‹"
+ READY:0 "ÆQY1Sêu"
+ UNREADY:0 "*g1Sêu"
+ READY_TO_PLAY_MP:0 "$PLAYER|Y$ ò]ÏuÆQY1Sêu0"
+ NOT_READY_TO_PLAY_MP:0 "§Y$PLAYER$§!*gÆQY1Sêu"
+ MP_EDITING_CUSTOM_NATION:0 "$PLAYER$ ck(W‘N*NêšRINýV¶R."
+ PLAYER_NOW_IN_GAME:0 "$PLAYER|Y$ ò]ÏuYŽN8nb-N0"
+ CONDENSED_PROV_MOD_PAPAL:0 "úWzNú^Qrÿ$VAL$"
+ CONDENSED_PROV_MOD:0 "(W$NUM$Lˆw-N„vú^Qrirÿ$VAL$"
+ ADMINISTRATIVE_EFFICIENCY:0 "Lˆ?eHe‡s"
+ April:0 "ÛVg"
+ August:0 "kQg"
+ December:0 "ASŒNg"
+ February:0 "ŒNg"
+ Friday:0 "fg”N"
+ January:0 "Ng"
+ July:0 "Ng"
+ June:0 "mQg"
+ March:0 "	Ng"
+ May:0 "”Ng"
+ Monday:0 "fgN"
+ November:0 "ASNg"
+ October:0 "ASg"
+ Saturday:0 "fgmQ"
+ September:0 "]Ng"
+ Sunday:0 "fgåe"
+ Thursday:0 "fgÛV"
+ Tuesday:0 "fgŒN"
+ Wednesday:0 "fg	N"
+ INCOMETAX:0 "z6e"
+ INCOMETRADE:0 "8f"
+ INCOMEGOLD:0 "Ñ‘ÿw"
+ INCOMEVASSAL:0 "!Ñ‘"
+ INCOMEVASSALTAXEFF:0 "D–^SýVz6eHe‡s"
+ INCOMELOAN:0 ")Ro`"
+ INCOMESOW:0 "ŒTs^"
+ INCOMEDTAX:0 "ºN4Yz"
+ INCOMEEXPORTDUTIES:0 "Lˆz"
+ INCOMEHARBORFEES:0 "/n¡R9"
+ INCOMEMANUFAC:0 "å]‚S"
+ INCOME_WAR_REPARATION:0 "b‰NTP"
+ EXPENSEAM:1 "F–›Qôu³b9"
+ EXPENSEFM:1 "wm›Qôu³b9"
+ EXPENSEINTEREST:0 ")Ro`"
+ EXPENSELOAN:0 "PØ7>k"
+ EXPENSEFLEET:0 "/9‚9(u"
+ EXPENSEARMY:0 "F–›Q_ßR9(u"
+ EXPENSEMAN:0 "å]‚Sú^¾‹9(u"
+ EXPENSEFORT:0 "‰^Xú^¾‹9(u"
+ EXPENSERSR:0 "Ñyb"
+ EXPENSEPE:0 "8fŒTúWOxú^¾‹•beQ"
+ EXPENSESTAB:0 "3zšR¦^"
+ EXPENSEMER:0 "FUºNâV"
+ EXPENSECOL:0 "–kl0Wú^¾‹9(u"
+ EXPENSETRA:0 "8fÙzú^¾‹9(u"
+ EXPENSEMIS:0 "/OYeëX"
+ EXPENSELEADERS:0 "S†˜ "
+ EXPENSESPIES:0 "ô•Œ"
+ EXPENSECOURT:0 "˜î• "
+ EXPENSE_TECHNOLOGY:0 "¥c³u`no"
+ ADVISOR:0 "˜î•"
+ ADVISOR_CATEGORY:0 "$CATEGORY$ Advisor"
+ EXPENSE_WAR_REPARATIONS:0 "b‰NTP"
+ spanish_region:0 "‰ísYr0W:S"
+ INFANTRY:0 "ekuQ"
+ CAVALRY:0 "‘šuQ"
+ ARTILLERY:0 "®puQ"
+ HEAVY_SHIP:0 "'Y‹Wb0‚"
+ LIGHT_SHIP:0 "S‹Wb0‚"
+ GALLEY:0 "hh^b0‚"
+ TRANSPORT:0 "Ð“9‚"
+ CONVREL_PAPACY:0 "Ye—R6RàeÕllbc:NvQÖN—RYe."
+ AND_MONTHLY_THE_FOLLOWING:0 "v^NÏkgØSS $VAL$1uŽNÿ\n$DESC$"
+ PIETY_DESCRIPTION:1 "T†Ú‹¦^hˆ:y`O„výV¶R…QùRFz¯e—g„váOðNz¦^0pe<PÎN-100 (§Y^yØy;NIN§!) 0R100 (§YYeag;NIN§!).\nT†Ú‹¦^ÖS³QŽN†˜üRºN„vLˆ¨R0‹NöN	y˜S³QšR`O„vT†Ú‹ÿd–dkKNY ùR_ïzÿ_YeýV¶R²RbÿžX R	ÿÿùRøvTáOðNýV¶R²RbÿÏQS	ÿbw/f/OYeÿžX R	ÿ0"
+ PIETY_DESCRIPTION_ESTATES:1 "\n†˜üRw„vT†Ú‹SOq_ÍT0RT6–¶u„và_Ú‹¦^"
+ KARMA_DESC2:0 "(WjOYeáOðN„v<w-NÿN¥bãNhˆ`OÇ»SLˆ:N„v^y#W'`v^NÖS³QŽN`OÇ‘ÖS„vLˆ¨R„vÁTLˆwžXÏQ0N*N*Ygïz„vN¥bßu»lwONNLu1‚‚0N¥b*YØšO1Y»SëXuQáOûNÿ*YNOÈSOüRôY³Nàe›R0	gN¥b„výV¶RN—‰/eØNûNUOY³N¹ppeÿ1SïSåNR_Ø8hÃ_wýNÿv^ïSåN(WŒTs^OS®‹-NÊ‘>eýV¶RŒTø‹¯OýV0"
+ KARMA_DESC:0 "N¥bžX•ÎN:\n- §Y	gN:WsQŽN`O„vb‰N§!\n- §YeSLˆßv¦u§!\n- §YÊ‘>eD–¸^§!\n- §YÊ‘>eYŽNkPbOS®‹-N„výV¶R§!\n- §YR_Ø8hÃ_§!\n\nN¥bNM–ÎN:\n- §Y_b§!\n- §Y(WkPböeÐcúQrR©‹Lˆw§!"
+ PATRIARCH_DESCRIPTION:1 ";NYeCgZhˆ:yNckYeYeO(WýV…Q„vq_ÍTIr¶u.(WNckYeLˆw-Nÿ;NYeCgZpe<PØš„vÝ‹ïSÏQSÛSqNÎ˜i–ÿžX R ReQ›Q–„v°euQpeÏ‘0"
+ EFFECTIVE_INCOME_EXPL:0 "ÙSOå‹Lˆw„vÏkg6eeQžX R§Y$VAL$§!¤"
+ EFFECTIVE_INCOME_EXPL_YEARLY:0 "‚YdkNeg,gwKNt^6eeQSžX R§Y$VAL$§!¤"
+ EFFECTIVE_MANPOWER_EXPL:0 "ÙSOå‹Lˆw„vºN›RžX R§Y$VAL$§!."
+ EFFECTIVE_MANPOWER_NOGAIN:0 "§R°s(WÿÙ*Nú^Qrv^¡l	gžX RºN›R0Ù/f1uŽNºN›RHe‡sÇNO0§!"
+ OTHER_KNOWN_PATROL:0 "²Ì‘gS	g §Y$NUM$§! 0‚–(WƒôV…Q."
+ SIEGE_TO_FEW_MEN:0 "ºN›RN³ŽN:_;ewýN"
+ CANCEL_MISSION_DESC:0 "‚Yœg`O>e_S_MRûN¡RÿS‰Ir0R§Y$DATE$§WKNTMbýw	ébN*N°e„vûN¡R."
+ CONFIRMCANCELMISSION:0 "ÖSˆmûN¡R"
+ CONFIRMCANCELMISSION_TEXT:0 "`OnxšR‰>e_Ù*NûN¡RTÿ"
+ WAR_SCORE_99_DESC:0 "êS	g(W·ƒÜw¹e¶c6R†Nb%¹eOb	gLˆw0b%¹e¡l	g¶c6RûNUOÎW^Lˆw„vÅ`µQNÿMbýw·ƒ—_100%„vb‰N—_RÿŒRhQÜw)R	ÿ."
+ WAR_OVERVIEW_ENEMY_TROOPS_LOST:1 "Le¹eqQ_c1Y$NUM|Y$ è–0"
+ WAR_OVERVIEW_ENEMY_TROOPS_ATTRIT:0 "Le¹eàV_cwÏQXT $NUM|Y$ 0"
+ WAR_OVERVIEW_ENEMY_SHIPS_LOST:0 "Le¹eqQ_c1Y$NUM|Y$X‚9‚êS0"
+ WAR_OVERVIEW_OUR_TROOPS_LOST:1 "b¹eqQ_c1Y $NUM|Y$ è–0"
+ WAR_OVERVIEW_OUR_TROOPS_ATTRIT:0 "b¹eàV_cwÏQXT $NUM|Y$ 0"
+ WAR_OVERVIEW_OUR_SHIPS_LOST:0 "b¹eqQ_c1Y$NUM|Y$X‚9‚êS0"
+ WAR_OVERVIEW_ENEMY_CAVALRY:0 "Le¹eåb	g$NUM|Y$–‘šuQ."
+ WAR_OVERVIEW_WE_CAVALRY:0 "b¹eåb	g$NUM|Y$–‘šuQ."
+ WAR_OVERVIEW_ENEMY_INFANTRY:0 "Le¹eåb	g$NUM|Y$–ekuQ."
+ WAR_OVERVIEW_WE_INFANTRY:0 "b¹eåb	g$NUM|Y$–ekuQ."
+ WAR_OVERVIEW_ENEMY_ARTILLERY:0 "Le¹eåb	g$NUM|Y$–kp®p."
+ WAR_OVERVIEW_WE_ARTILLERY:0 "b¹eåb	g$NUM|Y$–kp®p."
+ WAR_OVERVIEW_ENEMY_TRANSPORT:0 "Le¹eåb	g$NUM|Y$X‚Ð“9‚."
+ WAR_OVERVIEW_WE_TRANSPORT:0 "b¹eåb	g$NUM|Y$X‚Ð“9‚."
+ WAR_OVERVIEW_ENEMY_GALLEY:0 "Le¹eåb	g$NUM|Y$X‚hh^9‚."
+ WAR_OVERVIEW_WE_GALLEY:0 "b¹eåb	g$NUM|Y$X‚hh^9‚."
+ WAR_OVERVIEW_ENEMY_LIGHTSHIPS:0 "LeºNåb	g$NUM|Y$X‚Š‹W9‚êS."
+ WAR_OVERVIEW_WE_LIGHTSHIPS:0 "b¹eåb	g$NUM|Y$X‚Š‹W9‚êS."
+ WAR_OVERVIEW_ENEMY_BIGSHIPS:0 "LeºNåb	g$NUM|Y$X‚Í‘‹W9‚êS."
+ WAR_OVERVIEW_WE_BIGSHIPS:0 "b¹eåb	g$NUM|Y$X‚Í‘‹W9‚êS."
+ WAR_OVERVIEW_BATTLESCORE:0 "Ù:Wb—eùRŽNb‰N—_R	g$SCORE$R„vq_ÍT."
+ WAR_SCORE_BATTLE_OF:0 "§Y$NAME$§!by_ÿ$VAL$"
+ WAR_OVERVIEW_BATTLE_VS:0 "@$TAG1$åN$NUM1|Y$*Nè–Û;e@$TAG2$$NUM2|Y$*Nè–."
+ WAR_OVERVIEW_BATTLE_VS_N:0 "egê$ATT$„v$NUM1|Y$›Q0‚ckNegê$DEF2$„v$NUM2|Y$›Q0‚³Nb"
+ WAR_OVERVIEW_BATTLE_VS_L:0 "$TAG1$„v$NUM1|Y$TëXuQ;eûQ†N$TAG2$„v$NUM1|Y$TëXuQ"
+ WAR_OVERVIEW_WARENTHUSIASM:1 "ÖNìN„vb‰NípÅ`:N$VAL$ ($DESC$)."
+ WAR_OVERVIEW_WAREXHAUSTION:1 "ŒSbz¦^:N$NUM$"
+ WAR_OVERVIEW_STABILITY:1 "å‹ýV„v3zšR'`:N$NUM$."
+ WAR_OVERVIEW_BLOCKADEPERCENT:1 "S•Ôk‡s:N$NUM$."
+ WAR_OVERVIEW_PARTICIPATION:1 "ÖNìN„vÂSN¦^/f $NUM$ ($NUM2$)."
+ WAR_OVERVIEW_MP_HIDDEN:0 "Ù*NáOo`(WYºN8nb-NN>f:yÿ"
+ PARTICIPATION_DESC:1 "ÂSNRpe(uŽNaˆÏ‘N*NýV¶R(Wb‰N-N„v;mÃz¦^0ƒR/fÇÂSNb—e0ôV;eŒTS•w·ƒ—_„v0"
+ BLOCKADE_DESC:1 "S•/nãSïSÏQS«ˆS•ýV¶R„vwmY6eeQ."
+ WARENTHUSIASM_DESC:1 "ÖNìNó`‰çuíub‰N.‚Yœgb‰NípÅ`<PƒNOÿasTOwÖNìNôf?aa¥c×SŒTŒ."
+ PROVINCE_VIEW_TRADEGOODS_PRODUCTION:0 "qQ$NUM|Y$¶NÏ‘ÿ`S;`¶NÏ‘$TOTAL|Y$ ."
+ CONFIRMDOF:0 "·ƒ—_áOðNˆR³bwðy÷Sÿ"
+ CONFIRMDOFDESC:0 "`OnxšR‰·ƒ—_áOðNˆR³bw„vðy÷STÿ"
+ SUPPORTED_RELATIONS:0 "Y³NsQû|"
+ SUPPORTED_RELATIONS_NONE:0 "¡l	gûNUOY³NsQû|."
+ MAX_RELATIONS:0 "`OïSN°‹é`Zåb	g$VALUE$Y³NsQû|ÿŸSàV‚YNÿ"
+ GUARANTEEING:0 "ÝOÁ‹ìrËz"
+ LEADING_UNION:0 ";NüRTwTßu»l"
+ LEADING_VASSAL:0 ";NüRD–¸^"
+ LEADING_SUBJECTTYPE:0 ";NüR$SUBJECTTYPE$"
+ LEADING_MARCH:0 "†˜üRLˆ›Q"
+ TRANSFERS_TRADE_POWER:0 "lûy8fÞz‰N›R"
+ RECEIVING_TRADE_POWER:0 "6eÞV8fÞz‰N›R"
+ MERCENARY_CANT_BUILD_COLONY:0 "àeÕl(W–kl0WLˆw-NÇ–cOcOuQ."
+ MERCENARY_CANT_BUILD_NO_FREE_MERC:0 "¡l	gcOuQïSÇ–cO."
+ MERCENARY_CANT_BUILD_OVERSEAS:0 "§RàeÕl(WwmYLˆw-NÇ–÷‹cOuQ.§!"
+ MERCENARIES_BUILD_TIME_REDUCTION:0 "cOuQ„vÇ–÷‹öeô•ÏQS$NUM|Y%1$."
+ BUILD_COST_MILTACTICS:0 "›Q‹Nb/g<POÛbßR_/ežX R$NUM|Y$."
+ BUILD_COST_NAVAL_OVERFORCELIMIT:0 "…Ç†Nè–NP–OžX R$NUM|Y$„v_/e."
+ NAVY_COMBAT_TOOLTIP:0 "$NAME|Y$/fN*N§Y'$TYPE$'§!.\nëXl<Pg'Y:N§Y$MORALE|1$%§!ÿÖNìN„v›RÏ‘<P:N$STRENGTH|Y$."
+ NAVY_COMBAT_TOOLTIP_LASTENGAGED:0 "NN!kkOb„vLe9‚:N$ENEMY|R$."
+ NAVY_COMBAT_TOOLTIP_NOENGAGED:0 "ÙX‚9‚(WNNn-N¡l	gNûNUOLeºN³Nb."
+ LAND_COMBAT_TOOLTIP_LASTENGAGED:0 "NN!kkOb„vLe¹eè–:N$ENEMY|R$."
+ HOTJOIN_LABEL:0 "àe ReQÿ"
+ PREPARING_AFTER_HOTJOIN:0 "ck(WÛLˆàe ReQT„vÆQYå]kO."
+ GAME_RESUME_IN:0 "8nbS(W$VALUE$ÒyTb`Y."
+ SERVER_HOTJOIN:0 "©s¶Ràe ReQ."
+ WAITING_FOR_HOTJOINING_PLAYER:0 "ck(WIr…_NMOàe ReQ„v©s¶R&&"
+ CREATING_SAVEGAME:0 "ub(uåNÑS„vXRch0"
+ PLAYER_ENTERING_GAME:0 "àe ReQ„v©s¶R°s(WÛeQ†N8nb."
+ SENDING_SAVEGAME:0 "ÑSXRchÙu $NAME|Y$."
+ SAVE_TRANSFER_COMPLETE:0 "$NAME|Y$ ×S0R†NXRch0"
+ CURRENTLY_ASSIGNED_TO:0 "S_MR«ˆc>mó$NAME|Y$(W $WHERE|Y$0"
+ NOT_CURRENTLY_ASSIGNED:0 "å‹S†˜*g«ˆc>m0"
+ UNIT_VIEW_CHOOSE_LEADER_RETREAT:0 "è–ck(W³dÿàeÕl	ébN*N°e„vc%cwÿ"
+ UNIT_VIEW_CHOOSE_LEADER_COMBAT:0 "è–ck(Wb—e-NÿàeÕl	ébN*N°e„vc%cwÿ"
+ UNIT_VIEW_CHOOSE_LEADER_PORT:0 "9‚êSN(W/nãS-NÿàeÕl	ébN*N°e„vc%cwÿ"
+ UNIT_VIEW_CHOOSE_LEADER_LOADED:0 "è–*gÅˆŒ0R9‚NÿàeÕl	ébN*N°e„vc%cwÿ"
+ UNIT_VIEW_CHOOSE_LEADER_ENEMY:0 "è–ckMOŽNLe¹e†˜0WNÿàeÕl	ébN*N°e„vc%cwÿ"
+ UNIT_VIEW_CHOOSE_LEADER_CONDOTTIERI:0 "àV:NÙ*Nè–ck(WkO:NcOuQÿObåNNýwôfbcS†˜ÿ"
+ CANNOT_ASSIGN_MONARCH_CONDOTTIERI:0 "NïSc>mT;NbçubºN:NcYÇ–cO›QâVS†˜0"
+ COMBATEND_UNIT_START:0 "åN$NUM|Y$_ËY."
+ COMBATEND_UNIT_LOST:0 "1Y»S†N$NUM|Y$."
+ COMBATEND_UNIT_END:0 "(Wby_Óu_gT	g$NUM|Y$*NºNx^XRNeg."
+ COMBATEND_CAPTURED_SHIPS:0 "b%¹e	g$NUM|Y$X‚9‚êS«ˆØO·ƒÿ"
+ NOCOLONISENONCITYADJACENT:0 "`OêSýw(WùRêñ]Lˆwÿ^—–kl0W	ÿ»Ñ„vLˆwÛLˆ–klÿbwêSýwùRN*N¿lwmLˆwÛLˆ–kl."
+ ADMIRAL_NO_NAVAL_FORCE_LIMIT:0 "wm›QNP–/f §Y0§!ÿ`O—‰N*Nck„vwm›QNP–MbýwÛbßRNTwm›QS†˜!"
+ LAG_BEHIND_HEADER:0 "$NAME$ YŽNö^ß-N!"
+ LAG_BEHIND_TEXT:0 "8nb¦^«ˆM–NOÿåN¿O©‹å‹©s¶RßNÛ¦^."
+ ECONOMY_ADVISOR_COST:0 "($SKILL|Y$)$NAME$$COST|Y2$¤"
+ ECONOMY_ADVISOR_NO_COST:0 "¡l	gÇ–cOûNUO˜î•ÿ"
+ ECONOMY_ADVISOR_COST_MODIFIER:0 "˜î•„vå]D«ˆ9e:Nÿ"
+ ECONOMY_ADVISOR_COST_MODIFIER_YEAR:0 "BaseÿúW,gå]Dÿ§Y+$VAL|%1$§! (Ïkt^§Y+$YEARLY|2%$§!)"
+ ECONOMY_ADVISOR_COST_CULTURE:0 "ùRŽNOb	gŽNßu»lw‡eSNô„v˜î•:\n"
+ SEND_GIFT_NOAMOUNT:0 "<yirpeÏ‘Nýw:N$VAL|Y0$¤ÿ"
+ ECONOMY_LOAN_DESC:0 "bìN	g$AMOUNT|Y$„v7>kÿÏkg/eØN)Ro`$INTEREST|Y$¤.NNrŽN$DATE|Y$0Rg."
+ ECONOMY_NO_LOANS:0 "bìN¡l	g7>k."
+ alert_max_loans_instant:0 "§Y`O¾0R†NP7!kpe„vNP–§!"
+ alert_max_loans_delayed:0 ""
+ BOOST_FACTION_TT:0 "O(u§Y$POW$§! $TYPE$›RÏ‘eg·ƒ—_ùR$FACTION$„v§G+$VAL$§!q_ÍT›R."
+ PAPAL_STATE_NO_INFLUENCE:0 "Ye—RÑv³býwN—_0RYeOq_ÍT›Rbw;NYe, w/fSvQ•bDó¢g:g;NYe„vpeÏ‘åNb:NYe—RÑv³b0"
+ EXPENSEDIPLOMATIC:0 "Y³N/eúQ"
+ NO_EXPENSESUPPORTREBELS:0 "bìN¡l	gûNUO/ecÛS›Q„v/eúQ."
+ WAR_OVERVIEW_NOT_FULL_ALLY:0 "§Y$COUNTRY$§!(WÙ:Wb‰N-NN/fTwTkObÿObåNÎNÖNìN²—_0RwýN‰ØNúQ3NPKNY„vãN÷N0"
+ WAR_OVERVIEW_LEADER_NOT_DEMAND:0 "ùR¹eßv;NïSýwNO‰BlŒTŒ"
+ WAR_OVERVIEW_LEADER_NOT_DEMAND_DESC:0 "ùR¹eßv;NïSýwNO(WŒTŒ-NÐcúQrR©‹LˆwÙubìNb‰BlbìNrR©‹Lˆw."
+ WAR_OVERVIEW_NO_PEACE:0 "bìNNýwŒT $COUNTRY$ USìr¾ZŒT."
+ WAR_OVERVIEW_LEADER_DEMAND:0 "ùR¹eßv;NïSýwONbìNŒ3R"
+ WAR_OVERVIEW_LEADER_DEMAND_DESC:0 "ùR¹eßv;NïSýwO(WŒTŒ-NÐcúQrR©‹LˆwÙubìNb‰BlbìNrR©‹Lˆw."
+ BLOCKADE:0 "S•"
+ WAR_OVERVIEW_IS_LEADER_DESC:0 "$WHO$/fb‰Nßv;NÿïSåNãNhˆte*N›Q‹NTwßvÛLˆŒ3R."
+ SORT_BY_WAR_CAPACITY:1 "	cgqb‰NípÅ`RŠ|"
+ SORT_BY_WAR_EXHAUSTION:1 "	cgqŒSbz¦^RŠ|"
+ SORT_BY_STABILITY:1 "	cgq3zšR¦^RŠ|"
+ SORT_BY_BLOCKADE:1 "	cgqS•Ôk‡sRŠ|"
+ SORT_BY_PARTICIPATION:1 "SÂSN¦^’c^"
+ WAR_OVERVIEW_TICKING_WARSCORE:0 "`OS_MRh°‹„vb—e¹ppe: $SCORE$. \n`OïSåNÇžR°sb‰Nîvh—_0R$MORE$b—eRpe0"
+ WAR_OVERVIEW_TICKING_WARSCORE_WG:0 "`OîvMR„vb‰NRpe/f: $SCORE$. \n`OïSåNçuíu·ƒ—_ $MORE$ b‰NRpeÇ¾bb‰Nîvh '$GOAL|Y$'."
+ WAR_OVERVIEW_TICKING_WARSCORE_MAX:0 "`OS_MRg'Yb—e¹ppe: $MAXSCORE$."
+ natives_american_inuit:0 "Ž2mŸSOOlàVÌuyrºN"
+ WG_ALLOW_TRADE_POWER:0 "lûy§Y$AMOUNT|Y%1$%§!„v8fÞz‰N›R"
+ TRANSFER_TRADE_POWER_TO_DESC:0 "$FROM$S(WÌS¹eýåb	gÞz‰N›R„v8f‚‚¹p-NÿŠb§Y$AMOUNT|Y%1$§!„v8fÞz‰N›RlûyÙu$TO$.(WkPbgô•Ùy˜;m¨RScíuÛLˆ."
+ WOULD_CANCEL_TRANSFERING_TO_OTHER:1 "§Y\nÖNìNSTöeÖSˆmùR$WHO$„vlûy.§!"
+ WOULD_LEAVE_TRADE_LEAGUE:0 "§R\nÙS:_ëÖNìNúQ1u$LEADER$†˜üR„v8fTwßv0§!"
+ TRANSFER_OTHERS_TRADE_POWER_TO_DESC:0 "$FROM$ (WÌS¹eýåb	gÞz‰N›R„v8f‚‚¹p-N,NQSÞz‰N›RÙuˆN $TO$.ÖSwãNKN,lÙu $ORG$.(WkPbgô•Ùy˜;m¨RScíuÛLˆ."
+ HUMILIATE_PEACE_DESC:0 "$FROM$ O_c1Y $AMOUNT|0Y$ ðXg,åNÊS·ƒ—_$POWER|0Y$ T;NZg"
+ HUMILIATE_RIVAL_PEACE_DESC:0 "$FROM$ S«ˆž±0"
+ PEACE_TRANSFER_TRADE_POWER:0 "lûy8fÞz‰N›R"
+ PEACE_TRANSFER_OTHERS_TRADE_POWER:0 "lûy $WHOS$ 8fÞz‰N›R"
+ PEACE_SHOW_STRENGTH:0 "US:yžR›R"
+ PEACE_HUMILIATE:0 "ž±"
+ INFLATION_DESC:0 "åb	gÇY„vÄžÑ‘6eeQÿøvùRŽNNvQÖN6eeQy˜îvwŠ	ÿbP7„vÝ‹OüRô'¨Àw."
+ INLAND_SEA_DESC:0 "Ù/fN*N…Qwmÿhh^9‚ïSåN(WÙÌ‘ÑS%côfØš„vkObHe‡sÿàVdkˆ_TO(uhh^9‚."
+ SIEGE_ATTACKER_INFANTRY_DESC:0 "Û;e¹eåb	g$NUM|Y$ekuQ."
+ SIEGE_ATTACKER_CAVALRY_DESC:0 "Û;e¹eåb	g$NUM|Y$‘šuQ."
+ SIEGE_ATTACKER_ARTILLERY_DESC:0 "Û;e¹eåb	g$NUM|Y$kp®p."
+ SIEGE_TIME_DESC:0 "$NAME|Y$'ò]cíu$NUM|Y$)Y."
+ SEARCH_FIELD_TEXT:0 "d1tÙÌ‘"
+ MANAGE:0 "¡rt"
+ SORT_BY_TAX:0 "åNz6e’cR"
+ SORT_BY_DEVELOPMENT:0 "SÑSUS’c^"
+ SORT_BY_CULTURE:0 "åN‡eS’cR"
+ SORT_BY_PRIMARY_CULTURE_GROUP:0 "åN;NAm‡eSÄuÀhÆ‰"
+ BUTTON_EMBRACE:0 "¥c³u"
+ INSTI_NOT_ACTIVE:0 "$NAME|Y$S*g«ˆÑS°s0"
+ INSTI_PRIMITIVE_CANNOT_EMBRACE_RELIGION:0 "ŸSËYýV¶R(W¥c³u`noKNMRÅ_Š˜ŒRbŸSËY—RYe9ei—0"
+ INSTI_PRIMITIVE_CANNOT_EMBRACE_GOVERNMENT:0 "ŸSËYýV¶R(W¥c³u`noKNMRÅ_Š˜ŒRbLˆ?e9ei—0"
+ INSTI_TOO_EXPENSIVE:0 "bìNàeÕl¥c³u$NAME|Y$ àV:NbìNÅbNw $COST|Y$¤ ÿbìNêS	g $CASH|Y$¤"
+ INSTI_NOT_ENOUGH_HOLD:0 "bìNàeÕl¥c³u $NAME|Y$ àV:NvQS*g(WbýV^Ûl„v/O­d0 óS—‰(WbìN;`SO„vÏuÇê»l¦^îOck„vÑSUS¦^-N`SÔkvRKN $NEED|Y$ ÿS_MRêS	gvRKN$CURR|Y$0"
+ EMBRACE_INSTI_COST:0 "¥c³u$NAME|Y$ S±‚9$COST|Y$¤ v^N9eØSbìN„vÑyx±‚9ÿ$TECH$"
+ MANAGE_OVEREXTENSION:0 "¡rtÇ¦^ib/_"
+ EMPEROR_DIPACTIONS_DESC:0 "‡v^ïSýwOÇ‘ÖS‚YNY³NLˆ¨Rÿ$LIST|Y$"
+ PAPAL_CONTROLLER_DIPACTIONS_DESC:0 "Ye—RïSýwOÇ‘ÖS‚YNY³NLˆ¨Rÿ$LIST|Y$"
+ PAPACY_NEXT_CARDINALS:0 "§YïSýw„vNNûN;NYe§W"
+ UNIT_UNLOCKED_AT_TECH:0 "$UNIT|Y$'(W·ƒ—_$TECH$ ($LEVEL$)TMbýwã‰•."
+ UNIT_REORG_TRANSFER:0 "¹pûQSOb	gå‹Š|‹WUSMOÇ»S\nóS.•¹pûQSJSpedkUSMOÇ»S"
+ CONDITION:0 "Å`µQ"
+ SORT_BY_CONDITION:0 "åNÅ`µQ’cR"
+ AVAILABLE_AT_MILTECH:0 "(W·ƒ—_›Q‹NÑyb($LEVEL$)TMbïS(u."
+ MP_NOT_IN_SYNC:0 "§Y$PLAYER$§!*gTekÿ÷‹©‹ÖN/yYÛLˆÞ¥c!"
+ RELIGION_GROUP_NOT_DOF:0 "$RELIGION|Y$/f$GROUP|Y$—RYeâVSO„vNèRÿv^NNAQ¸‹áOðN³bkSw."
+ MAPMODE_TERRAIN_DESC:0 ">f:y0Wb_.Ùyr+R/fùR`O³QšRb:W„vMOnASRÍ‘‰.ag¹uh°‹hˆ:yå‹Lˆw„v¶c6RCgN(WvQOb	gwKb-N."
+ MAPMODE_POLITICAL_DESC:0 "Ïk*NýV¶Rý	gêñ]ìryr„vœ˜r‚.ag¹uh°‹hˆ:yå‹Lˆw„v¶c6RCgN(WvQOb	gwKb-N."
+ MAPMODE_RELIGION_DESC:0 ">f:y0WþVN„v—RYeâVSO.ag¹uh°‹hˆ:yå‹Lˆw„v¶c6RCgN(WvQOb	gwKb-N."
+ MAPMODE_EMPIRE_DESC:0 "^SŽN^y#WWlš^ýV„vwýN«ˆOwr‚.+tr‚wýN^SŽN‡v^ÿÕhr‚^SŽNN*N	^¯OÿÝ„r‚^SŽNê1u^ÿÿur‚wýNêS/f^ýV„vNèR0Äžag¹u„vwýN/f^ýV„vNèRÿFOÖNìN„våb	gwv^N/f^y#WWlš^ýV„vNýNPR0Yjr‚ag¹uw/f^ýV„vNèRÿFOƒRìN(WàeSú^†˜;N„vßu»lKNN"
+ MAPMODE_TRADE_DESC:0 "9hncS+TwýN„v8f‚‚¹p:NwýNOwr‚.ËhPRh°‹hˆ:yå‹LˆwN(W8fƒôV…Q."
+ MAPMODE_DIPLOMACY_DESC:0 "9hncwýNåb	gwùROb	ýV¶R„vsQû|ÛLˆOwr‚.ag¹uh°‹Ob	„výV¶Råb	g;NCg²Rðy."
+ MAPMODE_ECONOMY_DESC:0 "9hnc¶c6RwýN„vÑSUS¦^'YSùRwýNNr‚"
+ MAPMODE_MANPOWER_DESC:0 "9hncºN›R„vpeÏ‘eg:NwýNOwr‚.¢ur‚hˆ:yå‹wýNåb	gSÏ‘ºN›RDnÿÄžr‚hˆ:yå‹wýNåb	g-NÄ‰-Néw„vºN›RDnÿÿur‚hˆ:yå‹wýNÌ‘åb	g'YÏ‘„vºN›RDn0"
+ MAPMODE_FORTLEVEL_DESC:2 "9hnc!X’WIr¶u:NwýNOwr‚.EmÝ„hˆ:yØš‰^XIr¶uÿñmÝ„hˆ:yNO‰^XIr¶u.ag&^h°‹hˆ:y!X’WIr¶u×SÐg›NîOck<Pq_ÍTžX RbNM–."
+ MAPMODE_TECH_COST_DESC:0 "9hncÑybIr¶u:NwýNOwr‚.ÿur‚wýNhˆ:yÑybIr¶uˆ_ØšÿÄžr‚hˆ:yÑybIr¶uÔkÿur‚NO.¢ur‚wýNãNhˆÑybIr¶ugNO."
+ MAPMODE_TRADE_VALUE_DESC:0 "9hnc8f<P:NwýNOwr‚.Ý„r‚ãNhˆÄžÑ‘wÿEm¢ur‚ãNhˆ8f<PNOÿñm¢u„v8f<Pz®_ØšN¹pÿÄžr‚hˆ:yØš8f<Pÿÿur‚hˆ:y8f<P^—8^Øš."
+ MAPMODE_SUPPLY_LIMIT_DESC:0 "9hnceˆÙuNP–:NwýNOwr‚.ñmÿuhˆ:yeˆÙuNP–ˆ_NOÿEmÿuhˆ:yeˆÙuNP–Øš."
+ MAPMODE_BUILDINGS_DESC:0 "9hncwýN…QïSú^/ú^QrpeÏ‘eg:NwýNOwr‚.Emÿur‚hˆ:yå‹wýNØïSåNú^/ˆ_Yú^Qrÿñmÿur‚hˆ:yå‹wýNêSýwú^/SÏ‘„vú^Qr.N*N«ˆÝ„r‚ag¹uh°‹„vwåb	gN*Nìryr„vú^Qr0"
+ MAPMODE_MISSIONARY_DESC:0 "9hnc/f&TïSåNlbc:NýV¶RáOðNeg:NwýNOwr‚.ÿur‚h×_wýNÌ‘	gOwNýV¶RáOðNNT„váOðNÿÝ„r‚hˆ:y«ˆlbc„vwýNÿppr‚hˆ:ywýNò]Ïu/fýV¶RáOðN†N."
+ MAPMODE_REGION_DESC:0 "9hncÖNìNObY0WßWeg:NwýNOwr‚0å‚SIQh¬`kP(WûNUOwýNNÿ1SO>f:yúQƒROb^S„v0W:Sÿ0WßWÿ'Y2m0"
+ MAPMODE_AREAS_DESC:0 "9hncÖNìNObY0W:Seg:NwýNOwr‚0å‚SIQh¬`kP(WûNUOwýNNÿ1SO>f:yúQƒROb^S„v0W:Sÿ0WßWÿ'Y2m0"
+ MAPMODE_VICTORYCARDS_DESC:0 ":Nåb	gÜw)RaS„vwýNOwr‚ÿ‚Yœg	g	ÿ0å‚SIQh¬`kP(WûNUO	gaS„vwýNNÿ1SSO>f:y²/_aS„vRpe0"
+ MAPMODE_CULTURE_DESC:0 "9hncNT„v‡eS:NwýNOwr‚v^>f:y‡eS„vTWR."
+ MAPMODE_OPINION_DESC:0 "9hncwýN;NºNùR	šRýV¶R„v`¦^Nr‚0"
+ MAPMODE_COALITION_DESC:0 "9hncwýN;NºNùR	šRýV¶R„vµOeuib/_`¦^Nr‚0œ˜r‚YŽNppr‚ŒTYjr‚KNô•0‚YœgN*NýV¶RYŽN¢ur‚ÿRÖNìNYŽNN*Nˆ”ùR`O„vSôVQ-N0"
+ MAPMODE_UNREST_DESC:0 "9hnc¨RqNOwr‚wýN0¢ur‚hˆ:ywýNØš¨RqNÿÄžr‚hˆ:y-NIr¨RqNÿÿur‚hˆ:yNObàe¨RqN0ag¹uhˆfwR1uÛSqNRPR¶c6R0"
+ MAPMODE_COLONIAL_DESC:0 "9hnc–klÝ»yŒTïS–kl'`:NwýNOwr‚.ÿur‚hˆ:y*g«ˆ–klv^NïSåN–kl„vwýNÿ¢ur‚hˆ:yÝ»y*YÜÿàeÕl–kl„vwýN.Ý„r‚hˆ:yò]Ïu«ˆ–kl„vwýNÿñmÝ„ôfñm„vÝ„hˆ:yOw–kl„vÛ¦^‚YUO.ppr‚hˆ:yò]Ïu–kl„vwýNbÎW^.""
+ MAPMODE_RIVALS_DESC:0 ":N¾‹`O:NŠkLe„výV¶Rb`O¾‹ŠkLe„výV¶RObåb	g„vwýNOwr‚"
+ MAPMODE_REBELTYPES_DESC:0 "9hnc`OýV¶R„vÛS›Q>mû|„vŠ|+Rÿeg:NwýNOwr‚0"
+ MAPMODE_GOVERNMENT_DESC:0 "9hncNT„v?eœ^Š|‹Weg:NwýNOwNT„vœ˜r‚"
+ MAPMODE_OVERSEAS_DESC:0 "ùRÆ‰:NwmY†˜W„vwýNOwb¢ur‚ÿ while n>on-overseas provinces are colored green."
+ MAPMODE_PLAYERS_DESC:0 "9hnc©s¶Reg:NwýNOwr‚ÿv^NS©s¶R„vTWR>f:yNvQ¶c6R„výV¶RKNN."
+ MAPMODE_CLIMATE_DESC:0 "9hncwýN„vlPOwr‚,	gg0W,r^ñeåNÊSíp&^lP„vwýN."
+ MAPMODE_WINTER_DESC:0 "9hncÖNìN8^(WSOŒš„vNTŠ|‹W„v¬Q)YÛLˆOwr‚."
+ MAPMODE_TRADE_GOODS_DESC:0 ">f:yÀNHNwýNu¶NÀNHN'ir."
+ MAPMODE_FEDERATIONS_DESC:0 ">f:yNLuNXR(W„vTw¦."
+ MAPMODE_LOCAL_AUTONOMY_DESC:0 "ÿur‚„vwýN0W¹eê»l¦^¥cÑ0%0¢ur‚„vwýN0W¹eê»l¦^¥cÑ100%0"
+ MAPMODE_ACCEPTEDCULTURES_DESC:0 "9hnc¥c×S‡eSeg:NwýNOwr‚ÿv^>f:y‡eS„vTWR.;NAm‡eS„vwýN/fEmÿur‚ÿ¥c×S‡eS„vwýN/fñmÿur‚ÿ(WN`OTN‡eSÄu„v‡eS„vwýN/fÄžr‚0N¥c×S‡eS„vwýN/f¢ur‚0‚Yœg`Ock(WlbcNÍyN¥c×S‡eSÿƒRS>f:ybYjr‚wN/f¢ur‚0"
+ MAPMODE_SIMPLE_TERRAIN_DESC:0 ">f:y0Wb_0ÏkÍyœ˜r‚ãNhˆNÍyyršR„v0Wb_Š|‹W0S_`O³QšR‰ÂS Rb—eöeÿ0Wb_Š|‹W„vÍyŠ|1S>f—_3SvQÍ‘‰0ag¹uhˆfN/fåb	gdkW0W„v;NºN¶c6RN„vwýN0"
+ MAPMODE_PATRIARCHS_DESC:1 "This displays states with Consecrated Metropolitans. Yellow states have a Metropolitan, green states can be assigned one, and red states cannot have a Metropolitan."
+ MAPMODE_DEVASTATION_DESC:1 ">f:ywýN„vRƒŸ^¦^ÿŠ¢uhˆ:yRƒŸ^¦^ŠØšÿppr‚hˆ:y¡l	gRƒŸ^¦^."
+ MAPMODE_DYNASTY:0 "‹s³R"
+ MAPMODE_DYNASTY_DESC:0 "Çßu»l‹sg„vNTegùRwýNNr‚ÿv^>f:yÙ›N‹sg„vTWR0"
+ MAPMODE_TRADE_LEAGUES:0 "8fTwßv"
+ MAPMODE_TRADE_LEAGUES_DESC:0 "åNOb^S„v8fTwßvÙuwýNNr‚0‚Yœg`O/fN*N8fTwßv†˜üRwÿØO>f:yÀNHNýV¶RïSåN ReQ`O„v8fTwßvåNÊSÖNìN/f&T?aa0"
+ MAPMODE_GREAT_POWERS:0 ":_Cg"
+ MAPMODE_GREAT_POWERS_DESC:0 "åNOb^S:_CgegÙuwýNNr‚0:_Cg«ˆ(u,gýVœ˜r‚hÆ‹ÿvQÖN„výV¶R†v/fppr‚0ck(W'N1Y:_Cg„výV¶RO&^Nag¹u0"
+ MAPMODE_LOOT:0 "«R c"
+ MAPMODE_LOOT_DESC:0 "œ˜r‚:SßWhˆ:yck(WNbìN³Nb„výV¶R„vwýNÿNTœ˜r‚ãNhˆiRYO„v«R c˜¦^."
+ MAPMODE_STATES_TERRITORIES:0 "ôv^SÞ]ŒTê»l†˜0W"
+ MAPMODE_STATES_TERRITORIES_DESC:0 "ôv^SÞ]hˆ:y:Nÿur‚ÿê»l†˜0W„vwýNhˆ:y:NÄžr‚ÿ–™ýOb(W„vôv^SÞ]hˆ:y:N®Nÿur‚."
+ MAPMODE_STATES_EDICTS:0 "wýNÕläN"
+ MAPMODE_STATES_EDICTS_DESC:0 "åNS_MRÕläN:NwýNNr‚."
+ REDUCE:0 "ÏQS"
+ arid:0 "r^ñe"
+ COLONIAL_CORE:0 "$PROV|Y$åb	gê»l†˜0W8hÃ_. ƒRNO¶NuÇ¦^ib/_ÿFOƒRSOôucwýNƒØš„v0W¹eê»l¦^ÿv^NNæe«ˆµO`S1SO1Y»S8hÃ_. ê»l†˜0W8hÃ_SO(WlS:Nôv^SÞ]TØS:NŒRhQ8hÃ_."
+ OVEREXT_PROV_PART:0 ";`Ç¦^ib/_<P!.s†N§Y$VAL|%$§!ÿ"
+ SORT_OVEREXT:0 "åNÇ¦^ib/_’c^"
+ COURTVIEW_UNION_WITH:0 "ŒT$WHO|Y$„vTwTßu»l"
+ COUNTRY_MODIFIERS:0 "ýV¶RîOck"
+ LEDGER_TRADING_BONUS:0 "8fVY±R"
+ CLAIMS:0 "8hÃ_ŒT²Rðy"
+ ABANDON_CORE_COST:0 ">e_N*N8hÃ_ïSåNb`YNîvhýV„vsQû|0Ù*NO±‚9`O §R$COST$§!Zg0"
+ ABANDON_CORE_TITLE:0 ">e_8hÃ_"
+ RETURN_PROVINCE_DESC_1:0 "ÔÞV §Y$PROV$§! ó §Y$COUNTRY$§! O9e„UÖNìNùR`O„vwÕlÇ$AMT$."
+ RETURN_PROVINCE_DESC_2:0 "Ù*NO±‚9`O §R$COST$§! Zg0"
+ RETURN_PROVINCE_TITLE:0 "R_ØwýN"
+ ABANDON_CORE_OWNER:0 "NïSýw>e_`Oåb	g8hÃ_„vwýN0"
+ CONSTRUCTION_QUEUE:0 "–R"
+ CONSTRUCTION_QUEUE_NONE:0 "àe"
+ DISMANTLE_HRE_PRESTIGE_DESC:0 "ã‰ce^y#WWlš^ýVOžX R§G$VAL$§!ðXg."
+ DEFENDER_HAVE_POSITIVE_PRESTIGE:0 "S_MR„v2–¡_w	gOwckðXg."
+ PROVVIEW_OCCUPIED_BY:0 "§Y«ˆ$WHO$§!`S	g"
+ PROVVIEW_OCCUPIED_BY_YOU:0 "§Y«ˆ`O§!`S	g""
+ TRANSFER_OCCUPATION_SHIELD_DESC:0 "¹pûQÙÌ‘ŠbwýN¶c6RCgl³NÙuN*Nb‰NßvËS0"
+ PROVINCE_TRANSFER_UNDER_SIEGE:0 "Nýwlûy«ˆôVðVw„v¶c6R0"
+ PROVINCE_TRANSFER_NO_VALID:0 "`OïSåNlûy¶c6RCgó¡l	gb‰N„vßvËS0"
+ TRANSFER_NOT_CONTROLLER:0 "êS	g¶c6RwMbýwSwýNlûyóvQÖNýV¶R0"
+ TRANSFER_VALID_ALLIES:0 "¨`ïSåNS¶c6RCgûy0R$LIST$0"
+ CANCEL_MISSIONARY:0 "ÖSˆm/OYe"
+ CANCEL_CULTURE_CONVERT:0 "ÖSˆm‡eSlSÇz."
+ CANCEL_CORE_PROGRESS:0 "ÖSˆm‡eSlSÇz."
+ CANCEL_BUILDING:0 "ÖSˆmú^/."
+ CANCEL_UNIT_PRODUCTION:0 "ÖSˆmƒRìNÿ"
+ CANCEL_MIL_CON_RULES:0 "ûQeg§RÖSˆm§!ú^¾‹.\n\nS_ú^¾‹ÇzSŽN§Y$PERC1|%0$§!ÿbìNO—_0Rú^/±‚9„v§G$PERC2|%0$§!.&TRbìNêSýw—_0R§R$PERC3|%0$§!"
+ CANCEL_MIL_CON_REFUND:0 "bìNO—_0Rÿ"
+ CANCEL_MIL_CON_REFUND_CASH:0 "$CASH|+1$¤"
+ CANCEL_MIL_CON_REFUND_MAN:0 "$MAN|+0$ºN›RDn"
+ CANCEL_MIL_CON_REFUND_SAILOR:0 "$MAN|+0$ 4lKb."
+ HAS_NO_MANUFACTORY:0 "¡l	gûNUO„v6R/‚SŠ|ú^Qrÿ"
+ DESTROY_BUILDING_LEVEL_LIMIT:0 "(W`Oú^/$LEVEL|Y$¶uú^QrKNMRÿ`OàeÕlgdÁkN*N$GROUP|Y$ú^Qr."
+ PROVINCE_VALUES:0 "wýN÷N<P"
+ NO_ARMY_CONSTRUCTIONS_QUEUE:0 "¡l	g›Q–ú^¾‹–Rÿ"
+ NO_NAVY_CONSTRUCTIONS_QUEUE:0 "¡l	g9‚êSú^¾‹–Rÿ"
+ NO_CONSTRUCTIONS_QUEUE:0 "ú^¾‹–R:Nzz"
+ CULTURE_DESC:0 "‚YœgwýN„v‡eSNýV¶R„vnfM‡eSNTÿ²HNvQ¶NúQOØSSÿv^NOôf¹RfÑSuÍSÛS.N¡r`O/f&T¥c×Sÿû|ßuýOê¨RRŠ|‡eSÿÙÖS³QŽNƒRìN„vÄubºNãS	gYS.8^ÿ`OýV¶R-NºNãSgY„v²èRºN„v‡eS1S/f`O„výV¶R‡eS.¶c6RN*NŒT`O„v;N‰‡eSYŽNTN*N‡eSâVSO„vwýNOÔk¶c6RN*N‡eSŒRhQNT„vwýNé`ZôfS.""
+ PROVVIEW_CLAIM_CORE_DESC:0 "åNN„výV¶R³‹:Nêñ]TÕlåb	gå‹wýNÿN¡r/fùRå‹wýN²R^;NCgÿØ/fSå‹wýNR:NvQ8hÃ_wýN."
+ SUPPLY_LIMIT_EFFICIENCY:0 "›OÙuP–¦^He‡s"
+ TAX_INCOME_EFFICIENCY:0 "z6eHe‡s"
+ NO_SETTLEMENT_PRODINCOME:0 "*g–kl„vwýNNOÐc›Ou¶N6eeQ."
+ MANPOWER_EFFICIENCY:0 "ºN›RDnHe‡s"
+ SAILORS_EFFICIENCY:0 "4lKbHe‡s"
+ TRADE_POWER_EFFICIENCY:0 "8fÞz‰N›RHe‡s"
+ OUTLINER_DIPLOMAT_DELAYED:0 "§GóS.•¹pûQegìSÞVY³N˜R§!"
+ OUTLINER_AUTODIPLOMAT_CHECKDATES:0 "NN*NY³Nîvh $LASTDATE|Y$. Í‘°eMR_$NEXTDATE|Y$."
+ OUTLINER_AUTODIPLOMAT_INSTANT:0 "1uŽNÕläNÿ$RULENAME|Y$ÿÙ*NY³N¶R(Wê¨RÐcGSsQû|."
+ OUTLINER_AUTODIPLOMAT_DELAYED:0 "§GóSûQ§!åNÖSˆmY³N¶Rê¨RLˆ¨R."
+ OUTLINER_CANCEL:0 "\n§GóS.•åNÖSˆm§!"
+ COUNTRYRIGHTCLICK_INTERESTING_MARK:0 "SN*NýV¶Rh°‹:NyrŠk)RÊv."
+ COUNTRYRIGHTCLICK_INTERESTING_UNMARK:0 "ÖSˆmSN*NýV¶Rh°‹:NyrŠk)RÊv"
+ MP_SERVER_ID:0 "g¡RhVTðyÿ$VAL|Y$"
+ OVEREX:0 "Çib"
+ BORDER_DISTANCE:0 "¹LuÝ»y"
+ DIPLO_ATTITUDE:0 "ùR$COUNTRY$„v$ATTITUDE$`¦^ÿ"
+ DIPLO_ATTITUDE_MULTI:0 "$COUNTRY01$ `Ow $ATTITUDE$„v`¦^b—ùR$COUNTRY02$: "
+ ATTITUDETO:0 "ùR$NAME$„v§Y$ADJ$`¦^ÿ§!"
+ PERSONALITYOF:0 "§Y*N'`:§!"
+ GOVERNMENT_RANK_LESS_THAN:0 "?eœ^Ir¶uNOŽN"
+ GOVERNMENT_RANK_GREATER_THAN:0 "?eœ^IróS/f"
+ BORDER_DISTANCE_LESS_THAN:0 "ýVƒXKNô•„vÝ»ySŽN"
+ BORDER_DISTANCE_AT_LEAST:0 "ýVƒXKNô•„vÝ»yóS/f"
+ DIPLOMATIC_DISTANCE_LESS_THAN:0 "–™ýKNô•„vÝ»ySŽN"
+ DIPLOMATIC_DISTANCE_AT_LEAST:0 "–™ýKNô•„vÝ»yóS/f"
+ PROVINCE_DISTANCE_LESS_THAN:0 "$FROM|Y$N$TO|Y$ KNô•„vÝ»ySŽN$VALUE|Y$."
+ PROVINCE_DISTANCE_AT_LEAST:0 "$FROM|Y$N$TO|Y$KNô•„vÝ»y'YŽN$VALUE|Y$"
+ ANTAGONISM_LESS_THAN:0 "LeaSŽN"
+ ANTAGONISM_AT_LEAST:0 "LeaóS/f"
+ BEFRIEND_LESS_THAN:0 "ËSŒSŽN"
+ BEFRIEND_AT_LEAST:0 "ËSŒóS/f"
+ PROTECT_LESS_THAN:0 "ÝO³baÆ‹SŽN"
+ PROTECT_AT_LEAST:0 "ÝO³baÆ‹óS/f"
+ VASSALIZE_LESS_THAN:0 "OD–>PTSŽN"
+ VASSALIZE_AT_LEAST:0 "OD–>PTóS/f"
+ PROTECTORATE_LESS_THAN:0 "b:NÝO³býV„v>PTSŽN"
+ PROTECTORATE_AT_LEAST:0 "b:NÝO³býV„v>PTóS"
+ ALLIANCE_LESS_THAN:0 "Tßv>PTSŽN"
+ ALLIANCE_AT_LEAST:0 "Tßv>PTóS/f"
+ THREAT_LESS_THAN:0 "ZÁwSŽN"
+ THREAT_AT_LEAST:0 "ZÁwóS/f"
+ RIVALRY_LESS_THAN:0 "Þz‰N'`SŽN"
+ RIVALRY_AT_LEAST:0 "Þz‰N'`óS/f"
+ TRUST_LESS_THAN:0 "áOûN¦^SŽN"
+ TRUST_AT_LEAST:0 "áOûN¦^óS/f"
+ NAVY_NONE:0 "¡l	gwm›Q"
+ ARMY_NONE:0 "Sàe›Q–"
+ ARMY_BALANCE_LESS_THAN:0 "øvùR›Q–Ôk‹OSŽN"
+ ARMY_BALANCE_AT_LEAST:0 "øvùR›Q–Ôk‹OóS/f"
+ NAVY_BALANCE_LESS_THAN:0 "øvùRwm›QÔk‹OSŽN"
+ NAVY_BALANCE_AT_LEAST:0 "øvùRwm›QÔk‹OóS/f"
+ MILITARY_STRENGTH_LESS_THAN:0 "øvùR›Q‹N›RÏ‘Ôk‹_SŽN"
+ MILITARY_STRENGTH_AT_LEAST:0 "øvùR›Q‹N›RÏ‘Ôk‹_gS/f"
+ ARMY_STRENGTH_LESS_THAN:0 "øvùR›Q‹N¹ppeÔk‹OSŽN"
+ ARMY_STRENGTH_AT_LEAST:0 "øvùR›Q‹N¹ppeÔk‹OóS/f"
+ NAVY_STRENGTH_LESS_THAN:0 "øvùRwm›Q›RÏ‘Ôk‹OSŽN"
+ NAVY_STRENGTH_AT_LEAST:0 "øvùRwm›Q›RÏ‘Ôk‹OóS/f"
+ AI_PERSONALITY_CHANGE:0 "'`<hlØS:N§Y$PER$§W.\n"
+ AI_ATTITUDE_CHANGE:0 "ùR§Y$COUNTRY$§!„v`¦^lØS:N§Y$ATT$§W.\n"
+ IS_ON_CONTINENT:0 "XR(WŽN"
+ IS_NOT_ON_CONTINENT:0 "NXR(WŽN"
+ human:0 "ºN›R"
+ an_ai_capitalist:0 "b:NLˆ?e¡rtw"
+ an_ai_diplomat:0 "b:NY³N¶R"
+ an_ai_colonialist:0 "b:N–kl;NINw"
+ an_ai_balanced:0 "åb	gs^aˆyr'`"
+ an_ai_militarist:0 "b:N›QýV;NINw"
+ ai_capitalist:0 "D,g¶R"
+ ai_diplomat:0 "Y³N¶R"
+ ai_colonialist:0 "–klw"
+ ai_balanced:0 "s^aˆ„v"
+ ai_militarist:0 "›Q‹N¶R"
+ human_desc:0 "§Y$ADJ$§! „vßu»lw/fN*NºNŠ|©s¶R"
+ ai_capitalist_desc:0 "§Y$ADJ$§! „vßu»lw/fNèlŽNLˆ?e¡rt.ÖNìNýV¶RO:NÃOÛÏuNmžX•wûRbûNUO	gHe„v?eVr,àVdkÖNìNtQ²>PTŽN8fw^—àe(u„vb‰N."
+ ai_diplomat_desc:0 "§Y$ADJ$§! „vßu»lw>PTŽNY³N‹N¡R.ÖNìNÇY³NKbµkûRb:_'Y„vßvËSv^M|dkib/_Y³N¿R›R,wÖNìNýV¶RŒ†6qgbOwŽN6eY1Y0W,FOÜNOàVdkw_b."
+ ai_militarist_desc:0 "§Y$ADJ$§! „vßu»lw/fN*N›QýV;NINw.ÖNìNýV¶RäRŽNïygib/_,ùRÖN„vÑ»ÑS¨RµOeu,Ûw‘˜‘˜O(ufk›RKbµk."
+ ai_balanced_desc:0 "§Y$ADJ$§!„vßu»lw>PTCg›Rs^aˆyr'`.ÖNìNýV¶R?aa:NGW¿ROSb—ÑS¨Rb‰N,bÛLˆY³NŒTFUN„vKbµk,åNÊSvQÖNN›N¾–åN0O—r„vyrŠk¹eÕl."
+ ai_colonialist_desc:0 "§Y$ADJ$§!„vßu»lw>PTŽN–kl;NIN.ÖNìNýV¶R„v×_T(WŽNùRwmYNLu„vib/_,v^ípwˆÝOcùRÑ»„vËSŒYsQû|."
+ attitude_unknown:0 "*gåw"
+ attitude_human:0 "ºNŠ|"
+ attitude_hostile:0 "Lea"
+ attitude_rivalry:0 "Þz‰N'`"
+ attitude_outraged:0 "3a`<P"
+ attitude_friendly:0 "ËSŒ<P"
+ attitude_protective:0 "ÝO³b'`"
+ attitude_overlord:0 "—R;N"
+ attitude_loyal:0 "à_Ú‹"
+ attitude_disloyal:0 "Nà_"
+ attitude_rebellious:0 "ÛS»y"
+ attitude_domineering:0 "4ng/eM‘"
+ attitude_threatened:0 "×S0RZÁw"
+ attitude_neutral:0 "-NËz"
+ attitude_defensive:0 "2–¡_Tßv"
+ attitude_allied:0 "ßvËS"
+ attitude_unknown_desc:0 "§Y$COUNTRY$§!ùR§Y$TARGET$§!NàeObåw."
+ attitude_human_desc:0 "§Y$COUNTRY$§!/fºNŠ|©s¶R.ÖNìNùR§Y$TARGET$§!„v`¦^1uÖNìNêñ]³QšR"
+ attitude_hostile_desc:1 "§Y$COUNTRY$§!lQ6q`	gùR§Y$TARGET$§!„vLeaÿNSýBl_gN|kmpå‹ýV.NLeùRýV¶R„vY³N¸‹YöePêS/f’_6q."
+ attitude_rivalry_desc:0 "§Y$COUNTRY$§!S§Y$TARGET$§!¾‹:NvQ¿RLeÿNûRBlhQb—…Šå‹ýV.TýV>PTåN»ÑwýV›Røvå‚„výV¶R:N¿RLeÿwNÙ›NÞz‰NýV¶R„vY³N¸‹YöePêS/f’_6q."
+ attitude_defensive_desc:1 "§Y$COUNTRY$§! ³‹:N §Y$TARGET$§! /fÖNìN(W2–¡_Tßv-N„vßvËSÿÖNìNN*YïSýwOÂS RûNUOÖNìNÑS¨R„vµOeub‰N0"
+ attitude_outraged_desc:0 "§Y$COUNTRY$§!Æ‰§Y$TARGET$§!:NEQánÛ;e'`„v_gwÿv^Nó`©‹vQfŒvêñ]àQ³eàQ3N.ƒRìNïSýwOb:NÍSùRƒRìNTwßv„v8hÃ_."
+ attitude_friendly_desc:1 "§Y$COUNTRY$§!Æ‰§Y$TARGET$§!:NùR—bvQÖNZÁwÖNìN„výV¶R„v)Y6qßvËS.ƒRìN>PTŽNr¢‹TwßvOSšR."
+ attitude_protective_desc:0 "§Y$COUNTRY$§!Æ‰§Y$TARGET$§!:NvQÝO³bƒôV…Q„výV¶Rÿv^Nó`‰ÇÝOÁ‹bSKNØSbêñ]„vø‹¯OýVegÝO³bƒRN«ˆµOeu."
+ attitude_overlord_desc:0 "§Y$COUNTRY$§!Æ‰§Y$TARGET$§!:Nêñ]„v^SýV."
+ attitude_loyal_desc:0 "§Y$COUNTRY$§! ³‹:N §Y$TARGET$§! /fÖNìN„v—R;NýV„v—R;N0"
+ attitude_disloyal_desc:0 "§Y$COUNTRY$§! ³‹:N§Y$TARGET$§! /fN*N‹S¨iÖNìN„vT;NÿÖNìNN*YïSýw(Wb‰N-N.^ÀNHNÙ_0"
+ attitude_rebellious_desc:0 "§Y$COUNTRY$§!³‹:N §Y$TARGET$§! /fN*N^—ckIN„v´fTÿÖNìNïSýwOÑS¨RN:WìrËzb‰N0"
+ attitude_domineering_desc:0 "§Y$COUNTRY$§! ³‹:N §Y$TARGET$§! /f*geg„v^SýVv^NNOžŽNÑS¨RëOÖNìNb:ND–¸^„vb‰N0"
+ attitude_threatened_desc:0 "§Y$COUNTRY$§!³‹:N§Y$TARGET$§!ùRêñ]„vìrËz/f*NZÁw.:N†Nê«Ž‰RhQÿÖNìNOÕ‹þVŒTÙ*NýV¶RTßvÿNÇ‚YœgTßvOþV1Y%„vÝ‹RO»SûRbvQÖNôf:_'Y„vßvËS."
+ attitude_neutral_desc:1 "§Y$COUNTRY$§!ùR§Y$TARGET$§!¡l	gÀNHNwÕlÿïSýw/fàV:NÝ»yÇÜbw¡l	gqQT)RÊv.ŒTN*N-NËzýV¶RÛLˆY³NOz®_	g›NðV¾–."
+ attitude_allied_desc:0 "§Y$COUNTRY$§! ³‹:N §Y$TARGET$§! /fN*N	g(u„vßvËS0"
+ WAR_ENTHUSIASM_HIGH:0 "§GØš§!"
+ WAR_ENTHUSIASM_MEDIUM:0 "§Y-N§!"
+ WAR_ENTHUSIASM_LOW:0 "§RNO§!"
+ WAR_ENTHUSIASM:0 "ÖNìN„vb‰NípÅ`/f"
+ MODIFIER_MAX_COALITION_SIZE:0 "g'YTw›Qpe"
+ SIEGE_MERGE_UNITS:0 "Tv^`O„vôVÎWUSMO."
+ SIEGE_MERGE_UNITS_MERGED:0 "`O„vôVÎWUSMOò]ÏuTv^Ç†N."
+ SIEGE_MERGE_UNITS_DEFENDER:0 "`ON/f;eûQ¹eÿNýwTv^USMO."
+ SIEGE_PHASE_DESC:0 "Ý»yNN*NôVÎW6–µkØ	g$DAYS|Y$)Y.Ïk*NôVÎW6–µkcíu$PHASEDAYS|Y$)Y."
+ SIEGE_ATTACKER_NO_COMMANDER:0 ";eûQ¹e¡l	gôVÎWc%c˜R."
+ SIEGE_BONUS_LEADER:0 "§YôVÎWc%c˜R§!&^eg„v6–µkÛ¦^îOck."
+ SIEGE_BONUS_ARTILLERY:0 "§Y®puQôV;e§!&^eg„v6–µkÛ¦^îOck."
+ SIEGE_BONUS_FORT:0 "§YÎW!XIr¶u§!&^eg„v6–µkÛ¦^îOck."
+ SIEGE_BONUS_BREACH:0 "§YÎW™X4xÂˆ!§!&^eg„v6–µkÛ¦^îOck."
+ SIEGE_BONUS_NOBLOCKADE:0 "wýN§Y*g«ˆS•§!&^eg„v6–µkÛ¦^îOck."
+ SIEGE_BONUS_BLOCKADED:0 "wýN§Y«ˆS•§!&^eg„v6–µkÛ¦^îOck."
+ SIEGE_PROGRESS_DESC:0 "S_MR§YôV;e¶rµQ§!üRô„v6–µkÛ¦^îOck.pe<PƒôV:N$MIN|Y0$0R$MEMORY|Y0$."
+ PORT_BLOCKADE:0 "$WHO$ (ÑSUS: $TAX|0$) «ˆS•b $VAL|0$"
+ PORT_BLOCKADE_DESC:0 "S•ÇÔkƒ`Owm›Q;`9‚ŒTwýNÑSUS¦^'YSÛLˆ¡‹—r„v0"
+ PORT_BLOCKADE_SAIL_SPEED:0 "*‚Lˆ¦^: $SPEED|0G$"
+ PORT_BLOCKADE_CAPACITY:0 "Ù*Nwm›QŒRhQ	gýw›RS•øv»/nãSwýNÑSUS¦^KNŒT :N$VAL|Y0$  „vhQèwýN0"
+ NUM_OF_SHIPS:0 "0‚9‚„v;`pe"
+ SIEGE_BONUS_DICE:0 "§Yx^Ð¹ppe§!&^eg„v6–µkÛ¦^îOck."
+ CLOSE_UNIT_VIEW:0 "§YsQí•§!"
+ DESELECT_ALL:0 "sQí•hQè"
+ DESELECT_ALL_DESC:0 "SÖSˆmOb	g	-N„vUSMO."
+ REORGANIZE_UNITS:0 "§YÍ‘ÄuUSMOs§!"
+ SELECT:0 "	-N"
+ RIGHT_CLICK_TO_CENTER:0 "óSûQdkUSMO(WOSU^NES-N."
+ CLICK_TO_CENTER:0 "SdkUSMO(WOSU^NES-N."
+ GAMESETUP_SHOW_UNSAFE:0 ">f:yN|Q¹R„vXRch"
+ MENU_BAR_LOCALGAMES:0 "S_0W"
+ MENU_BAR_CLOUDGAMES:0 "‘N"
+ MENU_BAR_DELETE_ALL:0 "/Rd–Ob	g"
+ CONFIRMDELETETITLE:0 "/Rd–‡eöN"
+ CONFIRMDELETETEXT:0 "`OnxšR‰/Rd–§Y$NAME$§!Tÿ"
+ CONFIRM_DELETE_ALL_TITLE:0 "/Rd–Ob	g‡eöN"
+ CONFIRM_DELETE_ALL_TEXT:0 "`OnxšR‰/R‰cÙ*NîvU_Ì‘b—Ob	gÝOXRŒY„v8nbXRchHNÿÙ*NNýw³d•„væT~"
+ MENU_BAR_DISK_QUOTA:0 ";`¡‹$TOTAL$ÿ$AVAIL$zzò•"
+ FE_CONTENT:0 "…Q¹R"
+ CULTURE_CONSTRUCTIONS:0 "‡eSTS"
+ CORE_CONSTRUCTIONS:0 "8hÃ_ú^¾‹"
+ ADVISOR_FIRE:0 "ã‰Ç–˜î•"
+ NO_ADVISOR_HIRED:0 "`O¡l	gÇ–cOûNUO$POWER$˜î•."
+ ECOVIEW_MAINT_TP_PENALTY:0 "Š‹W9‚êS8fÞz‰N›Rÿ$VAL$"
+ HRE_VOTE_SCORE_DESC:0 "Ïk*Ng§Y$ELECTOR$§WO9hncgØš„v•bhyRpe9eØSÖNìNOb/ec„výV¶R."
+ HRE_OTHER_VOTE_SELF:0 "§Y$ELECTOR$§W„v	¯Ock(W/ecÖNìNêñ]ZP‡v^."
+ CURRENTLY_VOTING_FOR_SELF:0 "bìNck(W/ecbìNêñ]ZP‡v^."
+ HRE_RELATION_SELF:0 "(W³QšR‡v^	>N„v/ecùRaŒöeÿbìNÙuêñ]Sb§Y$POINTS$§WR."
+ DLC_NEWITEMINSTALLED_TITLE:0 "°eirÁT‰RÅˆŒRb"
+ DLC_NEWITEMINSTALLED_DESC:0 "$NAME$‰RÅˆŒRbÿ÷‹Í‘°e/T¨REU4."
+ DLC_AVAILABLE_TITLE:0 "ïS(u„vDLC"
+ DLC_AVAILABLE_DESC:0 "	g§Y$NUM$§!*NïS(u„vDLCIr…_¨`„vsQèl."
+ IDEAVIEW_ADMINISTRATIVE:0 "Lˆ?etõ_"
+ IDEAVIEW_DIPLOMATIC:0 "Y³Ntõ_"
+ IDEAVIEW_MILITARY:0 "›Q‹Ntõ_"
+ POLICYVIEW_ADMINISTRATIVE:0 "Lˆ?eÕläN?eVr"
+ POLICYVIEW_DIPLOMATIC:0 "Y³N?eVr"
+ POLICYVIEW_MILITARY:0 "›Q‹N?eVr"
+ CHANGE_CULTURE:0 "9eØS‡eS"
+ CHANGE_CULTURE_TO:0 "9e‡eS:N $CULTURE$"
+ DEVELOP_PROVINCE:0 "_ÑSwýN"
+ EXPLOIT_PROVINCE:0 "M–NOÑSUS¦^"
+ HRE_VOTE:0 "•bhy"
+ PAPACY_AGE:0 "t^„Ÿÿ"
+ SORT_BY_AGE:0 "	ct^„Ÿ’c^"
+ SORT_BY_HOME:0 "	cw’c^"
+ CONTENTVIEW_HEADER:0 "ò]‰RÅˆ„v…Q¹R"
+ CONTENTVIEW_ACTIVE:0 "uHe"
+ CONTENTVIEW_INACTIVE:0 "*guHe"
+ CONTENTVIEW_BROWSE:0 "OmÈ‰"
+ CONTENTVIEW_DLC:0 "DLC"
+ CONTENTVIEW_MOD:0 "Mod"
+ TRADE_GOODS:0 "hQt8fFUÁTÄ‰!j"
+ TRADEGOODS_LEADER_BONUS:0 ";N‰u¶NwVY±Rÿ"
+ MUSIC_CUR_PLAYING:0 "ck(W­d>e„vó—PNÿ'$MUSIC|Y$'."
+ MUSIC_NO_CUR_PLAYING:0 "¡l	gck(W­d>e„vó—PN."
+ TARIFF_BASE_MODIFIER:0 "sQzúWOxîOckÿ$VAL|%1+$"
+ PROV_TRADEPOWER_DESCR:0 "8fÞz‰N›R³QšRwýNåb	gw(WÎNÙ*Nw—_0R„vùROb^S8f‚‚¹p„vq_ÍT›R."
+ PROV_TRADEVALUE_DESCR:1 "8f˜ÐcGSwýN„vå]N6eeQ."
+ PROV_GOODSPROD_DESCR:0 "'ir¶NÏ‘Çu¶NôfY„v'iregÐcGSwýN„v8f˜."
+ HRE_VOTE_ELECTOR_YOU:0 "`O"
+ HRE_CAST_VOTE_DESC:0 "`OïS	éb`O„vhy/ecŒegZP‡v^ÿ"
+ SUPPORT_EFFICIENCY:0 "/ecHe‡s"
+ REBEL_SUPPORT_EFFICIENCY_DESC:0 "ÛS›Q/ecHe‡s³QšR`OÐc›O„vDÑ‘	gYSýw«ˆÛS›QO(u."
+ SLIDER_VALUE:0 "OPûy<P"
+ GAME_BOOT_IN:0 "8nbS(W$MIN$RŸ”T/T¨R."
+ GAME_START_IN:0 "8nbS(W$MIN$RŸ”T_ËY."
+ GAME_ENDS_IN:0 "8nbS(W$MIN$RŸ”TÓu_g."
+ GAME_START_WHEN_ALL_READY:0 "Ob	g©s¶RÆQYT8nbOËz;R_ËY."
+ INFANTRY_FRACTION:0 "ekuQÔk‹Oÿ$VAL|+%1$"
+ CAVALRY_FRACTION:0 "‘šuQÔk‹Oÿ$VAL|+%1$"
+ ARTILLERY_FRACTION:0 "®puQÔk‹Oÿ$VAL|+%1$"
+ BASE_LAND_MAINTENANCE_FACTOR:0 "F–›Qôu³b9úWOxîOck"
+ SUPPORT_REBELS_TOTAL_REVOLT_SIZE:0 "ÛS›Q;`peÿ$VAL|+$"
+ SUPPORT_REBELS_TOTAL_INF_COST:0 "ekuQú^/;`±‚9ÿ$VAL|-2$¤"
+ SUPPORT_REBELS_TOTAL_CAV_COST:0 "‘šuQú^/;`±‚9ÿ$VAL|-2$¤"
+ SUPPORT_REBELS_TOTAL_ART_COST:0 "®puQú^/;`±‚9ÿ$VAL|-2$¤"
+ REBEL_REINFORCE_NOT_TYPE:0 "$REBEL$^SŽN'$TYPE|Y$'Š|ÿÖNìNNOžXôcêñ]„vUSMO."
+ REBEL_REINFORCE_NOT_SUPPORT:0 "$REBEL$¡l	gýwY/eØNžXôc„v/ecw."
+ REBEL_REINFORCE_DESC:0 "ÖNìN„vUSMO	g$VAL|+1%$„vko(W˜Y,g0WžXôcÏ‘."
+ COUNTRY_LOCKED_BY_SERVER:0 "$COUNTRY$«ˆg¡RhV•šR."
+ FE_IRONMAN:0 "Á”ºN!j_"
+ IRONMAN_SAVE_LABEL:0 "Á”ºNXRch"
+ IRONMAN_START:0 "_ËYÁ”ºN!j_"
+ RANDOM_COUNTRY:0 "–:gýV¶R"
+ CUSTOM_NATION:0 "êšRINýV¶R"
+ FE_CUSTOM_NATION_DIFFICULTY:0 "êšRINýV¶R¾–¦^"
+ FE_CUSTOM_NATION_MAP:0 "ýV¶R"
+ FE_CUSTOM_NATION_TAX:0 "wýNúWzÊSºN›R"
+ FE_CUSTOM_NATION_ADD_TO_SAVE:0 "AQ¸‹TXRch-N ReQýV¶R"
+ FE_RANDOM_NATION_NAMING:0 "–:gýV¶R"
+ CN_RANDOM_HISTORICAL:0 "†SòS"
+ CN_RANDOM_DYNAMIC:0 "¨R`"
+ CN_RANDOM_NATION_NAMING_TOOLTIP1:0 "Ù*N	y˜³QšR–:gubýV¶R."
+ CN_RANDOM_NATION_NAMING_TOOLTIP2:0 "§Y¨R`„v:§! –:gub„výV¶RýO	gTWRŒT¨R`×e^.\n§Y†SòS„v:§! –:gub„výV¶RýO	g†SòSN„vTWRŒT×e^0"
+ CN_VERY_EASY:0 "^—8^rUS ($VAL$)"
+ CN_EASY:0 "rUS ($VAL$)"
+ CN_NORMAL:0 "nf ($VAL$)"
+ CN_HARD:0 "ðV¾– ($VAL$)"
+ CN_VERY_HARD:0 "^—8^ðV¾– ($VAL$)"
+ CN_DIFFICULTY_TOOLTIP:0 "Ù*N	y˜³QšR©s¶RRú^êšRINýV¶Röe„vïS(u¹ppe0¹ppeŠYÿ¾–¦^ŠNO0"
+ CN_TAX_TOOLTIP1:0 "Ù*N	y˜³QšROb	gwýN„vúWzŒTºN›R0"
+ CN_TAX_TOOLTIP2:0 "§Yck8^<P:§! Ob	gwýNý9hnc†SòS³QšRz6eŒTºN›R<P.\n§Y–:g<P:§! Ob	gwýNý–:g³QšRz6eŒTºN›R<P.\n§YTN<P:§! Ob	gwýNýwQ	gøvT„vz6eŒTºN›R<P."
+ CN_ADD_TO_SAVE_TOOLTIP1:0 "AQ¸‹(W8nbXRchT-N ReQêšRINýV¶R"
+ CN_ADD_TO_SAVE_TOOLTIP2:0 ""
+ CN_TAX_NORMAL:0 "ck8^<P"
+ CN_TAX_RANDOM:0 "–:g<P"
+ CN_TAX_FLAT:0 "TN<P"
+ CN_MAP_TOOLTIP1:0 "Ù*N	y˜³QšR0WþVNOúQ°sêT›NýV¶R0"
+ CN_MAP_TOOLTIP2:0 "§Ynf¾‹n:§! Ù/_0WþVS1u†SòSýV¶RŒTêšRINýV¶RÄub §GÀo;m„v§!.\n§Y†SòS¾‹n:§! Ù/_0WþVS1u†SòSýV¶RŒTêšRINýV¶RÄub §R*gÀo;m„v§!.\n§YRandom Setup:§! Ù/_0WþVS1u §Y©s¶RRú^„vêšRINýV¶RŒT–:gýV¶RÄub§!.\n§YêšRIN¾‹n:§! Ù/_0WþVS1u §Y©s¶RRú^„vêšRINýV¶RÄub§!, vQÖNOb	gwýNFŒFmNO«ˆ–kl0vQÖNOb	gwýNýS«ˆ–kl0Ob	g„výV¶Rý/fÎNN*N–klw_ËY„v0"
+ CN_MAP_NORMAL:0 "ck8^M‘n"
+ CN_MAP_RANDOM:0 "–:gM‘n"
+ CN_MAP_EMPTY:0 "êšRINM‘n"
+ CN_MAP_NO_CUSTOM:0 "†SòSM‘n"
+ CANT_SELECT_OPTION_FOR_SAVE:0 "§RNýw(Wû‹ÖSXRchöe	ébÙ*N	y˜ÿ‚Yœg`Oó`9eØSÙ*N¾‹šRÿÅ_Š˜Í‘°e_ËYN!kby_0§!"
+ CUSTOM_NATIONS_DISABLED:0 "§R;N:g¾‹nNAQ¸‹M‘nêšRINýV¶R!§!"
+ CUSTOM_NATIONS_ALREADY_CREATED:0 "§R	g©s¶Rò]ÏuRú^êšRINýV¶RŒRÕkÿàeÕl9eØSÙ*N	y˜!§!"
+ CUSTOM_NATIONS_REQUIRES_EL_DORADO:0 "§R`O—‰0ÄžÑ‘ýV0DLCMbýw9eØSÙ*N	y˜!§!"
+ FE_BONUSES_DESC:0 "NT §Y¾–¦^§!¾–¦^¾‹n:N©s¶RbAIýV¶RÐc›ONT„vVY±RÿåNŒte8nb„vteSO¾–¦^0‚Yœg9e:Nnfÿ¡l	gýV¶R	gVY±R0(WrUS„v¾–¦^NÿAIOùR©s¶RôfÌR¹Rÿw(WðV¾–„v¾–¦^NÿaiôfwQ;eûQ'`0"
+ FE_BONUSES_SCORE:0 "(W$NAME|Y$-N,	g$SCORE$RpeVY±R."
+ FE_BONUSES_DESC2:0 "On §YðV¾–§! ¾–¦^, Ob	g^—©s¶R„výV¶RS·ƒ—_NRVY±R:"
+ FE_BONUSES_DESC3:0 "On §YrUS§! ¾–¦^, Ob	g©s¶R„výV¶RS·ƒ—_NRVY±R:"
+ FE_LUCK_DESC:0 "§Yx^ÐýV¶R§!ÙuˆNyršR5u¶c6RýV0x^Ð0 Rb."
+ FE_LUCK_DESC2:0 "§YòSžR§!ÿkQ*N†SòSNþfÄ–8—Nöe„výV¶RS·ƒx^Ð Rb.‚YdkNegÿ†SòSSgôfòSžR„v¹eTÑSUS.\n§Y–:g§!ÿkQ*N–:g„výV¶Rÿ8^:Nƒ'YŒTHQÛ„výV¶R	ÿS·ƒx^Ð Rb.‚YdkNegÿ†SòSSgôf*gåw„v¹eTÑSUS.\n§Yàe§!ÿàeýV¶R·ƒx^Ð Rb.\n\n"
+ FE_LUCK_DESC3:0 "åb	g§Yx^Ð§!„výV¶RS·ƒ—_ôfðyLw„vT;NNåNNO¿Rÿ\n"
+ FE_IRONMAN_DESC:0 "§YÁ”ºN!j_§!/f:Ncb¾–¦^„v©s¶RÆQY„vÿ(WýV¶RÑSuOW‹NöeNýwYû‹ch."
+ FE_IRONMAN_DESC2:0 "§YÁ”ºN!j_§!	gåNNHeœgÿ\n-N*N8nbêSAQ¸‹	gN*NXRch.\n-:_6RØš‘˜‡sê¨RXRch.\n-NýwO(u¶c6RðSkO_.\n-NýwRbcýV¶R."
+ FE_HOTJOIN_DESC:1 "/T(uby(uíp ReQÿ+R„v©s¶Rýw(W8nb_ËYT ReQ	ÿÿÙ*N	y˜_NïSåN(W8nb-N9eØS0"
+ FE_COOP_DESC:1 "/T(uby(uY*N©s¶RTöe¡rtN*NýV¶R„vŸRýwÿÙ*N	y˜_NïSåN(W8nb-N9eØS0"
+ AI:0 "AI"
+ PLAYER_AI_PREFS_DISABLED:0 "êS	gYºN8nbMbýwO(u."
+ PLAYER_AI_PREFS_HEADER:0 "AI¾‹šR"
+ PLAYER_AI_PREFS_DESC:0 "(Wdk—zãS-Nÿ`OïSåNŒ‚‚S_`O»y_8nböeÿ`O„výV¶R„vAILˆ:N.\nÙ›N¾‹šRÝOXR(WXRch-NÿObåNS_vQÖN©s¶R(W`O¡l	g ReQ„vÅ`µQNçuíu8nböeÿAIO9hncÙ›N¾‹šReg¶c6R`O„výV¶R."
+ PLAYER_AI_PREFS_OPTION_TITLE_start_wars:0 "_b"
+ PLAYER_AI_PREFS_OPTION_TITLE_keep_alliances:1 "ÝOcßvËSŒT¿RLe"
+ PLAYER_AI_PREFS_OPTION_TITLE_keep_treaties:0 "ôucOb	g„vag¦u"
+ PLAYER_AI_PREFS_OPTION_TITLE_quick_peace:0 "ŒBlë_ŒTs^"
+ PLAYER_AI_PREFS_OPTION_TITLE_move_traders:0 "ûy¨RFUºN"
+ PLAYER_AI_PREFS_OPTION_TITLE_take_decisions:0 "Ç‘(u³Q®‹"
+ PLAYER_AI_PREFS_OPTION_TITLE_embrace_institutions:0 "¥c³u`no"
+ PLAYER_AI_PREFS_OPTION_TITLE_develop_provinces:0 "_ÑSwýN"
+ PLAYER_AI_PREFS_OPTION_TITLE_disband_units:0 "ã‰ceUSMO"
+ PLAYER_AI_PREFS_OPTION_TITLE_change_fleet_missions:0 "9eØS0‚–ûN¡R"
+ PLAYER_AI_PREFS_OPTION_TITLE_send_missionaries:0 ">mc/OYeëX"
+ PLAYER_AI_PREFS_OPTION_TITLE_convert_cultures:0 "lØS‡eS"
+ PLAYER_AI_PREFS_OPTION_TITLE_promote_cultures:0 "³‹T‡eS"
+ PLAYER_AI_PREFS_OPTION_TITLE_braindead:0 "Šk¡N"
+ PLAYER_AI_PREFS_OPTION_TITLE_timeout:0 "…öepenc"
+ PLAYER_AI_PREFS_OPTION_DESC_start_wars:0 "³QšRAIýw&T_ËYN:Wb‰N"
+ PLAYER_AI_PREFS_OPTION_DESC_keep_alliances:1 "_/TTÿAINO9eØS¿RLeŒTßvËSÿv^NOàeagöNTr”^ìS3UßvËS"
+ PLAYER_AI_PREFS_OPTION_DESC_keep_treaties:0 "_/TTÿAINOÖSˆmY³NsQû|"
+ PLAYER_AI_PREFS_OPTION_DESC_quick_peace:0 "³QšRAI/f&T(Wb‰N-NNúQ°skPb:gO1SËz;RŒTŒ"
+ PLAYER_AI_PREFS_OPTION_DESC_move_traders:0 "³QšRAIýw&TŠbFUºNûy¨R0RvQÖN8f‚‚¹p"
+ PLAYER_AI_PREFS_OPTION_DESC_take_decisions:0 "³QšRAIýw&TÇ‘(u³Q®‹"
+ PLAYER_AI_PREFS_OPTION_DESC_embrace_institutions:0 "³QšRAIýw&T¥c³u`no"
+ PLAYER_AI_PREFS_OPTION_DESC_develop_provinces:0 "³QšRAIýw&TÐcGSwýNÑSUS¦^"
+ PLAYER_AI_PREFS_OPTION_DESC_disband_units:0 "³QšRAIýw&Tã‰ceUSMO"
+ PLAYER_AI_PREFS_OPTION_DESC_change_fleet_missions:0 "³QšRAIýw&TØSôf0‚–ûN¡R"
+ PLAYER_AI_PREFS_OPTION_DESC_send_missionaries:0 "³QšRAIýw&T/OYe"
+ PLAYER_AI_PREFS_OPTION_DESC_convert_cultures:0 "³QšRAIýw&Tlbc‡eS"
+ PLAYER_AI_PREFS_OPTION_DESC_promote_cultures:0 "³QšRAIýw&T9eØSò]³‹T‡eS"
+ PLAYER_AI_PREFS_OPTION_DESC_braindead:0 "³QšRAI/f&T:Nzfœ–ÿSàeÆ‰NRvQƒR	y˜	ÿ"
+ PLAYER_AI_PREFS_OPTION_DESC_timeout:0 "…ÇöeP–TÿAI¾‹šROê¨RØSÞVØž³‹<P."
+ PLAYER_AI_PREFS_TIMEOUT_NEVER:0 "ÎNN"
+ DEFAULT:0 "Øž³‹"
+ ACHIEVEMENTS_DISABLED_BECAUSE:0 "b1S«ˆy(uÿàV:N:\n"
+ ACHIEVEMENTS_DISABLED_MODIFIED_SAVE:0 "§Y- ‰HN`OYŽN»y¿uÿ‰HN/fÝOXR„v8nb^SŽNæSN*N(u7bÿ&TRS«ˆ‘bÝOXR:NN|Q¹R„vDLCs„vXRch0§!"
+ ACHIEVEMENTS_DISABLED_MODIFIED_GAME:0 "§Y- EU4ck(WO(umodbw(uvQÖN¹e_©s0§!"
+ ACHIEVEMENTS_DISABLED_WRONG_PLAYER:0 "§Y- Ù*N8nbasTOw‰ÏP $COUNTRY$ N7heg©s0§!"
+ ACHIEVEMENTS_DISABLED_NOT_IRONMAN:0 "§Y- 8nbN/fÁ”ºN!j_.§!"
+ ACHIEVEMENTS_DISABLED_CUSTOM_DEVELOPMENT:0 "§Y- 'wýNÑSUS¦^'êšRIN	y˜-NÅ_Š˜«ˆ¾‹n:N'ck8^<P'.§!"
+ ACHIEVEMENTS_DISABLED_CUSTOM_NATION_SETUP:0 "§Y- 'ýV¶R'êšRIN	y˜-NNýw«ˆ¾‹n:N'–:g¾‹šR'.§!"
+ ACHIEVEMENTS_DISABLED_WRONG_DIFFICULTY:1 "§Y- '¾–¦^'	y˜Å_Š˜«ˆ¾‹n:N'nf'b'ðV¾–'.§!"
+ ACHIEVEMENTS_DISABLED_WRONG_AI_DIFFICULTY:0 "§Y- '5u¾–¦^'	y˜Å_Š˜«ˆ¾‹n:N 'nf'b'ðV¾–'.§!"
+ ACHIEVEMENTS_DISABLED_WRONG_LUCK:0 "§Y- 'x^ÐýV¶R'	y˜Å_Š˜«ˆ¾‹n:N'†SòSN„v'§!"
+ ACHIEVEMENTS_DISABLED_MULTIPLAYER:0 "§Y-YºN!j_Nb1SNýw·ƒ—_§!"
+ AUTOSAVING:0 "ê¨RXRØv-N..."
+ SAVEITEM_PLAYER_COUNTRY:0 "©s¶Rÿ$COUNTRY$"
+ SAVEITEM_DATE:0 "åegÿ$DATE$"
+ SAVEITEM_IRONMAN:0 "Á”ºN!j_ÿ$YESNO$"
+ SAVEITEM_SYNCED:0 "‘NTekÿ$YESNO$"
+ SAVEITEM_FILESIZE:0 "‡eöN'YSÿ$SIZE$"
+ SAVEITEM_DELETE_FILE:0 "¹pûQ/Rd–XRch"
+ SAVEITEM_MISSING_DLC:0 ":S DLC:"
+ SAVEITEM_CANNOT_START_MISSING_DLC:0 "§R(W:S„vDLC«ˆ/T(uKNMRÙ*NXRchNýw©s0§!"
+ SAVEITEM_MISSING_MOD:0 ":S mod:"
+ SAVEITEM_UNSAFE_VERSION:0 "ÝOXR:NN*NçeHr„vEU40"
+ SAVEITEM_UNSAFE_EXPLANTION:0 "Ù*N8nb«ˆÝOXRŽNNTHr,g„vEU4,b²›NKNMR(uÇdlcŒTmodsFOS_MRtS*g/T(uƒRìN„vXRch0"
+ UNSAFE_EXPLANATION:0 ">f:ybw–Ï…Ù*N«ˆÝOXRŽNNTHr,g„vEU4b²›NKNMR(uÇdlcŒTmodsFOS_MRtS*g/T(uƒRìN„vXRch0"
+ AUTOSAVE_TOCLOUD:0 "‘Nïzê¨RXRch"
+ COMPRESS_AUTOSAVES:0 "‹S)ê¨RXRch"
+ AUTOPAUSE_ON_EVENTS:0 "‚fkP‹NöN"
+ TRANSFER_SAVEGAME:0 "/O“XRch: $NAME|Y%$"
+ LOADING_SAVEGAME:0 "û‹ÖSXRch: $NAME|Y%$"
+ CONFIRMUNSYNCTITLE:0 "*gTek‡eöN"
+ CONFIRMUNSYNCTEXT:0 "`OnxšR‰ÎN‘Nïz/Rd–§Y$NAME$§!ÿ"
+ CLOUDSAVE_SPACE_NEEED:0 "XRØv—‰$NEEDED$."
+ CLOUDSAVE_UNSYNC_LABEL:0 "	ébÎN‘Nïz/Rd–„v8nb.\n,g0W„v‡eöNNO«ˆ/Rd–."
+ CONTENTVIEW_PUBLISH:0 "ÑS^"
+ CONTENTVIEW_PUBLISH_HEADER:0 "ÑS^0RSteam Workshop"
+ CONTENTVIEW_PUBLISH_TITLE_LABEL:0 "h˜˜ÿ"
+ CONTENTVIEW_PUBLISH_DESC_LABEL:0 "ô‹fÿ"
+ CONTENTVIEW_UPDATE:0 "ôf°e"
+ CONTENTVIEW_MANAGE:0 "¡rt"
+ CONTENTVIEW_TERMS:0 "ÇÐc³NdkirÁTÿ`OTauˆRSteam Workshop„vg¡ROSšR."
+ NOMAD_SHOCK_BONUS_DEF:0 "2–¡_¹eO6e0R §G$VAL|%=+1$§! àV:N8ngrlÏe(Ws^fW0Wb_NkObÿObåN×S0R„v²QûQOžX R.\n"
+ NOMAD_SHOCK_BONUS_ATT:0 "Û;e¹eO6e0R §G$VAL|%=+1$§!  àV:N8ngrlÏe(Ws^fW0Wb_NkObÿObåN×S0R„v²QûQOžX R.\n"
+ NOMAD_SHOCK_PENALTY_DEF:0 "2–¡_¹e §R$VAL|%=+1$§! àV:N8ngrlÏe(W^—s^fW0Wb_NkObÿObåN×S0R„v²QûQOÏQS.\n"
+ NOMAD_SHOCK_PENALTY_ATT:0 "Û;e¹eO6e0R§R$VAL|%=+1$§!àV:N8ngrlÏe(W^—s^fW0Wb_NkObÿObåN×S0R„v²QûQOÏQS.\n"
+ GALLEY_BONUS_INLAND_SEA_DESC:0 "hh^9‚(W…QwmùR^—^9‚/b$VAL|%=+1$„v˜Y3O³R."
+ GALLEY_BONUS_NOT_INLAND_SEA_DESC:0 "ÙN/f…Qwmÿhh^9‚NO(WÙÌ‘·ƒ—_$VAL|%=+1$„v3O³R Rb."
+ INSUFFICIENT_SUPPORT_DESC:0 "‚Yœg‘šuQùRekuQÔk‹OÇØšÿUSMOO×S0R$VAL|%R=-1$„v/ecN³3O³Ré`Z.S_MRÔk‹O/f$RATIO|%Y1$."
+ INSUFFICIENT_SUPPORT_UNIT_DESC_YES:0 "@$TAG$$NAME$×S0Ré`Z(g'YÔk‹O$MAX|%1R$)."
+ INSUFFICIENT_SUPPORT_UNIT_DESC_NO:0 "@$TAG$$NAME$*g×Sé`Z(g'YÔk‹O$MAX|%1G$)."
+ FE_IRONMAN_MULTIPLAYER:0 "Á”ºN!j_(WYºN8nbNNýwO(u."
+ FE_IRONMAN_NOCLOUD:0 "Á”ºN!j_—‰©s¶R/T(uSteam‘Nv^NŠvF–Steam."
+ FE_NOT_IRONMAN_AND_OBSERVER:0 "kO:NÂ‰ßRwöeNýw©sÁ”ºN!j_."
+ MAP_SAVED:0 "0WþVò]ÝOXRÿ"
+ SCREENSHOT_TAKEN:0 "*bþVŒRbÿ"
+ CONFIRMLOADSAVETITLE:0 "ŒeQ8nb"
+ CONFIRMLOADSAVETEXT:0 "`OnxšRÝOXRÙ*N8nb $NAME$ v^-NbkS_MR8nbÿ"
+ CANNOT_RETURN_PROVINCE_NOT_CONTROLLED:0 "§R`ONýwR_Ø`O¡l	g¶c6R„vwýN.§!"
+ CANNOT_RETURN_PROVINCE_SIEGE:0 "`ONýwR_ØN*N«ˆôV;e„vwÿ"
+ CANT_BUILD_UNDER_SIEGE:0 "Nýw(W«ˆôV;e„vwýNú^¾‹."
+ CURRENT_PATRIARCH_AUTHORITY:0 "S_MR„v;NYe:S"
+ UNIT_VIEW_SPLIT_LOADED:0 "USMO(W9‚NNýwÛLˆÆbRÿ"
+ UNIT_VIEW_CREATE_NEW_LOADED:0 "USMO(W9‚NNýwRú^°e–."
+ UNIT_VIEW_CREATE_NEW_TRADE:0 "1uŽN0‚–îvMRck(WgbLˆ8fûN¡RÿObåNNýwRú^°e„v0‚–0"
+ UNIT_VIEW_CREATE_NEW_HAS_LOADED:0 "àVŒ›QwàeÕlú^Ëz°e0‚–."
+ alert_rebels_enforce_demands_instant:0 "§Y`O	glšN1Sýw¾0RÍSÛSîv„v„vÛS›Qÿ§W"
+ alert_rebels_enforce_demands_delayed:0 ""
+ alert_uncontested_claims_instant:0 "§Y`O	g*g¶c6R„v²R	g;NCgwýN.§W"
+ alert_uncontested_claims_delayed:0 "`OùRåNNwýN²R	g;NCgÿ\n$LIST$"
+ alert_high_overextension_instant:0 "§Y`O„výV¶RÇ¦^ib/_z¦^g:N%NÍ‘ÿ§W"
+ alert_high_overextension_delayed:0 "÷‹wQ†ŠbN›N^—8hÃ_†˜WØSb8hÃ_†˜WegÏQSÇ¦^ib/_¦^.(Wdkgô•ÿ÷‹NaÍ‘ùR…_Tv^ôfY^—8hÃ_†˜W„vLˆ:Nÿ"
+ alert_high_war_exhaustion_instant:0 "§Y`O„vŒSb¦^ˆ_Øšÿ§W"
+ alert_high_war_exhaustion_delayed:0 "ÙOÙu`O„výV¶R&^egb—q_ÍTÿ"
+ alert_too_many_leaders_instant:0 "§Y*YY„vS†˜†Nÿ§W"
+ alert_too_many_leaders_delayed:0 "(W`O…ÇMQ9S†˜peÏ‘P–6RöeÿÏk*N˜Y„vS†˜\nO±‚9`O £mil£ Ïkg.\nS_MR±‚9 $AMT$ £mil£ Ïkg0"
+ alert_can_vote_for_cardinal_instant:0 "§Y`OïSåN/ecN*N;NYe!§W"
+ alert_can_vote_for_cardinal_delayed:0 "`Oåb	g³Y„vYe÷^q_ÍT›Reg/ecN*N*geg„v;NYe0"
+ alert_can_convert_province_instant:0 "§Y`OïSåNSwýNl:N`O„v—RYe!§W"
+ alert_can_convert_province_delayed:0 "`O„výV¶R	g›NwýNïSåNÇ>múQ`O„v/OYeëXl:N`O„výVYe0"
+ alert_can_core_province_instant:0 "§Y`O	g›NwýN¡l	g8hÃ_!§W"
+ alert_can_core_province_delayed:0 "Ù›NwýN¡l	g8hÃ_v^N_N¡l	gck(WR/8hÃ_:\n"
+ alert_can_make_state_instant:0 "§Y`O°s(Wýwlbc:Nôv–Þ]§!"
+ alert_can_make_state_delayed:0 "Ù›Nê»l†˜0WïSåN«ˆlbc:Nôv–Þ]:\n"
+ alert_can_embrace_instant:0 "§Y`O°s(WïSåN¥c³uN*N`no§!"
+ alert_can_embrace_delayed:0 "NR`noïSåN«ˆ¥c³u:\n"
+ alert_over_diplomatic_relations_instant:0 "§YÇYY³NsQû|.§W"
+ alert_over_diplomatic_relations_delayed:0 "Ïk*N…ÇNP–„vY³NsQû| \nSˆmw`OÏkg 1 £dip£ .\nS_MRÏkgˆmw $VAL$ £dip£ 0"
+ alert_low_stability_instant:0 "§Y¨`„v3zšR¦^*YNO†Nÿ§W"
+ alert_low_stability_delayed:0 "NO3zšR¦^SOüRôôfY„v¨RaƒŒTôfS„v6eeQÿv^ïSýwO(W`O„výV¶R¶Nup¾–ÿwQ†NN±‚9N›NLˆ?e¹pegÐcGSƒR0"
+ alert_large_merchant_republic_instant:0 "§YÇ'Y„vFUNqQŒTýV§W"
+ alert_large_merchant_republic_delayed:0 "`O„vFUNqQŒTýVò]Ïu…Ç†NwýNŒTê»lÞ]„vg'Y<Pÿ$AMT|Y$	ÿ.Ïk*NYúQ„vwýNSÏkt^ÏQS§R0.1§!qQŒT/Oßu. (bìN°s(W…úQ†N$EXCESS|R$ *NwýN.)"
+ alert_no_native_policy_instant:0 "§Y`O—‰	ébWW„?eVrÿ§!"
+ alert_no_native_policy_delayed:0 "(WbìN–kl–KNMRbìN—‰	ébbìN„vWW„?eVr0"
+ BOOKMARK_COUNTRY_EASY:0 "§G¨cPƒ°e©s¶RO(uÙ*NýV¶R.§!"
+ IS_PRIMARY_CULTURE_IN:0 "$CULTURE|Y$‡eS/f$COUNTRY|Y$„v;NAm‡eS."
+ IS_ACCEPTED_CULTURE_IN:0 "$CULTURE|Y$‡eS/f$COUNTRY|Y$„vøv¹R‡eS."
+ IS_NOT_ACCEPTED_CULTURE_IN:0 "$CULTURE|Y$‡eSN/f$COUNTRY|Y$„vøv¹R‡eS."
+ IS_NOT_ACCEPTED_CULTURE_IN_REP:0 "$CULTURE|Y$‡eSN/f$COUNTRY|Y$qQŒTýV„vøv¹R‡eS."
+ IS_SAME_CULTURE_GROUP_IN:0 "$CULTURE|Y$‡eSŒT$COUNTRY|Y$„v;NAm‡eS^SŽNTN*N‡eS³Äu($CULTUREGROUP|Y$)."
+ WHO_CONTROL_PROVINCE_EFFECTS:0 "§Y‚Yœg$WHO$¶c6R$PROV$O&^egÿ§!"
+ bg_info_prestige_1:0 "$WHOADJ|Y$Zg:QS‘NO1"
+ bg_info_prestige_2:0 "$WHOADJ|Y$Zg:Y×SgkÆ‰"
+ bg_info_prestige_3:0 "$WHOADJ|Y$Zg:àeºNtO"
+ bg_info_prestige_4:0 "$WHOADJ|Y$Zg:×SºNŠÆ‰"
+ bg_info_prestige_5:0 "$WHOADJ|Y$Zg:Ák‰ŠÂSJS"
+ bg_info_prestige_6:0 "$WHOADJ|Y$Zg:R2—4YÒ‰"
+ bg_info_prestige_7:0 "$WHOADJ|Y$Zg:‡˜×SÍ‘Æ‰"
+ bg_info_prestige_8:0 "$WHOADJ|Y$Zg:/t	gðXZ"
+ bg_info_prestige_9:0 "$WHOADJ|Y$Zg:ðXT>fk "
+ bg_info_prestige_10:0 "$WHOADJ|Y$Zg:TlbÛVwm "
+ bg_info_prestige_11:0 "$WHOADJ|Y$Zg:ðX†–óg "
+ RELATION_CHANGE_HEADER_DESC:0 "$WHO|Y$ŒTåNNýV¶R„vsQû|OÑSuØSSÿ"
+ HAVE_MIL_ACC_US:0 "bìNTÖNìNÐc›O„v›Q‹NLˆ."
+ GRANT_MIL_ACC_US:0 "ÖNìNˆcˆN†NbìN›Q‹NLˆCg."
+ NEW_DLC_AVAILABLE:0 "	g°eFUÁTïS›O-pN"
+ OPEN_STORE:0 "Sb_FU—^"
+ desc_bankruptcy:0 ""
+ HEADER_REFORMS:0 "—RYe9ei—"
+ DISPLAY_MODE_FULLSCREEN:0 "hQOS!j_"
+ DISPLAY_MODE_WINDOWED:0 "—zãS!j_"
+ DISPLAY_MODE_WINDOWED_BORDERLESS:0 "hQOS—zãS"
+ PLAY_AS_RELEASED_VASSAL:0 "nbo«ˆÊ‘>e„vD–¸^"
+ PLAY_AS_RELEASED_SUBJECT:0 "nbo«ˆÊ‘>e„v^SýV"
+ PAPACY_ACTIVE_CARDINALS:0 "S_MR„v;NYe"
+ PAPACY_FUTURE_CARDINALS:0 "*geg„v;NYe"
+ REBEL_HAS_NOT_OCCUPIED_PROVINCES:0 "¡l	g¶c6RûNUOwýN0"
+ SAVEGAME_ERROR_WRITING:0 "™QeQXRchöe•ï‹"
+ SAVEGAME_ERROR_WRITING_UNKNOWN:0 "1uŽN*gåwŸSàVXRch1Y%0\n\n`O/f&T(WXRchT-NO(u†N^—ÕlWR&rÿ\n`O/f&Tåb	g³Y„vzzô•ÿ"
+ SAVEGAME_ERROR_LOADING:0 "û‹ÖSXRchöe•ï‹"
+ SAVEGAME_ERROR_LOADING_CORRUPT:0 "û‹ÖS°‹U_1Y%.‡eöN«ˆ_cÁk."
+ SAVEGAME_WARNING_OLD_VERSION_TITLE:0 "çeXRch"
+ SAVEGAME_WARNING_OLD_VERSION_DESC:1 "The loaded savegame $NAME$ is from a different version of EU4.\n\n This can cause problems in the game and §Rcan potentially ruin Ironman saves§!.\nGames with Random New World are especially fragile.\n\nSaving again, closing the game and reloading may help."
+ CHECKBOX_COMPRESSED_SAVEGAMES:0 "‹S)8nbpenc"
+ CHECKBOX_COMPRESSED_SAVEGAMES_RNW:0 "‹S)8nbpenc\n8nbpencÅ_Š˜(W©s°eNLuöe«ˆ‹S)"
+ RANDOM_NEW_WORLD:0 "O(u–:g°eNLu"
+ NOT_RANDOM_NEW_WORLD:0 "NO(u–:g°eNLu"
+ FE_RANDOM_NEW_WORLD:0 "–:g°eNLu„v'Yè•."
+ INVALID_REGENCY:0 "$COUNTRY$ckYŽNN*N4NöeÔYXTO„vßu»l•^N.N*N°e„vßu»lwO(W8nb_ËYöe–:g¶Nu."
+ SET_VARIABLE:0 "¾‹šR$VAR|Y$ ó $VALUE|Y$"
+ CHANGE_VARIABLE:0 "9eØS$VAR|Y$ :N $VALUE|Y$"
+ SUBTRACT_VARIABLE:0 "ÏQ»S$VAR|Y$ :N $VALUE|Y$"
+ MULTIPLY_VARIABLE:0 "$VAR|Y$ XNåN $VALUE|Y$"
+ DIVIDE_VARIABLE:0 "$VAR|Y$ d–åN $VALUE|Y$"
+ RANDOM_WORLD_MAP_DATA:0 "GS¶u0WþVpenc"
+ RANDOM_WORLD_RESTORE_MAP_BITMAPS:0 "b`Y0WþVMOþV..."
+ RANDOM_WORLD_RESTORE_CONTINENTS:0 "b`Y'YF–..."
+ RANDOM_WORLD_RESTORE_COLONIAL:0 "b`Y–kl0W..."
+ RANDOM_WORLD_RESTORE_MAP_DATA:0 "b`Y0WþVpenc..."
+ RANDOM_WORLD_RESTORE_TRADE:0 "b`Y8f..."
+ RANDOM_WORLD_FIND_DATA:0 "nxšR–:gS°saŒ..."
+ RANDOM_WORLD_CONTINENTS_TOPOLOGY:0 "R/'YF–^OS..."
+ RANDOM_WORLD_MOUNTAINS:0 "R/qS	..."
+ RANDOM_WORLD_SMOOTH_COASTAL_TOPOLOGY:0 "šbs^wm¸S¿u..."
+ RANDOM_WORLD_SMOOTH_TOPOLOGY:0 "šbs^¹Lu..."
+ RANDOM_WORLD_RIVERS:0 "R/³lAm..."
+ RANDOM_WORLD_TERRAIN:0 "R/s^ŸS..."
+ RANDOM_WORLD_TREES:0 "R/h..."
+ RANDOM_WORLD_AMBIENTOBJECTS:0 "R/¯sƒXirÁT..."
+ RANDOM_WORLD_COLORMAP_WATER:0 "Rú^4lßWOwr‚þV"
+ RANDOM_WORLD_COLORMAP:0 "R/Owr‚0WþV"
+ RANDOM_WORLD_PROVINCEMAP:0 "R/wýN0WþV"
+ RANDOM_WORLD_CLIMATE:0 "¾‹nlP"
+ RANDOM_WORLD_CONTINENTS:0 "¾‹n'YF–"
+ RANDOM_WORLD_REGIONS:0 "¾‹nS0W:S"
+ RANDOM_WORLD_COLONIAL_REGIONS:0 "¾‹n–kl0W"
+ RANDOM_WORLD_TRADE:0 "¾‹n8f"
+ RANDOM_WORLD_POSITIONS:0 "¾‹nÎW^ŒTUSMOMOn"
+ RANDOM_WORLD_COUNTRIES_PROVINCES:0 "¾‹nýV¶RŒTwýNpenc"
+ RANDOM_WORLD_GENERATE_WORLD:0 "ub–:g°eNLu..."
+ RANDOM_WORLD_SAVE_WORLD:0 "ÝOXRÙ*N–:g°eNLu..."
+ RANDOM_WORLD_GENERATE_WORLD_TILES:0 "R/–:g°eNLu-N&&\n>en0Wb_..."
+ RANDOM_WORLD_GENERATE_WORLD_SEA:0 "R/–:g°eNLu-N&&\nubwmmwýN..."
+ RANDOM_WORLD_GENERATE_WORLD_SEA2:0 "R/–:g°eNLu-N&&\nubôfY„vwmmwýN..."
+ RANDOM_WORLD_GENERATE_WORLD_SEA3:0 "R/–:g°eNLu-N&&\nkXEQ:SßW-N..."
+ RANDOM_WORLD_GENERATE_WORLD_SMOOTHING:0 "R/–:g°eNLu-N&&\ns^Ñn0Wb_ $PASS$..."
+ POLICYVIEW_TITLE:0 "	éb?eVr"
+ FERVOR_CHANGE:0 "gýNØSS"
+ FERVOR_VALUE2:0 "Âríp¹p:"
+ ENFORCE_MILITARY_ACCESS:0 "$FROM$OÙuˆN›Q‹NLˆCgŽN$TO$,ôv0RkPbOS®‹Óu_g:Nbk."
+ ENFORCE_FLEET_BASING_RIGHTS:0 "$FROM$OÙuˆN0‚9‚kPÊlCg$TO$,ôv0RkPbOS®‹Óu_g:Nbk."
+ WAR_REPARATIONS_DESC:0 "$FROM$Ïk*NgS«ˆë>e_6eeQ„v$TO$ $VALUE|0%$(uåN/eØNb‰NT>k0ÙScíu$YEARS$t^0"
+ ENFORED_MILITARY_ACCESS:0 ":_6RgbLˆ›Q–LˆCg."
+ ENFORCED_FLEET_BASING_RIGHTS:0 ":_6RgbLˆ0‚9‚kPÊlCg"
+ WAR_REPARATIONS:0 "b‰NT>k"
+ SHOW_AS_ALERT:0 ">f:yf‹JT"
+ SHOW_AS_POPUP:0 ">f:yóúQ—zãS"
+ FE_IRONMAN_CHECKSUM:0 "Á”ºN!j_ôv0R8nbHr,g«ˆnxšRKNMRNýw«ˆ/T¨RÿObåN÷‹Ir²HNNSO?Q~"
+ PLX_WAIT:0 "÷‹wÃ_Ir…_~"
+ CAPITAL_STATE_OF:0 "$NAME|Y$„v–™ýôv–Þ]"
+ TERRITORY_OF:0 "$NAME|Y$„vê»l†˜0W"
+ STATE_OF:0 "$NAME|Y$„vôv^SÞ]"
+ PROV_REGION_DESC:0 "wýNpe: $NUM_PROV|Y$\nÑSUS¦^: $DEV_VAL|Y$\nôu³b9: $MAIN_VAL|Y$¤"
+ PROV_SOME_PROVINCES_IN_STATE:0 "`OS*gåb	gÙ*NwýNÿFO`O(Wå‹ôv–Þ]…Qåb	gæSN*NwýN."
+ PROV_SOME_PROVINCES_IN_TERRITORY:0 "`OS*gåb	gÙ*NwýNÿFO`O(Wå‹ê»l†˜0W…Qåb	gæSN*NwýN."
+ SAVEGAME_ERROR_BACK_UP:1 "YýN‡eöN1Y%ÿ"
+ SAVEGAME_ERROR_BACK_UP_DESC:1 "YýN‡eöNöeÿS$FROM|Y$Í‘ŒTT:N$TO|Y$1Y%.\n\n`O”^SXRch‡eöN-N„vÍ‘Ty˜îv/Rd–."
+ SAVEITEM_START_WITH_MISSING_DLC:0 "§Rdk8nbXRch/f1uò]1N1Y„vDLCRú^„v0Ùˆ_	gïSýwOüRô8nbN3zšRÿ‚Yœg/fÁ”ºN!j_XRchÿb1SO«ˆy(uÿ§!"

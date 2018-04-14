@@ -1,3 +1,0 @@
-593 = "Nokor Sri Thommareach"
-612 = "Koreach"
-2383 = "Sri Nakorn Lamduan"

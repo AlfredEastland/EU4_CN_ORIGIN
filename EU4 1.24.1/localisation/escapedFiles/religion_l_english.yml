@@ -1,0 +1,94 @@
+﻿l_english:
+ shiva:0 "nFZ"
+ ganesha:0 "aŒ4Y^y"
+ surya:0 "Ï‚)R6w"
+ ganga:0 "R`³lsY^y"
+ shakti:0 "'`›RsY^y"
+ vishnu:0 "×kntY"
+ shiva_desc:0 "nFZ/fÁkmpQuKN^yÿ_N/f‚HŽKN‹s0"
+ ganesha_desc:0 "aŒ4Y^y/fåwÆ‹ŒTwËYKN^yÿœ–xKN‹s0"
+ surya_desc:0 "Ï‚)R6w/f*Y3–^yÿÇRlŒTa×_KN^y0"
+ ganga_desc:0 "R`³lsY^y/fÙag#W³l„vsY^yÿyY&^egÀQSŒTQeN0"
+ shakti_desc:0 "'`›RsY^y/f›RÏ‘ŒT¨Rýw„vsY^y0"
+ vishnu_desc:0 "×kntY/fôu³bNLu„vhQýw„v^y0"
+ RV_NO_DEITY_TITLE:0 "S_MR¡l	g^yGy0"
+ RV_NO_DEITY_DESC:0 "pS¦^YeAQ¸‹`O	ébNMO^yGykO:N;N^yeg›OIY0Ïk*N^yGyåb	gNT„v›RÏ‘ÿcíuôvóT;NØSS0"
+ RV_PICK_DEITY_THIS:0 "›OIY $NAME|Y$"
+ RV_PICK_DEITY:0 "	éb^yGy"
+ norse_pagan_reformed:0 "ú‹¯eáOðN"
+ jewish_group:0 "¹r*YYe"
+ jewish:0 "¹r*YYe"
+ karaite:0 "#WÏu>máO’_"
+ samaritan:0 "’dlš)RšNºN"
+ OLD_NORSE:0 "äSú‹¯e"
+ jewish_rebels_demand:0 "ˆvO $COUNTRYNAME$"
+ jewish_rebels_demand_desc:0 "—RYeÛS›Q:N $RELIGION$ wb. ÖNìN‰BlbìNb³‹ÖNìN—RYe„v]Øš0WMOÿbwóSkPbklSÖNìN„váOðNÿ©‹ÖNìN—_åN(W‰RR-N]ÜbÖNìN„v^yf0"
+ jewish_rebels_title:0 "—RYe"
+ jewish_rebels_name:0 "$RELIGION$ Ârípw"
+ jewish_rebels_desc:0 "—RYeÂrípRPR>PTŽN(WNTáOðN„výV¶R¶c6R„vwýNwIN0ÖNìNûRBl/O­dÖNìN„váOðNÿv^OgŠkOb	gNáOw0"
+ jewish_rebels_army:0 "$RELIGION$ ›Q–"
+ norse_pagan_reformed_rebels_demand:0 "lS $COUNTRYNAME$"
+ norse_pagan_reformed_rebels_demand_desc:0 "—RYeÛS›Q:N $RELIGION$ wb. ÖNìN‰BlbìNb³‹ÖNìN—RYe„v]Øš0WMOÿbwóSkPbklSÖNìN„váOðNÿ©‹ÖNìN—_åN(W‰RR-N]ÜbÖNìN„v^yf0"
+ norse_pagan_reformed_rebels_title:0 "—RYe"
+ norse_pagan_reformed_rebels_name:0 "$RELIGION$ Ârípw"
+ norse_pagan_reformed_rebels_desc:0 "—RYeÂrípRPR>PTŽN(WNTáOðN„výV¶R¶c6R„vwýNwIN0ÖNìNûRBl/O­dÖNìN„váOðNÿv^OgŠkOb	gNáOw0"
+ norse_pagan_reformed_rebels_army:0 "$RELIGION$ ›Q–"
+ odin:0 "eYN"
+ odin_desc:0 "eYN/fS'k^yÝ‹-N„v;N^yÿ8^Nb‰NÿÜw)RŒTŠk¡NøvTwû|0"
+ freya:0 "™‚…Å–"
+ freya_desc:0 "™‚…Å–/fNMOsY^yÿN,‚1uŽN1rÿŽÿu²wŒTyY„v1ÌR„vbú‹w«ˆ]Üb0"
+ tor:0 "XbS"
+ tor_desc:0 "XbS/feYN„v?QPRÿ/fÝO³bºNŠ|ùR—bÕ‹þVÛeQSN„vP``„v^y."
+ tyr:0 "ÐcS"
+ tyr_desc:0 "ÐcS/fN*NUSKb„vckINKN^yÿv^N/fgÇRbe„v^yKNN."
+ snotra:0 "¯eú‹yrÉb"
+ snotra_desc:0 "¯eú‹yrÉb/fzfgasY^y. N*Nzfga„v7uºNbsYºNïSåNåNyYKNT:Ncƒÿ«ˆðykO¯eú‹yr"
+ njord:0 "<S¦u·_"
+ njord_desc:0 "™‚…Å–KN6r, 'YwmN1ÌRKN^yOÙuÖN„váO’_ìNNß˜ir0"
+ MESOAMERICAN_HERETIC:0 "yrú‹^Xm…h"
+ NAHUATL_HERETIC:0 "yrú‹^Xm…h"
+ INTI_HERETIC:0 "ætaS]Übw"
+ MAZDAKI:0 "lšyQ¾KQ"
+ MANICHEAN:0 "id<SYe"
+ OLD_TENGRI:0 "çe•u)Y"
+ spreading_of_norse_rituals_title:0 "ú‹¯e—RYeêN_„v/O­d"
+ spreading_of_norse_rituals_desc:0 "lS:Nú‹¯e—RYeÀNHNýN—‰0Ïk*NºNýýwcüRêñ]„v—RYeêN_0êS‰`OáOðNÃW‰SeYNÿ1tSÿ™‚…Å–ŒT¯eú‹yrÉb`O¿O«ˆ³‹:N/fAsatru„vý–w0©‹bìNŸ±RbìNŠegŠY„vºN†Nã‰bìN„v^y'TÿóSïSåN©‹ÖNìN_ËY]ÜbÖNìN0"
+ restrict_government_offices_title:0 "Ÿ±R9eáO¹r*YYe"
+ restrict_government_offices_desc:0 "©‹bìNP–6ROb	g-N.Y?eœ^00W¹e?eœ^ŒT›Q–-N„vÍ‘‰Lw¡RÿSÙ›NLw¡RÙu²›Nåb	gwckáOðN„vºNÿv^ùROb	gN¶u˜RXTÐc›OMQ9„v0¹r*YÕlxQ0ŒT0hQLhÛv´R0„vYe²w0ÇÙÍy¹eÕlÿbìNïSåNÝOÁ‹ÖNìNåb	glSáOðN„výw›RŒT?ag0"
+ restricted_offices:0 "Ÿ±R9eáO"
+ desc_restricted_offices:0 "bìNckÇP–6R^—áOw„v:gOŒTŸ±RfR`NlØSáOðNOb—„vÑyîvegïygŸ±RbìNýV¶R-N„v^—¹r*YYeºNãSláOwck„váOðN0"
+ spreading_norse_rituals:0 "êN_„v/O­d"
+ desc_spreading_norse_rituals:0 "bìNckïygŸ±R^—ú‹¯eáOðNºNãS†Nã‰bìN—RYe„v^yŒTêN_0"
+ inti_rebels_title:0 "—RYe"
+ inti_rebels_name:0 "$RELIGION$ Ârípw"
+ inti_rebels_desc:0 "—RYeÂrípRPR>PTŽN(WNTáOðN„výV¶R¶c6R„vwýNwIN0ÖNìNûRBl/O­dÖNìN„váOðNÿv^OgŠkOb	gNáOw0"
+ inti_rebels_army:0 "$RELIGION$ ›Q–"
+ inti_rebels_demand:0 "lS $COUNTRYNAME$"
+ inti_rebels_demand_desc:0 "—RYeÛS›Q:N $RELIGION$ wb. ÖNìN‰BlbìNb³‹ÖNìN—RYe„v]Øš0WMOÿbwóSkPbklSÖNìN„váOðNÿ©‹ÖNìN—_åN(WŒTs^-N<yÜb0"
+ maya_rebels_title:0 "—RYe"
+ maya_rebels_name:0 "$RELIGION$ Ârípw"
+ maya_rebels_desc:0 "—RYeÂrípRPR>PTŽN(WNTáOðN„výV¶R¶c6R„vwýNwIN0ÖNìNûRBl/O­dÖNìN„váOðNÿv^OgŠkOb	gNáOw0"
+ maya_rebels_army:0 "$RELIGION$ ›Q–"
+ maya_rebels_demand:0 "lS $COUNTRYNAME$"
+ maya_rebels_demand_desc:0 "—RYeÛS›Q:N $RELIGION$ wb. ÖNìN‰BlbìNb³‹ÖNìN—RYe„v]Øš0WMOÿbwóSkPbklSÖNìN„váOðNÿ©‹ÖNìN—_åN(WŒTs^-N<yÜb0"
+ nahuatl_rebels_title:0 "—RYe"
+ nahuatl_rebels_name:0 "$RELIGION$ Ârípw"
+ nahuatl_rebels_desc:0 "—RYeÂrípRPR>PTŽN(WNTáOðN„výV¶R¶c6R„vwýNwIN0ÖNìNûRBl/O­dÖNìN„váOðNÿv^OgŠkOb	gNáOw0"
+ nahuatl_rebels_army:0 "$RELIGION$ ›Q–"
+ nahuatl_rebels_demand:0 "lS $COUNTRYNAME$"
+ nahuatl_rebels_demand_desc:0 "—RYeÛS›Q:N $RELIGION$ wb. ÖNìN‰BlbìNb³‹ÖNìN—RYe„v]Øš0WMOÿbwóSkPbklSÖNìN„váOðNÿ©‹ÖNìN—_åN(WŒTs^-N<yÜb0"
+ tengri_pagan_reformed:0 "•u)Y"
+ tengri_pagan_reformed_rebels_demand:0 "lS $COUNTRYNAME$"
+ tengri_pagan_reformed_rebels_demand_desc:0 "—RYeÛS›Q:N $RELIGION$ wb. ÖNìN‰BlbìNb³‹ÖNìN—RYe„v]Øš0WMOÿbwóSkPbklSÖNìN„váOðNÿ©‹ÖNìN—_åN(WŒTs^-N<yÜb0"
+ tengri_pagan_reformed_rebels_title:0 "—RYeÛS›Q"
+ tengri_pagan_reformed_rebels_name:0 "$RELIGION$ Ârípw"
+ tengri_pagan_reformed_rebels_desc:0 "—RYeÂrípRPR>PTŽN(WNTáOðN„výV¶R¶c6R„vwýNwIN0ÖNìNûRBl/O­dÖNìN„váOðNÿv^OgŠkOb	gNáOw0"
+ tengri_pagan_reformed_rebels_army:0 "$RELIGION$ ³bYe›Q"
+ zoroastrian_group:0 "FyYe"
+ zoroastrian:0 "FyYe"
+ zoroastrian_rebels_demand:0 "lS $COUNTRYNAME$"
+ zoroastrian_rebels_demand_desc:0 "—RYeÛS›Q:N$RELIGION$ wb. ÖNìN‰BlbìNb³‹ÖNìN—RYe„v]Øš0WMOÿbwóSkPbklSÖNìN„váOðNÿ©‹ÖNìN—_åN(WŒTs^-N<yÜb0"
+ zoroastrian_rebels_title:0 "—RYeÛS›Q"
+ zoroastrian_rebels_name:0 "$RELIGION$ Ârípw"
+ zoroastrian_rebels_desc:0 "—RYeÂrípRPR>PTŽN(WNTáOðN„výV¶R¶c6R„vwýNwIN0ÖNìNûRBl/O­dÖNìN„váOðNÿv^OgŠkOb	gNáOw0"
+ zoroastrian_rebels_army:0 "$RELIGION$ ³bYe›Q"

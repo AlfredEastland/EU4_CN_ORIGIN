@@ -1,0 +1,198 @@
+﻿l_english:
+ ON_TRADE_MISSION_IRO:0 "O(u§Y$COUNT$§!Š‹W9‚êSÝO³b§Y$WHERE$§!„v8f"
+ ON_PRIVATEER_MISSION_IRO:0 "(u §Y$COUNT$§! Š0‚pbqNbìN„vLeºN(W §Y$WHERE$§! „v8f."
+ TRADEMAP_OUTGOING:0 "FUºNckS§Y$VAL$§W¤_§Y$NAME$§W."
+ TRADEMAP_OUTGOING_BASE:0 "(WTýV RbKNMRÿ$BASEVAL$¤ ck(W»y_ $FROMNODE$."
+ TRADEMAP_OUTGOING_SMALL:0 "TÏ‘ÿ-§Y$VAL$§W¤"
+ TRADEMAP_INCOMING:0 "TÏ‘ÿ+§Y$VAL$§W¤"
+ TRADEMAP_LOCAL:0 "YOYuÿ+§Y$VAL$§W¤"
+ TRADEMAP_TOTAL:0 "‚‚¹p8f˜ÿ§Y$VAL$§W¤"
+ TRADEMAP_TOTAL_POWER:0 "(W‚‚¹p„v;`8f›RÏ‘: §Y$VAL$§W¤"
+ TRADEMAP_POWER:0 "S_MRbýV8fÞz‰N›R/fÿ§Y$VAL$§W"
+ TRADEMAP_INCOMING_EXP:0 "ÎNMRN‚‚¹p·ƒ—_„v8fÞz‰N›R"
+ TRADEMAP_OUTGOING_EXP:0 "AmTN8n‚‚¹p„v8fÞz‰N›R"
+ TRADEMAP_LOCAL_EXP:0 "wýN8f˜^SŽNvQ8f‚‚¹p"
+ TRADEMAP_TOTAL_EXP:0 "8f‚‚¹p,g0WÊS“eQ„vhQè8fÞz‰N›R"
+ TRADEMAP_INLAND_TITLE:0 "…QF–8f‚‚¹p"
+ TRADEMAP_INLAND_DESC:0 ">mcN*N8^ŠšFUºN(Wdk…QF–8f‚‚¹p…Q_r)RÿbüRTæSN*N…QF–8f‚‚¹pÿS(WÙ*N‚‚¹púWŽN`O„v8fHe‡sÙu`O˜Y„v8fÞz‰N›R"
+ TRADEMAP_WE_COLLECT:0 "bìN·ƒÖS„v$VAL|Y2$¤"
+ WITH_TRADE_POWER_OF:0 "ÖNìN„v8fÞz‰N›R/f§G$VAL$§!"
+ TRADE_EXPAND:0 ">f:y8f"
+ TRADE_STEERING:0 "8f_üR"
+ TRADE_POWER_DESC:0 "wýN8fÞz‰N›Rÿ§Y$VAL$§W"
+ TP_PROVINCE_POWER:0 "ÎNwýN·ƒ—_ÿ$VAL$"
+ TP_SHIP_POWER:0 "ÎNŠ‹W9‚êS·ƒ—_ÿ$VAL$"
+ BASE_TRADE_VALUE:0 "úWOxÞz‰N›Rÿ8f˜/$DIV$	ÿÿ§Y$VAL$§W"
+ BASE_TRADE_PORT_VALUE:0 "/nãS ÿ8f˜/$DIV$	ÿÿ+§G$VAL$§W"
+ COUNTRY_TRADE_EFFICIENCY:0 "8fHe‡sÿgØš200%	ÿÿ$VAL$"
+ COUNTRY_TRADE_EFF_TECH:0 "Ñybÿ$VAL$"
+ CURRENT_POWER:0 "S_MR8fÞz‰N›Rÿ§Y$VAL$§W"
+ OUR_CURRENT_POWER:0 "bìN°s(W„v8f›RÏ‘: §Y$VAL$§W"
+ MAX_POWER:0 "8fÞz‰N›Rÿ§Y$VAL$§W"
+ MERCHANT_PRESENT_EFFECT:0 "åb	gN*NFUºNÙuˆN$VAL|1=+$8fÞz‰N›R0"
+ PROVINCE_POWER:0 "wýN8fÞz‰N›Rÿ§Y$VAL$§W"
+ TRADE_NODE_NOT_YET_DISCOVERED:0 "Ù*N8f‚‚¹pØ¡l	gûNUOwýN«ˆÑS°s0"
+ TRADE_NODE_LOCATION_NOT_YET_DISCOVERED:0 "S*gÑS°s„v8f‚‚¹pMOn"
+ TRADE_MULTI_EXPLA:0 "¦NàV(Wdk‚‚¹pKN$VAL$8fÞz‰N›RîOckwXNåN§Y$MUL$§!."
+ TRADE_POWER_CAPITAL:0 "8f,gàW: $VAL$"
+ TRADE_POWER_TAKE:0 "§Y$COUNTRY$§W„vFUºN(Wdk‚‚¹p·ƒ—_§Y$VAL$§W¤"
+ TRADE_POWER_PIRATES_TAKE:0 "§Y$COUNTRY$§WÎNÙ*N8f‚‚¹p·ƒÖS§Y$VAL$§W¤"
+ TRADE_POWER_TAKE_STATE:0 "dkYÖNìN:NýV¶RR/†N§Y$VALOTHER$§W¤6eeQ"
+ TRADE_POWER_PUSH:0 "§Y$COUNTRY$§WO(u8fÞz‰N›RS§Y$VAL$§W¤üRTN8n"
+ TRADE_VALUE_RETAINED:0 "ÝOYu§Y$VAL$§W%8fÞz‰N›R"
+ TRADE_BASE_VALUE:0 "úWOxÿ§Y$VAL$§W"
+ TRADE_RETENTION_RESULT:0 "8fÞz‰N›RgÈu<Pÿ$VAL$"
+ MERCHANT_MAX_POWER_BONUS:0 ">mcFUºNÿ$VAL$"
+ MERCHANT_MAX_POWER_INLAND:0 "(W…QF–‚‚¹p>mcFUºNÿ$VAL|+1$"
+ MERCHANT_MAX_POWER_STEERS_TO_INLAND:0 "FUºNSüRT…QF–‚‚¹pÿ$VAL|+1$"
+ MERCHANT_DAILY_POWER:0 ">mcFUºNÿ§G$VAL$§W/)Y"
+ MERCHANT_PRESENT_OFFICE:0 "$COUNTRY$(Wdkåb	gN*NFUºNÿ·ƒÖS8f6eeQ"
+ MERCHANT_PRESENT_OFFICE_PIRATES:0 "wm×vN‰FUºNÎN8f-N_r)R"
+ MERCHANT_PRESENT_TRANSIT:0 "$COUNTRY$(Wdkåb	gN*NFUºNÿlûy8fÞz‰N›R"
+ MERCHANT_NOT_PRESENT:0 "¡l	gFUºN"
+ MERCHANT_DAILY_INCREASE:0 "8fÞz‰N›RÏk)YžX Rÿ§Y$VAL$§W"
+ TRADE_NODE_POWER_SHARE:0 "8fÞz‰N›RÔkÍ‘ÿ§G$VAL$§W%"
+ TRADE_MAX_POWER_MOD:0 "8fÞz‰N›Rÿ$VAL$"
+ TRADE_INCOME_MOD:0 "6eeQÿ$VAL$"
+ TRADE_STEER:0 "îvMRbìNS8füRT$NAME$"
+ TRADE_NOT_STEER:0 "îvMRbìN*gS8füRT$NAME$"
+ STEER_HOME:0 "(W·ƒ—_8f6eeQ„v‚‚¹p`OàeÕlüRT8f"
+ STEER_LATER:0 "`OàeÕl_üRÏu`On‚‚¹p„v8fþ”"
+ STEER_NO_POWER:0 "`O—‰(WÙÌ‘åb	g8fÞz‰N›RåN_üR8f"
+ STEER_NO_PRESENSE:0 "`O(Wdk¡l	gFUºN"
+ TRADE_DISTANCE:0 "$FROM$ó$TO$„vÝ»yÿ$VAL$"
+ TRADE_INCOME_FACTORS:0 "q_ÍTžRE–6eeQÿ"
+ TRADE_COUNTRY_RETAIN:0 "$COUNTRY$„vFUºNO—_§Y$VAL$§W¤ *bYu(W‚‚¹p"
+ TRADE_NAVY_NO_SHIPS:0 "`O—‰(uŠ‹W9‚êSegÝO³b8f."
+ TRADE_NAVY_NOT_PORT:0 "`O„v0‚–‰HQeQ/nMbýwÝO³b8f"
+ TRADE_NAVY_MOVEMENT_LOCKED:0 "`ON(W0‚–ckÝO³b8fbgbLˆwm×vûN¡R„vöePôf9eîvh0—‰Ir0RƒR0R¾îv„v0W0"
+ TRADE_NAVY_CANCEL:0 "ÖSˆmÝO³b8f"
+ TRADE_NAVY_MISSION:0 "(W§Y$NAME$§WD–Ñ_ËYÝO³b8f"
+ TRADE_NAVY_MISSION_DESC:0 "`O„v0‚–O(WwmßWá];åNÝO³bŒTOS©R`O„vFUºN.êS	gŠ‹W9‚êSýwYÐc›O8fÞz‰N›RÿFO/fvQÖNŠ|‹W„v9‚êS_NýwÐc›O˜Y„vÝO³b"
+ TRADE_NUM_SHIPS:0 "Š‹W9‚êSpeÏ‘ÿ$VAL$"
+ SHIP_POWER:0 "Š‹W9‚êSÐc›O„v8fÞz‰N›Rÿ§Y$VAL$§W"
+ PREV_MAX_POWER:0 "N8n8fÐc›O„v8fÞz‰N›Rÿ§Y$VAL$§W"
+ TRADE_MISSION_OFFICE:0 "·ƒÖS8f6eeQ"
+ TRADE_MISSION_TRANSIT:0 "lûy8f˜"
+ TRADE_MISSION_OFFICE_DESC:0 "AQ¸‹`OÎN8f-N·ƒ—_6eÊv.(W`O,gàW‚‚¹pKNYÿ`OêSýwÎNò]>mcFUºN„v‚‚¹pN·ƒ—_6eÊv.‚YœgFUºN«ˆìSÞVÿR‚‚¹pOlûy8f˜"
+ TRADE_MISSION_TRANSIT_DESC:0 "ûNUON/f`O8f,gàW„v8f‚‚¹pý/f-Nl‚‚¹p0`O„v8f6eeQOM–NOÿv^OüRô8f˜„vNM–0"
+ NON_CAPITAL_OFFICE_2:0 "N(W`O„v8f,gàW·ƒÖS8f6eeQ: $VAL$"
+ ENVOY_TRADING_TRADE_MISSION_TRANSIT:0 "$NAME$(W §Y$PROV$§Wlûy8f˜"
+ ENVOY_TRADING_TRADE_MISSION_OFFICE:0 "$NAME$(W §Y$PROV$§W·ƒÖS8f6eeQ"
+ MERCHANT_PRESENT:1 "Merchant present: §Y$VAL$§W"
+ TRADE_POWER_PUSH_DESC:0 "O(u§Y$VAL$§W%8fÞz‰N›R·ƒÖS8f6eeQ"
+ TRADE_POWER_DIRECT_DESC:0 "§Y$VAL$§W%8fÞz‰N›RS8f˜üRTÙ*N¹eT"
+ TRADE_DIRECTOR_TOOLTIP:0 "§Y$NAME$§WO(u†N§Y$VAL$§W8fÞz‰N›RS8füRTÙ*N¹eT"
+ TRADE_PROJECTOR_TOOLTIP:0 "§Y$NAME$§W(Wdk‚‚¹påb	g§Y$VAL$§W8fÞz‰N›R."
+ TRADE_PROJECTOR_SHARE_TOOLTIP:0 "Ù/få‹‚‚¹p„v;`8fÞz‰N›R„v$VAL|Y0%$"
+ POTENTIAL_MAX:0 "ko(WÞz‰N›RýN˜ÿ§Y$VAL$§W%"
+ EMBARGO_EFFICIENCY:0 "yÐHe‡sÿ§Y$VAL$§W"
+ EMBARGOED_BY:0 "«ˆ§Y$OTHER$§WyÐÿ-§R$VAL$§W%"
+ TN_COUNTRY:0 "ýV¶R"
+ TN_RETENTION_POWER:0 "*bYu„v8f˜"
+ TN_INCOME_SHARING:0 "6eeQRb"
+ TN_TRADE_POWER:0 "8fÞz‰N›R"
+ TN_OUTGOING_VALUE:0 "TÏ‘ÿ"
+ TN_TOTAL_VALUE:0 ";`¡‹:"
+ TN_LOCAL_VALUE:0 "YOYuÿ"
+ TN_INCOMING_VALUE:0 "TÏ‘ÿ"
+ TN_SEND_MERCHANT:0 ">mcFUºN"
+ TN_MERCHANT_PRESENT:0 "$NAME$($TYPE$)"
+ TRADE_RETENTION:0 "§Y$PART$§W%„v8fÞz‰N›RO—_§Y$VAL$§W¤«ˆ*bYu"
+ TRADE_PULL:0 "§Y$PART$§W%„v8fÞz‰N›RO—_§Y$VAL$§W¤AmTN8n"
+ TRADE_POWER_TAKE_PART:0 "TýV-Nÿ§Y$COUNTRY$§Wåb	g§Y$PART$§W%„v8fÞz‰N›R(ueg·ƒÖS8f6eeQ"
+ TRADER_ALLREADY_THERE:0 "TN‚‚¹pÅNýw>mcNMOFUºN"
+ TRADER_IN_RANGE:0 "Å_Š˜YŽNƒôV…QÿS_MRƒôVÿ§Y$CURR$§W g'YƒôVÿ§Y$MAX$§W	ÿ"
+ TRADER_FREE_ENVOY:0 "Å_Š˜åb	gN*NïS(uFUºN"
+ TRADE_CANCEL:0 "ìSÞVFUºN"
+ TRADE_CANCEL_TIME:0 "FUºN(W§Y$DATE$§W)YTÔÞV"
+ TRADE_SEND_MERCHANT:0 ">mcFUºN·ƒÖS8f6eeQ"
+ TRADE_SEND_MERCHANT_DESC:0 "ÎN8f-N·ƒÖS6eeQSO—‰8fÞz‰N›R. `O„v,gàW‚‚¹pSO8lEN'`„v·ƒÖS6eeQÿ>mcFUºNOÐcØš8fÞz‰N›R.Ç>mcFUºNÿ`OïSåNÎNûNUO‚‚¹p·ƒÖS6eeQ.‚YœgFUºN«ˆìSÞV†NÿRêSýwlûy8f˜."
+ TRADE_MERCHANT_ARRIVAL_TIME:0 "$NAME$S(W§Y$VAL$§W)YTµb¾"
+ TRADE_ENROUTE:0 "`Oò]ÏuTå‹‚‚¹p>mc†NFUºN"
+ TRADE_ENROUTE_STATUS:0 "(W-N"
+ TRADE_MERCHANT_UNABLE:0 "àeÕl>mcFUºN"
+ TRADE_TRANSIT_NODE:0 ">mcFUºNlûy8f˜."
+ TRADE_TRANSIT_NODE_DESC:0 "`O(W-Nl‚‚¹p-N8fÞz‰N›RO«ˆ(uŽNS‚‚¹p-N„vÑ‘±”lûy0RN8n. ‚Yœg`O(Wå‹‚‚¹p„vN8n‚‚¹p	g8fÞz‰N›R„vÝ‹ÿ_NOÙuå‹‚‚¹pžX RSÏ‘8fÞz‰N›R"
+ TRADE_TRANSIT_NODE_CAPITAL:0 "`O(W,gàW‚‚¹p8lÜêSýw·ƒÖS8f6eeQÿ`OàeÕlSÙÌ‘„v8f˜lûy"
+ TRADE_LEADER_NAME_SORT_TOOLTIP:0 "	cg'Y8f;NüRw’c^Sort by Trade Power Leader"
+ TRADE_TRADER_SORT_TOOLTIP:0 "	cgqFUºNŠšNb’c^"
+ TRADE_TRADER_SORT_TOOLTIP_DELAYED:0 ">múQ8^ŠšFUºNS R`O„v8fÞz‰N›R.Ïk*NFUºNýïSÎN-N_r)RbS8f˜TN8n."
+ TRADE_INCOME_SORT:0 "	cgq6eeQ’c^"
+ TRADE_INCOME_SORT_DELAYED:0 "8f˜‰HN«ˆôv¥clS:N8f6eeQ6eÖSÿ‰HNÇlûy8f˜«ˆüRTN8n‚‚¹p"
+ TRADE_MISSION_SORT:0 "	cgqFUºNûN¡R’c^"
+ TRADE_MISSION_SORT_DELAYED:0 "`O„vFUºNïSåN·ƒÖS8f6eeQÿ‚Yœg(WN8nbN8n	g·ƒÖS‚‚¹p_NïSS6eeQüRT²Ì‘"
+ TRADE_INCOME_MOD_SORT:0 "	cgq6eeQîOck’c^"
+ TRADE_INCOME_MOD_SORT_DELAYED:0 "ùRýV¶RžRE–6eeQ„vîOck0"
+ TRADE_CURRENT_POWER_SORT:0 "	cgqS_MR8fÞz‰N›R’c^"
+ TRADE_OUR_CURRENT_POWER_SORT:0 "	cgqbìNîvMR„v8fÞz‰N›R’c^."
+ TRADE_TOTAL_POWER_SORT:0 "	cgq;`8fÞz‰N›R’c^."
+ TRADE_TOTAL_POWER_SORT_DELAYED:0 "Ù/f(W‚‚¹p„vOb	gýV¶R„v8fÞz‰N›R„v;`ŒT."
+ TRADE_CURRENT_POWER_SORT_DELAYED:0 "S_MR8fÞz‰N›R/f`O(Wå‹‚‚¹pb—_8fÞz‰N„výw›R.>mcFUºNïSžX Rå‹<P"
+ TRADE_CURRENT_VALUE_SORT:0 "	cgq÷N<P’c^"
+ TRADE_MAX_POWER_SORT:0 "åN8fÞz‰N›R’cT"
+ TRADE_MAX_POWER_SORT_DELAYED:0 "8fÞz‰N›RãNhˆ†N5ýVŽNdk‚‚¹p„v8fžR›RØšNO.‹O‚Yÿåb	gN*NØš<PwýNb	g0‚–á]³b8fÿ†výwÐcGSdkÏ‘."
+ TRADE_SHIPS_SORT:0 "	cgqŠ‹W9‚êS·ƒÖS„v8fÞz‰N›R’c^"
+ TRADE_SHIPS_SORT_DELAYED:0 "åN9‚Æ–á];ïSžX R5ýV8fÞz‰N›R."
+ TRADE_PROVINCES_SORT:0 "wýN8fÞz‰N›R’c^"
+ TRADE_PROVINCES_DELAYED:0 "åb	gwýNïSÐcGS5ýV8fÞz‰N›R.	g›NwýNôf:N<P—_:YÖS‹O‚Y«Ž:NÍ‘‰8f-NÃ_b/fMOÑ³lãSIr.tQú^ú^QrRïSÐcGSwýN8fÞz‰N›R."
+ TRADE_MAX_POWER_MOD_SORT:0 "åN8fÞz‰N›RîOck’cT"
+ TRADE_MAX_POWER_MOD_DELAYED:0 "åb	gwýNïSÐcGS5ýV8fÞz‰N›R.	g›NwýN)YuOŠÿ	g›NR—T)YeˆQe."
+ TRADE_ADDED_VALUE_COUNTRY:0 "§Y$WHO$§WžX R†N§Y$VAL$§W%TÏ‘"
+ TRADE_POWER_UPSTREAM:0 "§Y$COUNTRY$§WckS§Y$VAL$§W„v8fÞz‰N›RÐc›OÙuN8n‚‚¹p"
+ TRADE_CURRENT_POWER:0 "S_MR8fÞz‰N›Rÿ§Y$VAL$§W."
+ STEER_NO_TRADER:0 "–™HQ`O—‰‰RnFUºNÿÇlûy8f˜eg_üR8fAmT"
+ TRANSFER_TRADE_POWER_TO:0 "T§Y$OTHER$§!lûy8f˜ÿ§R-$VAL$§!"
+ TRANSFER_TRADE_POWER_FROM:0 "ÎN§Y$OTHER$§!·ƒ—_8f˜ÿ§G+$VAL$§!"
+ TRADER_NOT_DISCOVERED:0 "8f‚‚¹p*gÑS°s"
+ ADDED_VALUE_TRADE:0 "žX R<Pÿ§Y$VAL$§!"
+ MERCHANT_DOWNSTREAM_BONUS:0 "egê„vN8n8fÞz‰N›Rÿ$VAL$"
+ TRADE_POWER_UPSTREAM_DESC:0 "S_N*NýV¶R(WÐg‚‚¹pò]	g8fÞz‰N›RöeÿïSÎNN8n‚‚¹p·ƒ—_NšR8fÞz‰N›R Rb"
+ NO_TRADE_COMPANY_NO_REGION:0 "(WÙ*N0W:SNïSýwú^ËzN*N8flQøS"
+ NO_TRADE_COMPANY_ON_OWN_CONTINENT:0 "Nýw(W`OOb(W„vÍk'YF–Nú^Ëz8flQøS0"
+ TRADE_COMPANY_ADD:0 "ŠbwýNRM‘Ùu`O„v8flQøS0ÙSÏQSz6eŒTºN›RFOOžX RvQ8f˜"
+ TRADE_COMPANY_REMOVE:0 "ÎN`O„vlQøST˜N/Rd–wýN"
+ CONFIRM_JOIN_TRADE_COMPANY_TITLE:0 "ŠbwýNRM‘Ùu8flQøS"
+ CONFIRM_JOIN_TRADE_COMPANY_DESC:0 "Ùu$COMPANY|Y$¶c6R$PROVINCE|Y$S'YE^ÐcØšvQú^ËzN*N8f^ýV„v÷N<PÿFOOM–NOƒRkO:NN*NTYuQXTŒTzn„výw›R0"
+ CONFIRM_JOIN_TRADE_COMPANY_DESC_NEW:0 "ÙSú^ËzN*N°e8flQøS(W$REGION|Y$0ÙubìN°elQøS¶c6R$PROVINCE|Y$S'YE^ÐcØšvQú^ËzN*N8f^ýV„v÷N<PÿFOOM–NOƒRkO:NN*NTYuQXTŒTzn„výw›R0"
+ CONFIRM_LEAVE_TRADE_COMPANY_TITLE:0 "SwýNÎN8flQøS…Qûyd–"
+ CONFIRM_LEAVE_TRADE_COMPANY_DESC:0 "ÎN$COMPANY|Y$ÖSˆm$PROVINCE|Y$ÿ©‹bìNùRvQDnôv¥c¶c6R"
+ CONFIRM_ALL_JOIN_TRADE_COMPANY_TITLE:0 "_/T8flQøS"
+ CONFIRM_ALL_JOIN_TRADE_COMPANY_DESC:0 "Šb`O(W$NODE|Y$-NOb	g¶c6R„vwýNlûyÙu$COMPANY|Y$S'YE^ÐcØšvQú^ËzN*N8f^ýV„v÷N<PÿFOOM–NOƒRkO:NN*NTYuQXTŒTzn„výw›R0"
+ CONFIRM_ALL_JOIN_TRADE_COMPANY_DESC_NEW:0 "ÙSú^ËzN*N°e8flQøS(W$REGION|Y$0Šb`O(W$NODE|Y$-NOb	g¶c6R„vwýNlûyÙubìN°elQøSS'YE^ÐcØšvQú^ËzN*N8f^ýV„v÷N<PÿFOOM–NOƒRkO:NN*NTYuQXTŒTzn„výw›R0"
+ CONFIRM_ALL_LEAVE_TRADE_COMPANY_TITLE:0 "sQí•8flQøS"
+ CONFIRM_ALL_LEAVE_TRADE_COMPANY_DESC:0 "ÎN$COMPANY|Y$»S‰c`O(W$NODE|Y$Ì‘„vOb	gwýNÿ©‹bìNùRvQDnôv¥c¶c6R"
+ IS_IN_TRADE_COMPANY:0 "$PROVINCE|Y$(W$COMPANY|Y$lQøS¶c6RN"
+ MAY_BE_IN_TRADE_COMPANY:0 "$PROVINCE|Y$¶–^SŽN$REGION|Y$:SßW8flQøS"
+ SV_TRADE_COMPANY_NAME:0 "$NAME|Y$ /fbìN¶c6RN„vN¶R8flQøS"
+ SV_TRADE_COMPANY_NAME_DESC:0 "8flQøS¡rtbìN8f^ýV(WeÜ0W¹e„vW0Wÿ`OSwýNRM‘Ùu8flQøSSžX RÖNìN„v8fÞz‰N›RŒTÐc›Oôf:_'Y„vwm›QÿFO:¹p/f`OÎNÙ›NwýNS—_0Rˆ_S„vz6eŒTëXuQÿ‚YœgN*N8flQøS(WvQ8f‚‚¹p…Q·ƒ—_8fßu»l0WMOÿ`OS·ƒ—_N*N˜Y„vFUºN0"
+ SV_TRADE_COMPANY_INCOME:0 "egêlQøSLˆw„v6eeQÿ$INCOME|Y$¤"
+ SV_TRADE_COMPANY_POWER:0 "egêlQøSLˆw„v8fÞz‰N›R"
+ SV_TRADE_COMPANY_CONTROL:0 "8flQøSS_MR¶c6ROw$REGIONNAME$ $THEIR|Y$ „vwýN8fÞz‰N›R0;`qQ	g$TOTAL|Y$0"
+ SV_TRADE_COMPANY_CONTROL_DESC:0 "`Oåb	g„vwýN8fÞz‰N›RÅ_Š˜¾0R‚‚¹p;`<P„v$VAL|Y$%„vMbýw·ƒ—_å‹0W:S„v8fßu»l0WMOÿîvMR`O¶c6R$MYVAL|Y$%0"
+ SV_TRADE_COMPANY_FLEET:0 "bìN¶–^S8flQøS„vN^SwýNÙubìN$VAL|Y$˜Y„v0‚–NP–"
+ SV_TRADE_DOMINANT_TRADER:0 "bìN8flQøS/få‹0W:S`S;NüR0WMO„v8fFU"
+ SV_TRADE_DOMINANT_TRADER_OTHER:0 "$NAME|Y$/f,g0W:S`S;NüR0WMO„v8fFU"
+ SV_TRADE_NEW_DOMINANT:0 "(W$DAY$)YT$NAME$Sb:Nå‹0W:S`S;NüR0WMO„v8fFU"
+ SV_TRADE_COMPANY_STRONG:0 "$NAME|Y$ (WÙN:SßWžR°s†N8f8—Cg."
+ SV_TRADE_COMPANY_NOT_STRONG:0 "$NAME|Y$(Wå‹0W:SN³åNðy—_N/fN*NwQ	g8fßu»l0WMO"
+ trade_company_strong:0 ":_'Y„v8flQøS"
+ NO_TRADE_COMPANY_GROUP:0 "`O„vÑybÄuNAQ¸‹8flQøS"
+ NO_TRADE_COMPANY_OVERSEAS:0 "`OêSýw(WwmYRËz8flQøS."
+ TRADE_NAME_SORT_TOOLTIP:0 "	cýV¶R’c^"
+ WHO_HAS_TRADE_COMPANY_IN:0 "$WHO|Y$(W$REGION|Y$„v8flQøS"
+ GOODS_PRODUCED_BONUS:0 "Ù*N0W:S„v8flQøSžX R†NS_0W^—‰¹eýV¶R $VAL|1Y%$ „v'iru¶N0"
+ TRADE_SHIPS_IN_NODE:0 "`O	g$COUNT|Y$X‚Š‹Wb0‚(WÙ*N8f‚‚¹pÝO³b8f0\nƒRìNNqQ¶Nu $TRADEPOWER|Y$8fÞz‰N›R0"
+ PRIVATEERS_IN_NODE:0 "`O	g$PRIVATEERCOUNT|Y$X‚9‚êS(WÙ*N8f‚‚¹pgbLˆÁy cûN¡R0\nƒRìNNqQ	g $PRIVATEERTRADEPOWER|Y$8fÞz‰N›R0"
+ aleppo:0 "?–ÒR‡˜"
+ hormuz:0 "—S(gyQ"
+ goa:0 "œg?–"
+ doab:0 "³lô•"
+ siberia:0 "‰/O)RšN"
+ lhasa:0 "Éb(„"
+ girin:0 "	T—g"
+ xian:0 "‰‰R"
+ chengdu:0 "bý"
+ zambezi:0 "^Ôk‰AmßW"
+ african_great_lakes:0 "'YVn0W:S"
+ kongo:0 "Rœg"
