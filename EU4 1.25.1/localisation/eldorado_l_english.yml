@@ -1,0 +1,45 @@
+﻿ el_dorado_mod:1 "El Dorado"
+ desc_el_dorado_mod:1 "We have discovered one of the ancient Seven Cities of Gold. Though it is long abandoned, overflowing riches lie within!"
+ sce_search_fountainofyouth:0 "The Search for Fountain of Youth"
+ desc_sce_search_fountainofyouth:0 "Your conquistador is looking for Fountain of Youth - the Water of Life."
+ sce_life_water:1 "'Water of Life'"
+ desc_sce_life_water:1 "The water of the Fountain of Youth is refreshing and sweet, and it serves as a place of pilgrimmage and wonder. There is little to be said for its ability to restore life, however..."
+
+
+ sce_search_cibola:0 "The Search for Cibola"
+ desc_sce_search_cibola:0 "Your conquistador is looking for Cibola - one of the Seven Cities of Gold."
+ sce_cibola_silver:1 "Cibola"
+
+
+
+ desc_sce_cibola_silver:1 "The legend of Cibola was true! A city covered with gold, gems and all manner of precious gewgaw."
+ sce_search_cityofcaesars:0 "The Search for the City of the Caesars"
+ desc_sce_search_cityofcaesars:0 "Your conquistador is looking for the City of the Caesars - a prosperous and rich city, full of gold, silver and diamonds."
+
+
+ sce_city_of_caesars:1 "City of the Caesars"
+
+ desc_sce_city_of_caesars:1 "The legendary Ciry of the Caesars sits astride a veritable mountain of quartz. It would take us hundreds, if not thousands of years to mine it all!"
+ sce_search_sierradelaplata:0 "The Search for Sierra de la Plata"
+ desc_sce_search_sierradelaplata:0 "Your conquistador is looking for Sierra de la Plata - the Silver Mountains."
+ sce_sierradelaplata_quartz:1 "Sierra de la Plata"
+ desc_sce_sierradelaplata_quartz:1 "The legend of Sierra de la Plata speaks of a mountain filled with silver. Not only was the legend correct, but it negelected to mention the crown of diamonds perched atop the ancient throne!"
+ sce_sierra_dela_plata:0 "Sierra de la Plata"
+ desc_sce_sierra_dela_plata:0 "The Silver Mountain, ruled by a White King, was found by our conquistador! It will bring prestige and gold to our country."
+ sce_search_norumbega:0 "The Search for Norumbega"
+ desc_sce_search_norumbega:0 "The conquistador is looking for Norumbega - a Viking settlement in North America with great riches."
+ sce_search_quivira:0 "Quivira"
+ desc_sce_search_quivira:0 "A land where golden cups hang from the trees - this is the place the conquistador is looking for."
+ sce_norumbega_abandoned:1 "Norumbega"
+
+
+
+ desc_sce_norumbega_abandoned:1 "The ancient city of Norumbega is discovered! A wealth of precious metals lie in open seams on its very streets."
+ sce_search_saguenay:0 "The Search for Kingdom of Saguenay"
+ desc_sce_search_saguenay:0 "Your conquistador is looking for the Kingdom of Saguenay - a kingdom rumored to have mines of gold, silver and rubies in North America."
+ sce_saguenay_abandoned:1 "Kingdom of Saguenay"
+ desc_sce_saguenay_abandoned:1 "The ancient city of Saguenay is filled with heretic idols and golden statues of cavorting pagan gods. It is our duty to melt them down and repurpose the riches."
+
+
+ sce_golden_cups:1 "The Golden City of Quivira"
+ desc_sce_golden_cups:1 "Despite the lack of golden cups hanging from branches, valuable jade deposits have been located under the ruined city. It will take time and effort, but extracting this material will prove a most worthy endeavour."

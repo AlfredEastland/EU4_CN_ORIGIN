@@ -1,0 +1,11 @@
+﻿ TUT_PART_CAM_DESC:1 "This part of the tutorial will go through the mechanics in a way that more accurately would mimic a real game. You will learn about declaring war, annexing countries and how to manage conquered lands. You will also learn about events, stability, rebels and exploration."
+ TUT_BAS_CHAPTER01_PAGE02_OBJECTIVES:0 "§MUnpause§! the game and wait until the 1st of January to continue."
+ TUT_BAS_CHAPTER03_DESC:1 "The third chapter of the tutorial will focus on basic §Meconomy, §Munit recruitment§! and §Mbuilding construction§!."
+ TUT_BAS_CHAPTER03_PAGE10_TEXT:1 "As an empire grows larger it becomes more difficult to manage. The §MProduction Interface§! will help you with constructing larger amounts of buildings or training troops. Selecting a building from the list will update the mapmode with information regarding where you would get the most benefit.\n\n§YCheck the top-left of the screen.§!"
+ TUT_ADV_CHAPTER01_DESC:1 "This chapter will go through the §Minterface§! and explain what everything is and why it is important."
+ TUT_CAM_CHAPTER01_DESC:1 "This chapter will go through §Munit production§!, §Mmissions§!, §Mwar§! and §Mconquest§!."
+ TUT_CAM_CHAPTER01_PAGE03_TEXT:0 "Missions are a way to set goals for your country. Missions can vary in difficulty and in terms of rewards. You can only have one mission at a time and canceling a mission will mean you will have to wait 5 years until you can choose a new one.\n\n§YClick the §MNo mission selected alert§! to go to the §Decisions§! tab.§W"
+ TUT_CAM_CHAPTER02_PAGE02_TEXT:1 "Advisors boost how many §MMonarch Points§! you gain each month. They cost gold to hire and you also pay them salaries each month. Hiring a more expensive advisor will give you more monthly Monarch Points, but you will gain less gold each month.\n\n§YClick the §MYou have a free Advisor Slot alert§! to go to the §MCourt§! tab.§W"
+ TUT_CAM_CHAPTER02_PAGE02_OBJECTIVES:1 "Open the §MCourt tab§! to continue."
+ TUT_CAM_CHAPTER02_PAGE12_TEXT:0 "Decisions allow you to reform your nation in some way. If the requirements are fulfilled you can enact the Decision and immediately gain the effects of the Decision. Some Decisions can be large undertakings, such as forming Germany or Italy.\n\n§YClick the §MNational Decision Available alert§! to go to the §MDecisions tab§Y.§W"
+ 
