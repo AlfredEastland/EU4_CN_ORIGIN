@@ -1,370 +1,0 @@
-﻿l_english:
- TUT_PART_BAS_SHORT:0 "úWOxYez"
- TUT_PART_BAS_TITLE:0 "§YúWOxYez§!\núW,gÍdkO\núW,g©sÕl"
- TUT_PART_BAS_DESC:0 "å‹èRYezSOËNÍu¶c6Rk•4YÿŒ‚‚8nb¦^ÿ¶c6RUSMOÿu¶NŒTúW,gY³N"
- TUT_PART_ADV_SHORT:0 "Øš¶uYez"
- TUT_PART_ADV_TITLE:0 "§YØš¶uYez§!\nØš¶u©sÕl"
- TUT_PART_ADV_DESC:0 "å‹èRYezSOËNÍu8nbLub—åNÊSTÍyTŸRýwÿdkYØOËNÍu0WþVŒT8f"
- TUT_PART_CAM_SHORT:0 "‰ísYr^ýV"
- TUT_PART_CAM_TITLE:0 "§Y‰ísYr^ýV§!\n°eKbby_"
- TUT_PART_CAM_DESC:0 "å‹èRYezSO!jÿNwžR8nbËNÍu8nb:g6R.©s¶RSOfRO‚YUO²Rbÿ‚YUOTv^ýV¶RŒT‚YUO¡rt_g„v†˜WÿdkYÿ©s¶RØO†Nã‰sQŽN‹NöNÿ3zšR¦^ÿÛSqNŒT¢c1t„váOo`"
- TUT_PART_DESC:0 "Ù/fT*NèR„vÏcð"
- TUT_BAS_SELECT_CHAPTER_TITLE:0 "úWOxYez"
- TUT_BAS_SELECT_CHAPTER_DESC:0 "úWOxYezÏcð"
- TUT_NEXT:0 "NN*N"
- TUT_NEXT_TOOLTIP:0 "¹pûQûu˜"
- TUT_MENU:0 "úQ"
- TUT_MENU_TOOLTIP:0 "USûQÔÞVYezÜƒUS"
- TUT_SKIP:0 "óÇ"
- tutorial_negative_modifier:0 "M–NO2–¡_"
- TUT_SKIP_TOOLTIP:0 "¹pûQóÇS_MRàz‚‚ÛeQNNàz‚‚"
- TUT_MINIMISE_TOOLTIP:0 "¹pûQgSSLub—"
- TUT_OBJECTIVES:0 "îvh"
- TUT_SELECT_CHAPTER_TITLE:0 "àz‚‚	éb"
- TUT_SELECT_CHAPTER_DESC:0 "	ébN*Nàz‚‚6qT¹pûQ_ËY"
- TUT_BAS_CHAPTER01_BUTTON:0 "úW,gÍdkO"
- TUT_BAS_CHAPTER01_TITLE:0 "úW,gÍdkO"
- TUT_BAS_CHAPTER01_DESC:0 "©s¶R(Wå‹àz‚‚ýwYfR0R8nb„vúW,gÄ‰RÿSìb‚YUOŒ‚‚k•4YŒT8nb¦^"
- TUT_BAS_CHAPTER01_PAGE01_TITLE:0 "§YËNÍu (1/8)§!"
- TUT_BAS_CHAPTER01_PAGE01_TEXT:0 "©s¶RïSåN–öe¹pûQ§MgSS§!	c®”gSSå‹Lub—ÿ¹pûQ§Mg'YS§!Í‘°e>f:yå‹Lub—"
- TUT_BAS_CHAPTER01_PAGE01_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu§!"
- TUT_BAS_CHAPTER01_PAGE02_TITLE:0 "§Yöeô• (2/8)§!"
- TUT_BAS_CHAPTER01_PAGE02_TEXT:0 "©s¶RïSåN–öe	cN§Mzz<h.•§!bw¹pûQ§Möeô•¶c6RLub—§!‚fkP8nbÿÇöeô•¶c6RLub—bw	cN.•ØvN„v§M+§!ÿ R	ÿ	c®”b§M-§!ÿÏQ	ÿ	c®”  Rë_ŒTÏQ8nb¦^"
- TUT_BAS_CHAPTER01_PAGE02_OBJECTIVES:0 "§Mb`Y§!‚fkP8nbÿIr0R12g1åeçuíuNNek"
- TUT_BAS_CHAPTER01_PAGE03_TITLE:0 "§Yöeô• (3/8)§!"
- TUT_BAS_CHAPTER01_PAGE03_TEXT:0 "‚fkP8nbTÿ©s¶RïSåNçuíuN¾ŒTäNÿYtÅ`µQ. (WŒTs^öegÿ©s¶ROó` Rë_8nb¦^ÿ(Wb‰NöegOó`ÏQ8nb¦^bw‚fkP8nbÆ–-N¾|›RYt²Qz"
- TUT_BAS_CHAPTER01_PAGE03_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_BAS_CHAPTER01_PAGE04_TITLE:0 "§YŒ‚‚k•4Y (4/8)§!"
- TUT_BAS_CHAPTER01_PAGE04_TEXT:0 "©s¶RïSåNS§MIQh§!ûyóOSU^„vN0N0æ]0óSûy¨Rk•4YÿbwO(u.•ØvN„v§M¹eT.•§!ÿ	cOO§MÚnn§!„vTöeûy¨R/Ÿh„v¹eÕlûy¨Rk•4Y.å‚©s¶R¹pûQMOŽNOSU^óSNÒ‰S0WþVN„vN¹pÿk•4YSê¨RRbc0R²*N0W¹e"
- TUT_BAS_CHAPTER01_PAGE04_OBJECTIVES:0 "O(u¹eT.•bwÑn¨R/Ÿhûy¨Rk•4Yÿ¹pûQ§MNN*N§!çuíu"
- TUT_BAS_CHAPTER01_PAGE05_TITLE:0 "§YÉbÜk•4Y (5/8)§!"
- TUT_BAS_CHAPTER01_PAGE05_TEXT:0 "©s¶R—‰Ïu8^9eØSk•4YegôfŒY0WÂ‰ßRte*NNLuÿŒcác0W:S¨RT\n\n§YO(u/ŸhÚnnbw¹pûQOSU^óSN¹eS0WþVÁe¹„v§MÉbÜk•4Y§Y	c®”§W"
- TUT_BAS_CHAPTER01_PAGE05_OBJECTIVES:0 "çuíu§MÉbÜk•4Y§!ÿte*N'k2m=S6e<w•^†N"
- TUT_BAS_CHAPTER01_PAGE06_TITLE:0 "§YÉbÛk•4Y(6/8)§!"
- TUT_BAS_CHAPTER01_PAGE06_TEXT:0 "°s(Wk•4Yò]ÏuÉbÜÿÕ‹Õ‹ÉbÑk•4Y\n\n§Y©s¶RïSåNO(u/ŸhÚnnbw¹pûQOSU^óSN¹eS0WþVÁe¹„v§MÉbÑk•4Y§Y	c®”ÉbÑk•4Y§W"
- TUT_BAS_CHAPTER01_PAGE06_OBJECTIVES:0 "=SïSýw§MÉbÑk•4Y§!çuíu"
- TUT_BAS_CHAPTER01_PAGE07_TITLE:0 "§YûRbwýN (7/8)§!"
- TUT_BAS_CHAPTER01_PAGE07_TEXT:0 "ww©s¶R/f&TfŒv‚YUO¶c6Rk•4Yÿûy¨Rv^>e'Yb)Sk•4YûRbÐgNwýN.ß–­r4Yôv0Rb0RcšRwýN.S_©s¶RÑS°swýNöeÿ­r4YOcTƒR"
- TUT_BAS_CHAPTER01_PAGE07_OBJECTIVES:0 "ß–§M­r4Y§!_SûRb§M?–/ON§!wýNÿæ].•USûQ?–/ONçuíu"
- TUT_BAS_CHAPTER01_PAGE08_TITLE:0 "§Yàz‚‚Óu_g (8/8)§!"
- TUT_BAS_CHAPTER01_PAGE08_TEXT:0 "`Oò]ÏufRO‚YUO¶c6Rk•4YÿNNàz‚‚`OSfR`N‚YUOÍdkO›Q–ŒT0‚–"
- TUT_BAS_CHAPTER01_PAGE08_OBJECTIVES:0 "¹pûQ§MNN*N§!ÛeQNNàz‚‚"
- TUT_BAS_CHAPTER02_BUTTON:0 "è–ÍdkO"
- TUT_BAS_CHAPTER02_TITLE:0 "è–ÍdkO"
- TUT_BAS_CHAPTER02_DESC:0 ",gàz‚‚Í‘¹pËNÍu§MUSMOÍdkO§!„vTöeYeO©s¶R§Mb—e§!ŒT§M;eÎW§!„vúW,gÄ‰R"
- TUT_BAS_CHAPTER02_PAGE01_TITLE:0 "§YUSMO„v¶c6R (1/10)§!"
- TUT_BAS_CHAPTER02_PAGE01_TEXT:0 "§Ms|`§!ÑSu†N´fqNÿ©s¶RÅ_Š˜ûQ%ÖNìNÿ¹pûQbw	cOO/Ÿhæ].•Fh	ŠšNb(W§M&Ofe§!„v›Q–"
- TUT_BAS_CHAPTER02_PAGE01_OBJECTIVES:0 "¹pûQ§M&Ofe§!„v§M‡v¶RF–›Q§!çuíu"
- TUT_BAS_CHAPTER02_PAGE02_TITLE:0 "§Yûy¨R›Q– (2/10)§!"
- TUT_BAS_CHAPTER02_PAGE02_TEXT:0 "°s(W›Q–ò]«ˆ	-NÿóS.•¹pûQûNawýNSè–ûyTå‹w.©s¶RÅ_Š˜ÏuÇ§M<h)n<S·_§!Mbýw0R¾§Ms|`§!.	šR›Q–ÿóS.•¹pûQ<h)n<S·_ÿ6qTb`Y‚fkP„v8nb©‹›Q–ûy¨R0R<h)n<S·_\n\n§Y+RØ_†Nb`Y‚fkP„v8nb"
- TUT_BAS_CHAPTER02_PAGE02_OBJECTIVES:0 "S›Q–ûy¨R0R§M<h)n<S·_§!."
- TUT_BAS_CHAPTER02_PAGE03_TITLE:0 "§YÐ“›Q– (3/10)§!"
- TUT_BAS_CHAPTER02_PAGE03_TEXT:0 "©s¶R—‰O(u9‚êSS›Q–Ð0R§Ms|`§!ÿ¹pûQ§MÞ¥cÐ“å]wQ§!	c®”S›Q–ÅˆeQ§M<h)n<S·_§!/nãS„v9‚êS.S_	gè–Þ¥c„vÐ“9‚»y_/nãS„vöeÿè–USMOOXNN9‚ \n\n§YÏkNX‚Ð“9‚ýwYÅˆŒN*N›Q–§!"
- TUT_BAS_CHAPTER02_PAGE03_OBJECTIVES:0 "¹p	`O„v›Q–T¹pûQ§MÞ¥cÐ“å]wQ§!çuíu"
- TUT_BAS_CHAPTER02_PAGE04_TITLE:0 "§Y	ÖS0‚– (4/10)§!"
- TUT_BAS_CHAPTER02_PAGE04_TEXT:0 "©s¶Rè–ò]Ïu(W<h)n<S·_/nÞ¥cN†N‡v¶Rwm›Qÿ¹pûQbFh	0‚–Ðè–zŠ1rSpQwm§W"
- TUT_BAS_CHAPTER02_PAGE04_OBJECTIVES:0 "	éb§M<h)n<S·_/n§!„v§M‡v¶Rwm›Q§!"
- TUT_BAS_CHAPTER02_PAGE05_TITLE:0 "§Yûy¨R0‚– (5/10)§!"
- TUT_BAS_CHAPTER02_PAGE05_TEXT:0 "óS.•¹pûQ§M1rSpQwm§!wmNwýNûy¨R0‚–ÿS_0‚–»y_/nãSöeÿÞ¥c„vUSMOSOŠvN9‚êS\n\n§Y+RØ_†Nb`Y‚fkP„v8nb§W"
- TUT_BAS_CHAPTER02_PAGE05_OBJECTIVES:0 ">mc0‚–0R¾§M1rSpQwm§!wmNwýNçuíu"
- TUT_BAS_CHAPTER02_PAGE06_TITLE:0 "§YŠš0‚›Q–(6/10)§!"
- TUT_BAS_CHAPTER02_PAGE06_TEXT:0 "	éb0‚–ÿ6qT¹pûQ§MÐ“§!	c®”	éb›Q– "
- TUT_BAS_CHAPTER02_PAGE06_OBJECTIVES:0 "¹p	§MXN9‚›Q–§!çuíu"
- TUT_BAS_CHAPTER02_PAGE07_TITLE:0 "§YxSŒ›Q– (7/10)§!"
- TUT_BAS_CHAPTER02_PAGE07_TEXT:0 "`Oò]Ïu¹p	†N`O„v›Q–ÿóS.•¹pûQÑSuÛSqN„v§Ms|`§!wýNxSŒ›Q–§W"
- TUT_BAS_CHAPTER02_PAGE07_OBJECTIVES:0 "ŒTäN›Q–MR_§Ms|`§!çuíu"
- TUT_BAS_CHAPTER02_PAGE08_TITLE:0 "§Yb—e (8/10)§!"
- TUT_BAS_CHAPTER02_PAGE08_TEXT:0 "©s¶R„v›Q–ck(W§Ms|`§!NÛS›Qb—eÿS_b—eÓu_göeÿ©s¶R—‰ôV;es|`ÿàV:NƒRò]Ïu«ˆÛS›Q`S†˜.ÏkS_b—e-N„v›Q–«ˆ	-Nöeÿb—e—zãS1SOúQ°s\n\n§Y+RØ_†Nb`Y‚fkP„v8nb§!"
- TUT_BAS_CHAPTER02_PAGE08_OBJECTIVES:0 "ã‰d–‚fkPv^§MûQ%ÛS›Q§!çuíu"
- TUT_BAS_CHAPTER02_PAGE09_TITLE:0 "§YôVÎW (9/10)§!"
- TUT_BAS_CHAPTER02_PAGE09_TEXT:0 "=S¡rÛS›Qò]«ˆˆmmpÿÎW^ÍN(WÛS›Q¶c6RN.`O„v›Q–ck(WôV;es|`ÿÝ»yÛS›Q4YÏPØ—‰Nµköeô•\n\n§Y(WYez-NN›N¨RkO±‚9„vöeô•ò]«ˆÏQSÿÔk‚YôV;eÿ(Wck8^8nb-NÙ›NLˆ¨R±‚9„vöeô•ôf•§!"
- TUT_BAS_CHAPTER02_PAGE09_OBJECTIVES:0 "§M:YÞVs|`§!çuíu"
- TUT_BAS_CHAPTER02_PAGE10_TITLE:0 "§Yàz‚‚Óu_g (10/10)§!"
- TUT_BAS_CHAPTER02_PAGE10_TEXT:0 "'Y·ƒhQÜwÿ`Oò]ÏuûQ%†NÛS›QÍ‘°e:YÞV†Ns|`ÿ`Oò]ÏuŒRb†NYez„v,rŒNàzÿNNàzSOËNÍu§Mu¶N§!."
- TUT_BAS_CHAPTER02_PAGE10_OBJECTIVES:0 "¹pûQ§MNN*N§!ÛeQNNàz‚‚"
- TUT_BAS_CHAPTER03_BUTTON:0 "u¶N"
- TUT_BAS_CHAPTER03_TITLE:0 "u¶N"
- TUT_BAS_CHAPTER03_DESC:0 ",r	NàzSÍ‘¹pËNÍuúW,gu¶NÿUSMOÛbßRåNÊSú^Qrú^/"
- TUT_BAS_CHAPTER03_PAGE01_TITLE:0 "§YúW,gu¶N (1/12)§!"
- TUT_BAS_CHAPTER03_PAGE01_TEXT:0 "©s¶R(W,gàzïSåNfRO ‚YUO§MÇ–cO›Q–§!ÿ§MîO/9‚êS§!ŒTîOú^§Mú^Qr§!. Ob	gu¶N(WwýN…QÛLˆ"
- TUT_BAS_CHAPTER03_PAGE01_OBJECTIVES:0 "§M¹p	&Ofe§!çuíu"
- TUT_BAS_CHAPTER03_PAGE02_TITLE:0 "§YwýN (2/12)§!"
- TUT_BAS_CHAPTER03_PAGE02_TEXT:0 "ÏkN*NwýNýNøvTÿwN1uŽN§MúW,gz6e§!ÿ§M8fÞz‰N›R§!ÿbeuMOnbwu¶N„v§M8f'ir§!„vNTÿÏkN*NwýN„vÏuNmb›Q‹N÷N<P_NN=SøvTÿKNTÿ©s¶RO†Nã‰0RôfYsQŽNÙ›N÷N<P„váOo`Y Ob	gu¶Ný(WwýNÛLˆÿ©s¶RïSåN§MÛbßR›Q–§!ÿ§MîO/9‚êS§!ŒT§MÛbßRÇ–cOuQ§!."
- TUT_BAS_CHAPTER03_PAGE02_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_BAS_CHAPTER03_PAGE03_TITLE:0 "§Y›Q–ÛbßR (3/12)§!"
- TUT_BAS_CHAPTER03_PAGE03_TEXT:0 "F–›QïS1u	NÍy›QâVÄubÿ§MekuQ§!ÿ§M‘šuQ§!N§M‘šuQ§!.ÏkN›QâV†v:N1000ºN."
- TUT_BAS_CHAPTER03_PAGE03_OBJECTIVES:0 "¹pûQ§MÛbßR›Q–§!çuíu"
- TUT_BAS_CHAPTER03_PAGE04_TITLE:0 "§YÛbßR›Q– (4/12)§!"
- TUT_BAS_CHAPTER03_PAGE04_TEXT:0 "(W›Q–ÛbßR—zãS©s¶RïSåNw0RN*NRhˆÿRhˆN>f:y†NOb	gïSÇ–cOUSMO.d–§MÑ‘^§!YÿÏkÇ–cON*N›Q–Ø‰±‚91000 §MºN›R§!.ºN›R/fNÍyÍ‘‰„vDnÿO–Owöeô•babab`YÿºN›RN³åN:NOwàeÕl­‹Ãu°e›Q–ÿàeÕlžX:_°s	g›Q–.ºN›RïSåN(WOSU^æ]N¹ew0R"
- TUT_BAS_CHAPTER03_PAGE04_OBJECTIVES:0 "(W&Ofe§MÛbßRûNaN*N›Q–§!çuíu"
- TUT_BAS_CHAPTER03_PAGE05_TITLE:0 "§Y0‚–ú^/ (5/12)§!"
- TUT_BAS_CHAPTER03_PAGE05_TEXT:0 "©s¶RïSåN	ébN*N¿lwmwýNv^¹pûQ§MîO/9‚êS§!	c®”îO/9‚êS.	gÛVÍy9‚êSïS›OîO/ÿÍ‘‹W9‚êSÿŠ‹W9‚êSÿ^9‚ŒTÐ“9‚\n\n§Y¹pûQ§MÔÞV§YÞV0RwýNLub—v^¹pûQ§MîO/9‚êS§Y	c®”.§W"
- TUT_BAS_CHAPTER03_PAGE05_OBJECTIVES:0 "¹pûQ §Mú^/9‚êS§!çuíu0"
- TUT_BAS_CHAPTER03_PAGE06_TITLE:0 "§YîO/9‚êS (6/12)§!"
- TUT_BAS_CHAPTER03_PAGE06_TEXT:0 " Í‘‹W9‚êS/fÅd•ŽNb—e„vb0‚.Š‹W9‚êS;N‰«ˆ(ukOÝO³b8fï¿uÿvQ¢c1týw›R_NøvS_	g(u.^9‚/fôf:NÉ^÷N„vb0‚ÿ”^S_(W…QF–wmO(u.Ð“9‚ïSåN(WwmNÐ“©s¶Rè–§W"
- TUT_BAS_CHAPTER03_PAGE06_OBJECTIVES:0 "(W&Ofe§MîO/ûNa9‚êS§!çuíu"
- TUT_BAS_CHAPTER03_PAGE07_TITLE:0 "§Yú^Qr (7/12)§!"
- TUT_BAS_CHAPTER03_PAGE07_TEXT:0 "îOú^ú^QrïSåN(WT¹eb—ÐcGSwýNÿSìbžX Rz6eÿ:_S‰^XÿžX R8fIrIrÿ/fÐcGSÏuNmŒT›Q‹NžR›R„vÅ_Š˜Kbµk"
- TUT_BAS_CHAPTER03_PAGE07_OBJECTIVES:0 "Sb_§Mú^Qr§!hrçuíu"
- TUT_BAS_CHAPTER03_PAGE08_TITLE:0 "§Yú^/ (8/12)§!"
- TUT_BAS_CHAPTER03_PAGE08_TEXT:0 "ú^QrR:NYÍyŠ|‹WÿIr¶uØšN›N„vú^Qr«ˆðy:N§MyrŠkú^Qr§!ÿÏk*NwýNêSýwåb	gNÍyŠ|‹W„vyrŠkú^Qr.§Mìryrú^Qr§!ŒT8^Ä‰ú^QrøvÔkýwY·ƒ—_¶Nuôf'Y„v6eÊvÿFO/fÏkN*NýV¶RêSýwåb	gN*Nìryrú^Qr"
- TUT_BAS_CHAPTER03_PAGE08_OBJECTIVES:0 "(W&Ofe§Mú^/ûNaú^Qr§!åNçuíu"
- TUT_BAS_CHAPTER03_PAGE09_TITLE:0 "§Y–R (9/12)§!"
- TUT_BAS_CHAPTER03_PAGE09_TEXT:0 "Ïk*NwýN„vu¶NR:N3N*N–RUSMO–RŒTú^/–R0(WUSMO–R-Nÿ`OïSåN §Mú^/0‚9‚§!bw§MÛbßRF–›Q§!0(Wú^/–R-Nÿ`OïSåN§MîOú^,g0Wú^Qr§!ÿ §M8hÃ_S§!ÿ§Mlbc—RYe§!bw§Mlbc‡eS§!0ÏkN*N–RTöeýêSýwZPNöN‹N0"
- TUT_BAS_CHAPTER03_PAGE09_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_BAS_CHAPTER03_PAGE10_TITLE:0 "§Yu¶NLub— (10/12)§!"
- TUT_BAS_CHAPTER03_PAGE10_TEXT:0 "–Ow^ýV„vib/_ÿ¡rt„v¾–¦^NåeñOžX.§Mu¶NLub—§!ýwY.^©R©s¶Rú^/ôfYú^Qrÿ­‹ÃuôfY›Q–.(WRhˆ-N	ébú^QrO(W0WþV-Nôf°eùR©s¶Rg	g)R„váOo`\n\n§YågwOSU^æ]NÒ‰§!"
- TUT_BAS_CHAPTER03_PAGE10_OBJECTIVES:0 "¹pûQ§Mu¶NLub—	c®”§!çuíu"
- TUT_BAS_CHAPTER03_PAGE11_TITLE:0 "§Yu¶NLub— (11/12)§!"
- TUT_BAS_CHAPTER03_PAGE11_TEXT:0 "	ébRhˆNN*NUSMOÿ6qT¹pûQ0WþV_ËYu¶N.©s¶RïSåNôv¥c(W0WþVN¹pûQbw¹pûQ'§M+§!' þVh.Y!k¹pûQwýNO’cR9‚êSŒTUSMO. \n\n§Y(W5*NNTwýNu¶Nÿ+RØ_†Nb`Y‚fkP„v8nb§!"
- TUT_BAS_CHAPTER03_PAGE11_OBJECTIVES:0 "ÎNæ]¹eRhˆ	ébûNa§MF–NUSMO§!ÿ§MÛbßR 5 *N›Q–§!çuíu"
- TUT_BAS_CHAPTER03_PAGE12_TITLE:0 "§Yàz‚‚Óu_g (12/12)§!"
- TUT_BAS_CHAPTER03_PAGE12_TEXT:0 ",r	Nàzÿu¶NÓu_gÿNNàzSOËNÍu§Mb‰N§!."
- TUT_BAS_CHAPTER03_PAGE12_OBJECTIVES:0 "¹pûQ§MNN*N§!ÛeQNNàz‚‚"
- TUT_BAS_CHAPTER04_BUTTON:0 "³Nb"
- TUT_BAS_CHAPTER04_TITLE:0 "³Nb"
- TUT_BAS_CHAPTER04_DESC:0 ",gàzSOÍ‘¹pËNÍu§Mb‰N§!ŒT§MY³N§!"
- TUT_BAS_CHAPTER04_PAGE01_TITLE:0 "§Y²Rb (1/5)§!"
- TUT_BAS_CHAPTER04_PAGE01_TEXT:0 "©s¶R^gåb	gùR²Rbîvh„v§M_bŸSàV§!.å‚àe_bŸSàVbckS_„vt1uÿ©s¶RSO×S0Rb—q_ÍT\n\n§Y¹p	§M&O¯eyr§YwýNÿ6qT¹p§MY³N§Yv^	éb§M²Rb§Y. åN§M`S†˜&O¯eyr§Y:Nb‰Nîvh	éb_g_bŸSàVÿ6qT¹pûQ§M²Rb§Y.§W"
- TUT_BAS_CHAPTER04_PAGE01_OBJECTIVES:0 "ùR&O¯eyr§M²Rb§!çuíu"
- TUT_BAS_CHAPTER04_PAGE02_TITLE:0 "§Yb‰N (2/5)§!"
- TUT_BAS_CHAPTER04_PAGE02_TEXT:0 "S›Q–ûy¨R0R&O¯eyrŒTˆR›Q_b.Å_Š˜ôV;ev^`S†˜å‹wýNMbýwçuíu.å‚©s¶Ró`>mcOb	g„v›Q–ÿÅ_Š˜S›Q–ÎNwmNÐÇ»Sÿb›Q–\n\n§Y+RØ_†Nb`Y‚fkP„v8nb§!"
- TUT_BAS_CHAPTER04_PAGE02_OBJECTIVES:0 "§MûQ%&O¯eyr§!çuíu"
- TUT_BAS_CHAPTER04_PAGE03_TITLE:0 "§YŒTs^ag¦u (3/5)§!"
- TUT_BAS_CHAPTER04_PAGE03_TEXT:0 "©s¶R—‰·ƒ—_NšRÏ‘§Mb‰N—_R§!Mbýw(WŒTs^³N‰m-N§M‰BlÛ!§!.§Mb‰Nîvh§!ïSOùRîvhwýNOb—„vb‰N—_RM–NO50%.åb	gwýN²RðyCgOÏQS50%Y³N¹ppe±‚9\n\n§Y¹pûQ&O¯eyrÿ6qT¹pûQ§MY³N§Yÿ	éb§MBlŒT§Y.\n+RØ_†Nb`Y‚fkP„v8nb.§W"
- TUT_BAS_CHAPTER04_PAGE03_OBJECTIVES:0 "N&O¯eyrr¢‹ûNaNy˜§MŒTs^ag¦u§!çuíu"
- TUT_BAS_CHAPTER04_PAGE04_TITLE:0 "§YkPb (4/5)§!"
- TUT_BAS_CHAPTER04_PAGE04_TEXT:0 "b‰NÓu_gTÿ³NbÌS¹eOrrkPbOS®‹ÿd–^—©s¶RSùR¹eTv^ÿàV:NÙ7hZPùR¹eýV¶RSNYXR(W.©s¶RïSåNŠb/Ÿh>e(W§MkPbÐc’‘§!NågwrrOS®‹ùRaŒŒTOS®‹0Rgöeô•. ;eûQrrkPbOS®‹„vùRaŒO'Y'Yq_ÍT§M‰R3z¦^§!ÿàVdkNú^®‹ÙÍyLˆ:N."
- TUT_BAS_CHAPTER04_PAGE04_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_BAS_CHAPTER04_PAGE05_TITLE:0 "§Yàz‚‚Óu_g (5/5)§!"
- TUT_BAS_CHAPTER04_PAGE05_TEXT:0 "'kF–Î˜‘N4„vúW,gYezÓu_gÿ©s¶RïSåN–öeÍ‘°eÛeQYez.ÛeQ§MØš¶u8nb:g6R§!èRbwÛeQ§M‰ísYr^ýV°eKbby_§!†Nã‰ôfY8nb…Q¹R"
- TUT_BAS_CHAPTER04_PAGE05_OBJECTIVES:0 "¹pûQ§MúQ§!ÔÞVYezÜƒUS"
- TUT_ADV_CHAPTER01_BUTTON:0 "Lub—"
- TUT_ADV_CHAPTER01_TITLE:0 "Lub—"
- TUT_ADV_CHAPTER01_DESC:0 ",gàzSOËNÍuOb	gsQŽNLub—„váOo`åNÊS:NUO‚YdkÍ‘‰"
- TUT_ADV_CHAPTER01_PAGE01_TITLE:0 "§YLub— (1/16)§!"
- TUT_ADV_CHAPTER01_PAGE01_TEXT:0 ",gàzSOËNÍuLub—„vŸRýw"
- TUT_ADV_CHAPTER01_PAGE01_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE02_TITLE:0 "§YÑ‘^ (2/16)§!"
- TUT_ADV_CHAPTER01_PAGE02_TEXT:0 "Ñ‘^/f8nb-N;N‰Dn„vNÍyÿ(ueg/eØNÎNÛbßRUSMO0Rú^/ú^Qr„vTÍy9(u"
- TUT_ADV_CHAPTER01_PAGE02_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE03_TITLE:0 "§YºN›R (3/16)§!"
- TUT_ADV_CHAPTER01_PAGE03_TEXT:0 "ºN›R/fNÍyÍ‘‰„vDnÿ³QšR†NýV¶RNqQýwYÛbßRYSëXuQ.ºN›RNP–:N10t^ºN›R;`ŒT.ÏkÛbßRN*N›Q–—‰±‚91000ºN›R.ÿf3O„v›Q–eˆEQ›Q›R_NOˆmwºN›R"
- TUT_ADV_CHAPTER01_PAGE03_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE04_TITLE:0 "§Y3zšR (4/16)§!"
- TUT_ADV_CHAPTER01_PAGE04_TEXT:0 "3zšR¦^hˆ°s†N`O„výV¶R„v3zšRz¦^. 3zšR¦^Oq_ÍT0R §MÛSqN¦^§!, §Mz6e§!, §MhQOS8fÞz‰N›R§! IrIr.\n\n3zšR¦^ïSåN(W §M3zšRŒTib/_§! Lub—…Qˆmw §M Lˆ?e¹ppe §! žX R. 3zšR¦^ïSýwàV §M–:g‹NöN§!, §M•dÁkObOS®‹§!, 9eØS §MýVYe§! bw §MT;N§! bŠkIrŸSàVM–NO. "
- TUT_ADV_CHAPTER01_PAGE04_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE05_TITLE:0 "§YZg (5/16)§!"
- TUT_ADV_CHAPTER01_PAGE05_TEXT:0 "ZgïSåN(Wb—eÿb‰N-N·ƒÜwÿÇ–:g‹NöN·ƒ—_.ZgïSåNO›Q–§MëXlNGS§!ÿÐcGS§Mckßu¦^§!ÿ–öeô•§MÐcGSËSŒYsQû|§!."
- TUT_ADV_CHAPTER01_PAGE05_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE06_TITLE:0 "§Yckßu'`ŒTqQŒTýV/Oßu(6/16)§!"
- TUT_ADV_CHAPTER01_PAGE06_TEXT:0 "êS	gqQŒT?eSOýV¶RO×S0RqQŒTýV/Oßuq_ÍT,ƒR;N‰M–NO§MhQýVÛSqNÎ˜i–§!. TN*Nßu»lwY!kÞûNOM–NOqQŒTýV/Oßu,wqQŒTýV/OßuOÏkt^ba„vžX R. qQŒTýV/OßuÇNOOžX R §MÐcGS3zšR¦^„vb,g§!.\n\nêS	gT;N6RýV¶RO×Sckßu'`q_ÍT,ƒRhˆ:y†N`O„výVT„vßu»l	gYHN&rTckßuÕlt. ckßu'`;N‰q_ÍT §MÛSqN¦^§!, §M—RYe¹RÍ_¦^§! ŒT §MY³NðX‰Š§!."
- TUT_ADV_CHAPTER01_PAGE06_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE07_TITLE:0 "§Y›RÏ‘•bS (7/16)§!"
- TUT_ADV_CHAPTER01_PAGE07_TEXT:0 "§M›RÏ‘•bS§! /fN*NaˆÏ‘`O„výV¶R	gYHNÅdŽNp_>fýV›R„v<P. Ç	éb §M¿RLe§! v^ùRÖNìNÇ‘ÖSµOeu'`„vLˆ¨R, `O„v›RÏ‘•bS<P1SïSåNžX R. ›RÏ‘•bS<POÙuˆN`O„výV¶Rckb—q_ÍT. Áy c, b—_b‰N, yÐŒT/ecÛSqNIr‹OPRý/fÐcGS›RÏ‘•bS„v¹eÕl."
- TUT_ADV_CHAPTER01_PAGE07_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE08_TITLE:0 "§YyrO (8/16)§!"
- TUT_ADV_CHAPTER01_PAGE08_TEXT:0 "yrOïSåN«ˆ(ueggbLˆTÍyLˆ¨R.FUºNïSåN(W8f-N·ƒ—_)RÊvŒT¶c6R8f¹eT.–klwïSåNú^Ëz°e–kl0W.Y³N˜RïSåNÛLˆY³N;m¨R./OYeëXïSåNlØSwýN„v—RYe.ŒRbLˆ¨RTyrOOÔÞV."
- TUT_ADV_CHAPTER01_PAGE08_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE09_TITLE:0 "§YT;N¹ppe (9/16)§!"
- TUT_ADV_CHAPTER01_PAGE09_TEXT:0 "	NÍyDnßuðy§MT;N¹ppe§!.Sìb§MLˆ?e¹ppe§!ÿ§MY³N¹ppe§!ŒT§M›Q‹N¹ppe§!.©s¶RÏkgO·ƒ—_T;N¹ppeÿpeÏ‘1ußu»lwŒT˜î•býw³QšR"
- TUT_ADV_CHAPTER01_PAGE09_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE10_TITLE:0 "§YÐc’‘ (10/16)§!"
- TUT_ADV_CHAPTER01_PAGE10_TEXT:0 "Ðc’‘áOo`Ðc:y©s¶Ró`ZP„v‹NÅ`„váOo`ÿæ].•¹pûQÐc’‘áOo`SORbc0RøvsQLub—ÿóS.•¹pûQ–Ï….¢ur‚Ðc’‘áOo`:N't%`áOo`ÿÄžr‚:NÍ‘‰áOo`ÿÿur‚:N^—Í‘‰áOo`.vQƒRýV¶R„vY³NÐc®‹_N(WÙÌ‘>f:y"
- TUT_ADV_CHAPTER01_PAGE10_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE11_TITLE:0 "§Yu¶NLub— (11/16)§!"
- TUT_ADV_CHAPTER01_PAGE11_TEXT:0 "u¶NLub—.^©R©s¶Rôf¿Owc0WÛLˆu¶Nÿ©s¶RïSåN(W§MúW,gYefR-N§!„v§Mu¶Nàz‚‚§!-N†Nã‰0RôfYáOo`"
- TUT_ADV_CHAPTER01_PAGE11_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE12_TITLE:0 "§Y^y#WWlš^ýV (12/16)§!"
- TUT_ADV_CHAPTER01_PAGE12_TEXT:0 "^ýVÆ‰þVAQ¸‹©s¶Rw0R^y#WWlš^ýV^ýV„vÎN^SýVÿ	^¯OýVv^NïSåNOmÈ‰Ob	gbXTýV"
- TUT_ADV_CHAPTER01_PAGE12_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE13_TITLE:0 "§YYe÷^ (13/16)§!"
- TUT_ADV_CHAPTER01_PAGE13_TEXT:0 "‚Yœg`O„výVYe/f)Y;NYe, `O1SO×SWlš)Y;NYe÷^:g6Rq_ÍT. Ye÷^Lub—O>f:y`Oåb	g„vYe÷^q_ÍT›R,åNÊS`OïSåNÐ(uƒRìN„v¹e_. ÏkS_Ye—R™„;Ni`ìS, SO(W°sûN„v¢g:g-N	ébNMO°e„vYe—R. `OïSåN±‚9Ye÷^q_ÍT›RegÐcØšb:NNNûNYe÷^Ñv³b„v‚i‡s."
- TUT_ADV_CHAPTER01_PAGE13_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE14_TITLE:0 "§Y‚ið—zãS (14/16)§!"
- TUT_ADV_CHAPTER01_PAGE14_TEXT:0 "'Y²u—zãSïSåNÐc›Oˆ_Yë_wcáOo`ÿ‚Yck(WÛLˆ„vÛz0F–›Qwm›Q¶r`0ú^QrÅ`µQ0yrOIr…Q¹R0"
- TUT_ADV_CHAPTER01_PAGE14_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE15_TITLE:0 "§Y—_R(15/16)§!"
- TUT_ADV_CHAPTER01_PAGE15_TEXT:0 "—_RãNhˆ†NýV¶Rhˆ°s„vúQr‚z¦^ÿNqQïSRb	NÍyŠ|‹W.Lˆ?e0Y³NŒT›Q‹N.©s¶RïSåN(W§M;`&§!-N„v§M—_RÔkƒ§!ågw—_R¹p"
- TUT_ADV_CHAPTER01_PAGE15_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER01_PAGE16_TITLE:0 "§Yàz‚‚Óu_g (16/16)§!"
- TUT_ADV_CHAPTER01_PAGE16_TEXT:0 "0WþVSO9eØSNLu0WþVN>f:y„váOo`.NNàz‚‚SOwQSOËNÍu0WþV"
- TUT_ADV_CHAPTER01_PAGE16_OBJECTIVES:0 "¹pûQ§MNN*N§!ÛeQNNàz‚‚§W"
- TUT_ADV_CHAPTER02_BUTTON:0 "0WþV"
- TUT_ADV_CHAPTER02_TITLE:0 "0WþV"
- TUT_ADV_CHAPTER02_DESC:0 ",gàzSOËNÍuTÍy0WþVåNÊSO(uƒRìN„v¿O)RKNY"
- TUT_ADV_CHAPTER02_PAGE01_TITLE:0 "§Y0Wb_0WþV (1/8)§!"
- TUT_ADV_CHAPTER02_PAGE01_TEXT:0 "0WþV0Wb_!j_ýwY.^©R©s¶RôfŒY0W†Nã‰NLuáOo`.Øž³‹0WþV:N§M0Wb_0WþV§!."
- TUT_ADV_CHAPTER02_PAGE01_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER02_PAGE02_TITLE:0 "§Y?e»l0WþV (2/8)§!"
- TUT_ADV_CHAPTER02_PAGE02_TEXT:0 "?e»l0WþV-NÿOb	gwýNO(uNTœ˜r‚húQÿÏkNÍyœ˜r‚ãNhˆN*NýV¶R. å‹0WþVýwY©‹©s¶Rnpf0WwúQ¹LuŒTÏk*NýV¶RwýN„vMOn"
- TUT_ADV_CHAPTER02_PAGE02_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER02_PAGE03_TITLE:0 "§Y8f0WþV (3/8)§!"
- TUT_ADV_CHAPTER02_PAGE03_TEXT:0 "8f0WþVýwY©‹©s¶RåwST*NwýNOb^S„v8f:S.dkYýwY©‹©s¶RåwS8f¹eTåN¿O©s¶RŒte.KNTÿ©s¶RO†Nã‰0RôfY§M8f_üR§!„váOo`"
- TUT_ADV_CHAPTER02_PAGE03_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER02_PAGE04_TITLE:0 "§Y^ýV0WþV (4/8)§!"
- TUT_ADV_CHAPTER02_PAGE04_TEXT:0 "^ýV0WþVýwY>f:yÎN^SŽN§M^y#WWlš^ýV§!„vwýN. ñmÿur‚:N^ýVwýNÿEmÿur‚:N	^¯OýVÿ®Nÿur‚:N^ýV.©s¶RïSåNÑS°s©s¶R„vN›NwýNÿ^÷–‰šNÿôuW³uÿ_Yu)R	ÿÎN^SŽN^ýVÿFO/fZ<S¯etSN/f"
- TUT_ADV_CHAPTER02_PAGE04_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER02_PAGE05_TITLE:0 "§Y—RYe0WþV (5/8)§!"
- TUT_ADV_CHAPTER02_PAGE05_TEXT:0 "—RYe0WþV>f:y†NNLu—RYeR^.©s¶RïSåNnZi0Ww0R²›NwýNNáOðN§MýVYe§!ÿêT?QïSåNb0RgËSbLeºN"
- TUT_ADV_CHAPTER02_PAGE05_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER02_PAGE06_TITLE:0 "§YY³N0WþV (6/8)§!"
- TUT_ADV_CHAPTER02_PAGE06_TEXT:0 "Y³N0WþVýwYJTÉ‹©s¶R8hÃ_wýN„vMOnÿŒ/fËS›QÿŒ/fLeºN.ÿur‚ag¹u>f:y©s¶R*g`S†˜„v§M8hÃ_wýN§!.¹pûQÎN^SŽNvQƒRýV¶R„vwýNýwYôf°eY³N0WþVNå‹ýV„váOo`"
- TUT_ADV_CHAPTER02_PAGE06_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER02_PAGE07_TITLE:0 "§YôfY0WþV (7/8)§!"
- TUT_ADV_CHAPTER02_PAGE07_TEXT:0 "8nb-NØ	gvQÖN0WþV!j_ÿïSåN.^©R`O†Nã‰8nb-NÑSu†NÀNHN0Õ‹Ow¹pûQN*NvQÖN0WþV!j_	c®”wNw'Tÿ"
- TUT_ADV_CHAPTER02_PAGE07_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER02_PAGE08_TITLE:0 "§Yàz‚‚Óu_g (8/8)§!"
- TUT_ADV_CHAPTER02_PAGE08_TEXT:0 ",gàzÓu_gÿNNàzSôf RÆuô0WËNÍu8f"
- TUT_ADV_CHAPTER02_PAGE08_OBJECTIVES:0 "¹pûQ§MNN*N§!ÛeQNNàz‚‚"
- TUT_ADV_CHAPTER03_BUTTON:0 "8f"
- TUT_ADV_CHAPTER03_TITLE:0 "8f"
- TUT_ADV_CHAPTER03_DESC:0 ",gàzSOËNÍu8f„vúW,gÄ‰R"
- TUT_ADV_CHAPTER03_PAGE01_TITLE:0 "§Y8f (1/11)§!"
- TUT_ADV_CHAPTER03_PAGE01_TEXT:0 "8f/f'kF–Î˜‘N48nb„vÍ‘‰ÄubèR.te*NNLu«ˆRbNT„v§M8f‚‚¹p§!ÿÏkN*N8f‚‚¹pSìbNTpeÏ‘„vwýN.wýNu¶NNT„v§M8f'ir§!ÿvQ§M8f˜§!O«ˆÐ0RTê„v8f‚‚¹p.8f‚‚¹p(W0WþVNïSÆ‰ÿ(unmhbwÎW^hˆ:yÿ1uÝ„r‚ag¹uøv’NÞ¥c"
- TUT_ADV_CHAPTER03_PAGE01_OBJECTIVES:0 "¹pûQ§MZ<S¯e§!çuíu"
- TUT_ADV_CHAPTER03_PAGE02_TITLE:0 "§YwýN8fÞz‰N›R (2/11)§!"
- TUT_ADV_CHAPTER03_PAGE02_TEXT:0 "8fÞz‰N›R„vN'YèRegêwýNÿv^NïSåN1u§M8fú^Qr§!ÐcGS.N›NwýNbw/f§MÍ‘‰„v8f-NÃ_§!ÿbwåb	g§M³lãS§!. Ù›NýOùR8fÞz‰N›RÛLˆ˜Y Rb.©s¶R„v;N‰wýNZ<S¯e1S/fNYåb	g³lãS„vÍ‘‰8f-NÃ_"
- TUT_ADV_CHAPTER03_PAGE02_OBJECTIVES:0 "¹pûQ§MZ<S¯e§!	c®”çuíu"
- TUT_ADV_CHAPTER03_PAGE03_TITLE:0 "§Y8f‚‚¹p (3/11)§!"
- TUT_ADV_CHAPTER03_PAGE03_TEXT:0 "§M8f˜§!egê(W8f‚‚¹pÛLˆ8f„v§MwýN§!.©s¶RïSåNÎN-N§M·ƒ—_6eeQ§!bw§M_üR8f§!0RNN8f‚‚¹p.§M8fÞz‰N›R§!ASRÍ‘‰ÿ³QšR†N©s¶RïSåN(WN*N8f‚‚¹p-N¶c6RYS8f.¶c6R„v8fŠYÿ·ƒ—_„v6eeQ_NŠYÿÐ_NNÙz„v8f˜_NŠØš"
- TUT_ADV_CHAPTER03_PAGE03_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER03_PAGE04_TITLE:0 "§Y8f·ƒ)R (4/11)§!"
- TUT_ADV_CHAPTER03_PAGE04_TEXT:0 "§MFUºN§!(W8f‚‚¹pýwYÛLˆ3Ny˜Lˆ¨R.§M8f·ƒ)R§!—‰©s¶Råb	g^SŽNNY8f‚‚¹p„vwýNÿFUºNïSåNÎN8f-N·ƒ—_6eeQ.ŒTÞz‰NùRKb„v§M8fÞz‰N›R§!ùRÔkÏ‘³QšR†N(W§M8f6eeQ§!-NýwY·ƒ—_YSÑ‘^\n\n§Y+RØ_†Nb`Y‚fkP„v8nb§!"
- TUT_ADV_CHAPTER03_PAGE04_OBJECTIVES:0 "©‹FUºN(W§MZ<S¯e8f‚‚¹p§!-N§M·ƒ—_)RÊv§!"
- TUT_ADV_CHAPTER03_PAGE05_TITLE:0 "§Ylûy8fÞz‰N›R (5/11)§!"
- TUT_ADV_CHAPTER03_PAGE05_TEXT:0 "§MFUºN§!ýwYgbLˆ„v,rŒNy˜Lˆ¨R:N§Mlûy8fÞz‰N›R§!ÿå‹Lˆ¨RýwYS§M8f˜§!ÎNN*N§M8f‚‚¹p§!lûy0RæSN*N.ŒTÞz‰NùRKb„v§M8fÞz‰N›R§!ùRÔkÏ‘³QšR†NýwYlûyYS8f˜\n§Y	éb§MšN†SqS'Y§YwýNÿ6qT¹pûQ	c®”MR_8f‚‚¹pÿ+RØ_†Nb`Y‚fkP„v8nb§!"
- TUT_ADV_CHAPTER03_PAGE05_OBJECTIVES:0 "MR_§MšN†SqS'Y/n8f‚‚¹p§!ÿ·ƒ—_FUN§Mlûy8fÞz‰N›R§!çuíu"
- TUT_ADV_CHAPTER03_PAGE06_TITLE:0 "§Y8f0WþV (6/11)§!"
- TUT_ADV_CHAPTER03_PAGE06_TEXT:0 "8f0WþVT`OUS:y†NNT„v §M8f‚‚¹p§! „vMOn, åNÊSR^SŽNÙ›N‚‚¹pwýNŒT8f„vlûyÅ`µQ. `OïSåNw0R, `Ock(WÎNšN†SqS'Y/nTZ<S¯e §Mlûy8f˜§! . 8fêSýw	cgq­r4YcT„v¹eTAm¨R0RN8n. 	g›N8f‚‚¹p«ˆb:N §MÈuïz‚‚¹p§!,ƒRìNv^NwQ	gN8n‚‚¹p,àeÕlQTYlûy8f˜. §MZ<S¯e§! ŒT §M^Xôu)RšN§! 1S/fÈuïz‚‚¹p„v3N*N‹OPR. §M8fÞz‰N›R§! ³QšR†N`Oåb	gYS §M8f˜§! ïSåNÎNN*N8f‚‚¹plûy0RæSN*N."
- TUT_ADV_CHAPTER03_PAGE06_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_ADV_CHAPTER03_PAGE07_TITLE:0 "§Y8fÞz‰N›R (7/11)§!"
- TUT_ADV_CHAPTER03_PAGE07_TEXT:0 "8fÞz‰N›Rôv¥cq_ÍT©s¶R¶c6R„v8f‚‚¹p„v8fÄ‰!jÿÖS³QŽN§MwýN§!ŒTÝO³b8f„v§MŠ‹W9‚êS§!. dkYÿ§MY³N˜î•§!ýwYq_ÍT§MhQOS8fÞz‰N›R§!"
- TUT_ADV_CHAPTER03_PAGE07_OBJECTIVES:0 "	ébZ<S¯e/nãS„v§M9‚êS§!"
- TUT_ADV_CHAPTER03_PAGE08_TITLE:0 "§YÝO³b8f (8/11)§!"
- TUT_ADV_CHAPTER03_PAGE08_TEXT:0 "Š‹W9‚êSïS«ˆ(uegÝO³b8f.ƒRìNO(W8f‚‚¹pá];ÿÐcGSå‹‚‚¹p„v8fÞz‰N›R.ÙùRŽNÐcGS8f6eeQósQÍ‘‰"
- TUT_ADV_CHAPTER03_PAGE08_OBJECTIVES:0 ">mc9‚êS0RNY8f‚‚¹p§MÝO³b8f§!"
- TUT_ADV_CHAPTER03_PAGE09_TITLE:0 "§YŠ‹W9‚êS (9/11)§!"
- TUT_ADV_CHAPTER03_PAGE09_TEXT:0 "îO/§MŠ‹W9‚êS§!§MÝO³b8f§!/fÐcGS8fÞz‰N›RgrUS„v¹eÕl.ÝO³b8f‚‚¹p„v	NEh^9‚ýwYÐcGS3¹på‹‚‚¹p„v8fÞz‰N›R"
- TUT_ADV_CHAPTER03_PAGE09_OBJECTIVES:0 "§Y¹pûQæ]N¹e„v§Mu¶NLub—§Yçuíu"
- TUT_ADV_CHAPTER03_PAGE10_TITLE:0 "§YîO/9‚êS (10/11)§!"
- TUT_ADV_CHAPTER03_PAGE10_TEXT:0 "ÏkNX‚(W8f‚‚¹pÝO³b8f„v	NEh^9‚ÐcGS§M3¹p8fÞz‰N›R§!. Ir¶uŠØš„vŠ‹W9‚êSåb	g„v8fÞz‰N›R_NŠØš \n\n§Y	ébæ]¹eRhˆ-N„v§M	NEh^9‚§Yv^¹pûQ0WþVN„vÿur‚wýN_ËYîO/.+RØ_†Nb`Y‚fkP„v8nb§W"
- TUT_ADV_CHAPTER03_PAGE10_OBJECTIVES:0 "îO/§M”NX‚Š‹W9‚êS ÿ	NEh^9‚	ÿ§!çuíu"
- TUT_ADV_CHAPTER03_PAGE11_TITLE:0 "§Yàz‚‚Óu_g (11/11)§!"
- TUT_ADV_CHAPTER03_PAGE11_TEXT:0 "8fYefRàz‚‚Óu_gÿ^g©s¶Rò]ÏuùR'kF–Î˜‘N4-N„v8f	g†Nôf Rñm;R„v†Nã‰"
- TUT_ADV_CHAPTER03_PAGE11_OBJECTIVES:0 "¹pûQ§MúQ§!ÔÞVYezÜƒUS"
- TUT_CAM_CHAPTER01_TITLE:0 "YýVÐ¨R"
- TUT_CAM_CHAPTER01_DESC:1 ",gàzSOËNÍuu¶NÿûN¡Rÿb‰NŒTTv^"
- TUT_CAM_CHAPTER01_BUTTON:0 "YýVÐ¨R"
- TUT_CAM_CHAPTER01_PAGE01_TITLE:0 "§YÛbßRè– (1/8)§!"
- TUT_CAM_CHAPTER01_PAGE01_TEXT:0 "›Q–ÛbßR/fÛLˆb‰N„vN*NÍ‘‰¯s‚‚.ÛbßR(WwýN…QÛLˆÿïSåN(W3N)Y…Q_ËY.©s¶RïSåNÇæ]N¹e„v§Mu¶NLub—§!bw(WwýN…Q¹pûQ§MÛbßR›Q–§!	c®”ÿÏkN!kÛbßRN*N›Q–—‰±‚91000ºN›R"
- TUT_CAM_CHAPTER01_PAGE01_OBJECTIVES:0 "§Y¹pûQæ]N¹e„v§Mu¶NLub—§Yçuíu"
- TUT_CAM_CHAPTER01_PAGE02_TITLE:0 "§YÛbßR (2/8)§!"
- TUT_CAM_CHAPTER01_PAGE02_TEXT:0 "(Wæ]¹eRhˆN	ébN*N›Q–ÿ6qT¹pûQÿur‚wýNÛLˆÛbßR.ÏkÛbßRN*N›Q–—‰±‚91000ºN›RŒTNšR„vÑ‘^\n\n§Y+RØ_†Nb`Y‚fkP„v8nb§!"
- TUT_CAM_CHAPTER01_PAGE02_OBJECTIVES:0 "§MÛbßR5*NF–›QUSMO§!çuíu"
- TUT_CAM_CHAPTER01_PAGE03_TITLE:0 "§YûN¡R (3/8)§!"
- TUT_CAM_CHAPTER01_PAGE03_TEXT:0 "ûN¡R:NýV¶R6RšR†Nîvh.ÏkN*NûN¡R„v¾–¦^ŒTVY±RN=SøvT.ÏkN!k©s¶RêSýw	ébN*NûN¡RÿÖSˆmûN¡RT—‰Ir…_5t^Mbýw	ébN*N°eûN¡R\n\n§Y¹pûQ§Màe	šRûN¡RÐc’‘§!MR_§MûN¡RŒT³Q®‹§!b—g.§W"
- TUT_CAM_CHAPTER01_PAGE03_OBJECTIVES:0 "	ébûN¡R '§MŒRbYýVÐ¨R§!' çuíu"
- TUT_CAM_CHAPTER01_PAGE04_TITLE:0 "§YYýVÐ¨R! (4/8)§!"
- TUT_CAM_CHAPTER01_PAGE04_TEXT:0 "©s¶R^gåb	gùR²Rbîvh„v§M_bŸSàV§!.å‚àe_bŸSàVbckS_„vt1uÿ©s¶RSO×S0Rb—q_ÍT\n\n§Y¹p	§M&O¯eyr§YwýNÿ6qT¹p§MY³N§Yv^	éb§M²Rb§Y. åN§M`S†˜<hÉb³u¾§Y:Nb‰Nîvh	éb_g_bŸSàVÿ6qT¹pûQ§M²Rb§Y.§W"
- TUT_CAM_CHAPTER01_PAGE04_OBJECTIVES:0 "§MT<hÉb³u¾²Rb§!çuíu"
- TUT_CAM_CHAPTER01_PAGE05_TITLE:0 "§Yb‰N‚iÈ‰ (5/8)§!"
- TUT_CAM_CHAPTER01_PAGE05_TEXT:0 "b‰N‚iÈ‰—zãSýwJTÉ‹©s¶Rb‰N„vÛLˆÇzÿ³Nb„vÌS¹eåNÊSÌS¹e„v–™†˜.by_ŒT;eÎW>f:y(WN¹e"
- TUT_CAM_CHAPTER01_PAGE05_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_CAM_CHAPTER01_PAGE06_TITLE:0 "§YûQ%<hÉb³u¾ (6/8)§!"
- TUT_CAM_CHAPTER01_PAGE06_TEXT:0 "b‰N„vÓuœgO«ˆ°‹U_ÿv^O(u§Mb‰N—_R§!°‹U_. `S†˜Le¹ewýNÿ(WF–bŒTwmb-N·ƒÜwýýw·ƒ—_b‰N—_R.øvÍSÿ†˜W«ˆLe¹e`S†˜åNÊS(Wb—e-N«ˆûQ%ýO1Y»Sb‰N—_R.b‰N—_R³QšR†N§MŒTs^ú^®‹§!-NýwY‰BlÀNHN\n\n§Y+RØ_†Nb`Y‚fkP„v8nb§!"
- TUT_CAM_CHAPTER01_PAGE06_OBJECTIVES:0 "·ƒ—_100%§Mb‰N„vR§!çuíu"
- TUT_CAM_CHAPTER01_PAGE07_TITLE:0 "§YTv^ (7/8)§!"
- TUT_CAM_CHAPTER01_PAGE07_TEXT:0 "ûQ%<hÉb³u¾ÿTv^ÖNìNŒRb‰ísYrQ_g0.\n\n§YóSûQ	c®”óS¶O„v§Mb‰N‚iÈ‰§YþvLr0	ébLeºNiRYO„v/UNwýNÿ6qT¹pûQ§MÑS‰Bl§!0KNT°‹—_ÖSˆm8nb‚fkP0§W"
- TUT_CAM_CHAPTER01_PAGE07_OBJECTIVES:1 "‰Bl§MŒRhQTv^§!åNçuíu"
- TUT_CAM_CHAPTER01_PAGE08_TITLE:0 "§Yàz‚‚Óu_g (8/8)§!"
- TUT_CAM_CHAPTER01_PAGE08_TEXT:0 "‰ísYr^ýVby_YýVÐ¨Ràz‚‚Óu_g"
- TUT_CAM_CHAPTER01_PAGE08_OBJECTIVES:0 "¹pûQ§MNN*N§!ÛeQNNàz‚‚"
- TUT_CAM_CHAPTER02_TITLE:0 "‰ísYr—RYeÕl­^"
- TUT_CAM_CHAPTER02_DESC:0 ",gàzSOËNÍuT;N¹ppeÿßu»lwÿ˜î•ÿ8hÃ_wýNÿ—RYeIrIr"
- TUT_CAM_CHAPTER02_BUTTON:0 "‰ísYr—RYeÕl­^"
- TUT_CAM_CHAPTER02_PAGE01_TITLE:0 "§Yßu»lw (1/18)§W"
- TUT_CAM_CHAPTER02_PAGE01_TEXT:0 "ßu»lwùRýV¶R„vÑSUSósQÍ‘‰.©s¶Råb	g	NÍyDnßuðy:N§MT;N¹ppe§!ÿR+R:N§MLˆ?e¹ppe§!ÿ§MY³N¹ppe§!ŒT§M›Q‹N¹ppe§!. Ïkg·ƒ—_„vT;N¹ppepeÏ‘ÖS³QNT;NbýwŒT˜î•"
- TUT_CAM_CHAPTER02_PAGE01_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_CAM_CHAPTER02_PAGE02_TITLE:0 "§Y˜î• (2/18)§!"
- TUT_CAM_CHAPTER02_PAGE02_TEXT:0 "˜î•ýwYžX R©s¶RÏkg·ƒ—_„v§MT;N¹ppe§!. ©s¶R—‰±‚9Ñ‘^ÛbßR˜î•ÿÏkgØ‰ÑSÙu˜î•NšRå]D.Ç–cO„v˜î•Šf5ÿT;N¹ppe„vžX RÏ‘_NŠ'YÿFO/fÏkg·ƒ—_ÄžÑ‘1SOØSS\n\n§Y¹pûQ§MÐc’‘§!MR_§M?eœ^§!b—g§W"
- TUT_CAM_CHAPTER02_PAGE02_OBJECTIVES:0 "Sb_§M?eœ^b—g§!çuíu"
- TUT_CAM_CHAPTER02_PAGE03_TITLE:0 "§Y˜î• (3/18)§!"
- TUT_CAM_CHAPTER02_PAGE03_TEXT:0 "˜î•ýwYžX R©s¶RÏkg·ƒ—_„v§MT;N¹ppe§!. ©s¶R—‰±‚9ÄžÑ‘ÛbßR˜î•ÿÏkgØ‰ÑSÙu˜î•NšRå]D.Ç–cO„v˜î•Šf5ÿT;N¹ppe„vžX RÏ‘_NŠ'YÿFO/fÏkg·ƒ—_ÄžÑ‘1SOØSS\n\n§Y¹pûQzzŒv–wÏPMR_ïSÇ–cO˜î•Rhˆ§W"
- TUT_CAM_CHAPTER02_PAGE03_OBJECTIVES:0 "§MÇ–cONT˜î•§!çuíu"
- TUT_CAM_CHAPTER02_PAGE04_TITLE:0 "§Y8hÃ_wýN (4/18)§!"
- TUT_CAM_CHAPTER02_PAGE04_TEXT:0 "8hÃ_wýN/f©s¶RÆ‰:NýV¶R†˜W…Q„vwýN.SwýNØS:N8hÃ_wýN2–bk§MÇ¦^ib/_§!^—8^Í‘‰ÿàV:N^—8hÃ_wýN„v§Mz6e§!ŒT§MºN›R§!ýO'Y'YM–NO. åb	ggÑ_g„vwýN„v§M²RðyCg§!ýwYÏQSØSb8hÃ_wýN±‚9„vöeô•\n\n§Y+RØ_†Nb`Y‚fkP„v8nb§!"
- TUT_CAM_CHAPTER02_PAGE04_OBJECTIVES:0 "S<hÉb³u¾§MØSb8hÃ_wýN§!çuíu"
- TUT_CAM_CHAPTER02_PAGE05_TITLE:0 "§Y—RYe (5/18)§!"
- TUT_CAM_CHAPTER02_PAGE05_TEXT:0 "—RYeUSMOïSåNOýV¶R3zšRÿ2–bkÛSqN„vúQ°s.©s¶RÅ_Š˜OwýN—RYeˆvOýV¶R—RYeMbýwåb	g—RYeUSMOÿw—RYeˆvO—‰/OYeëX„v.^©R.Øš3zšR'`ýwYÐcGSˆvO¦^ \n\n§Y+RØ_†Nb`Y‚fkP„v8nb§!"
- TUT_CAM_CHAPTER02_PAGE05_OBJECTIVES:0 "§MlS§!<hÉb³u¾wýNçuíu"
- TUT_CAM_CHAPTER02_PAGE06_TITLE:0 "§Yú^Qr (6/18)§!"
- TUT_CAM_CHAPTER02_PAGE06_TEXT:0 "ú^Qrir/fÐcGSýV¶RÏuNmŒT›Q‹NžR›R„vÍ‘‰èR0Ýu'YYpeú^QrirïSåN(WOb	gwýNú^/ÿFOpeÏ‘×SP–ŽNå‹wýN„v§Mú^QrhMO§!0ú^/ú^QrirýO±‚9Ñ‘^0\n\n§Y°‹—_ÖSˆm8nb‚fkP0§!"
- TUT_CAM_CHAPTER02_PAGE06_OBJECTIVES:1 "(W<hÉb³u¾ú^/N¶^§MúR™^§!çuíu"
- TUT_CAM_CHAPTER02_PAGE07_TITLE:0 "§Y‹NöN (7/18)§!"
- TUT_CAM_CHAPTER02_PAGE07_TEXT:0 "‹NöNO(W8nbÇz-N–:gúQ°sÿîv„v(WŽNžX R8nb„v²sT'`.©s¶R—‰(W3N*NbôfY	y˜-NZPúQ	éb.8nb-N_NOúQ°sýV¶R„vyršR‹NöN"
- TUT_CAM_CHAPTER02_PAGE07_OBJECTIVES:0 "¹pûQ‹NöN-NúQ°s„v	y˜çuíu"
- TUT_CAM_CHAPTER02_PAGE08_TITLE:0 "§YÛS›Q(8/18)§!"
- TUT_CAM_CHAPTER02_PAGE08_TEXT:0 "ÛSqN„vÍyŠ|	g¸‹YÍy, ÏkN*N>m+Rý	gNT„vÉ‹Bl.N*NwýN„v §MÛSqN¦^§! >f:y†NrÑSÛSqN„vïSýw'`. `OâeïSåN(Wb—e-N §MRmpÛSqN§! _NïSåN(W §M3zšRŒTib/_§! Lub—-NTÖNìN¥YOS.\n\n§Y+RØ_°‹Óu_g‚fkP,çuíu8nb.§!"
- TUT_CAM_CHAPTER02_PAGE08_OBJECTIVES:0 "§MG•‹SÛSqN§!çuíu"
- TUT_CAM_CHAPTER02_PAGE09_TITLE:0 "§Y3zšR (9/18)§!"
- TUT_CAM_CHAPTER02_PAGE09_TEXT:0 "3zšR¦^hˆ°s†N`O„výV¶R„v3zšRz¦^. 3zšR¦^Oq_ÍT0R §MÛSqN¦^§!, §Mz6e§!, §MhQOS8fÞz‰N›R§! IrIr.3zšR¦^ïSåN(W §M3zšRŒTib/_§! Lub—…Qˆmw §M Lˆ?e¹ppe §! žX R. \n\n§Y¹pûQæ]NÒ‰„vþvÌ_, 6qT¹pûQ §M3zšRŒTib/_§Y Lub—6qT(W3zšR¦^NhN¹pûQ §MÐcGS§!."
- TUT_CAM_CHAPTER02_PAGE09_OBJECTIVES:0 "¹pûQ§MÐcGS3zšR¦^§!çuíu"
- TUT_CAM_CHAPTER02_PAGE10_TITLE:0 "§Y‹s³RTwûY (10/18)§!"
- TUT_CAM_CHAPTER02_PAGE10_TEXT:0 "‹s³RTwûY/fNvQƒRýV¶Rú^Ëzo‚ŒYsQû|„vNÍyKbµk\n\n§Y(W¡l	g	šRûNUOUSMO„vÅ`µQNÿóS.•¹pûQ§Ma„„Yr§!ÛLˆY³N.¹pûQ§M‹s³R§!Sb_§M‹s³RTwûY§!	éby˜\n\n+RØ_†Nçuíu‚fkP„v8nb§W"
- TUT_CAM_CHAPTER02_PAGE10_OBJECTIVES:0 "Na„„YrÛLˆ§M‹s³RTwûY§!çuíu"
- TUT_CAM_CHAPTER02_PAGE11_TITLE:0 "§Y‹s³RTwûY (11/18)§!"
- TUT_CAM_CHAPTER02_PAGE11_TEXT:0 "‹s³RTwûYýw–öeô•ÐcGS©s¶R„v§Mckßu'`§!ÿFO/fO9hnc3NýVô•„v§MZg§!ŒT§Mckßu'`§!„vî]+RM–NONšR„vckßu'`. ŒTvQƒRýV¶RÛLˆ‹s³RTwûYýwYÐcGS©s¶R|Qv^ùR¹e§M¶RÏe§!„vàQ‡sÿv^b_b§MTwTßu»l§!."
- TUT_CAM_CHAPTER02_PAGE11_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_CAM_CHAPTER02_PAGE12_TITLE:0 "§Y³Q®‹ (12/18)§!"
- TUT_CAM_CHAPTER02_PAGE12_TEXT:0 "³Q®‹AQ¸‹©s¶R9ei—ýV¶R.S_agöNán³öeÿ©s¶RïSåN˜^³Q®‹v^Ëz;RO³Q®‹uHe.N›N³Q®‹ûN¡Rp‚è]ÿ‹O‚YbËz·_ýVba'Y)R\n\n§Y¹pûQ§MýV¶RïS(u³Q®‹Ðc’‘§!MR_§MûN¡RŒT³Q®‹b—g§Y.§W"
- TUT_CAM_CHAPTER02_PAGE12_OBJECTIVES:0 "¹pûQ§MY³NbËz‰ísYr§!åNçuíu"
- TUT_CAM_CHAPTER02_PAGE13_TITLE:0 "§YÑyb (13/18)§!"
- TUT_CAM_CHAPTER02_PAGE13_TEXT:0 "ÑybïSåNÇ±‚9§MT;N¹ppe§!ã‰•. ÑybïSR:N§M	NÍyŠ|‹W§!ÿÏkNÍyŠ|‹WŒTNÍyT;N¹ppeøvsQ§!"
- TUT_CAM_CHAPTER02_PAGE13_OBJECTIVES:0 "Sb_§MÑybb—g§!çuíu"
- TUT_CAM_CHAPTER02_PAGE14_TITLE:0 "§YÑybÿ14/18	ÿ§!"
- TUT_CAM_CHAPTER02_PAGE14_TEXT:0 "Ñyb…MRSOùR`O„vÑyb±‚9/b˜Yé`Z.Tt‰R’cÑybŒTtõ_åN¿OŽNôfTt„vO(uT;N¹ppeÿ9hnc`O„vßu»lw„výw›RegOSŒ‰R’c_N/f*NN•„v	éb"
- TUT_CAM_CHAPTER02_PAGE14_OBJECTIVES:0 "ã‰•§M5ÏeqQŒT6Rÿ7	ÿ§!åNçuíu"
- TUT_CAM_CHAPTER02_PAGE14_inst_TITLE:0 "§Y¥c³u`no (15/19)§!"
- TUT_CAM_CHAPTER02_PAGE14_inst_TEXT:0 "·ƒ—_ÑybOb—‰„vT;N¹ppe1u`Oò]¥c×S„v§M`no§! ObîOck0(W8nb„v_ËYÿ/UNã‰•„v§M`no§!/f§MSú^;NIN§!ÿSú^;NINg_ËY«ˆte*N'k2mŒT'YèRšN2mýV¶ROb§M¥c³u§! 0\n\n Ïk50t^ýO	gN*N°e„v§M`no§!(WNLuN„vÐgN*NwýNúQ°sv^babaÎNƒR„vwn0WThQNLu/O­d0\n\nó`‰ §M¥c³u§! N*N §M`no§!ÿÙ*N`no—‰óS/O­d0R`OOb¶c6RwýN„v10%0ÏkN*NØ¡l	g§M¥c³u§! °e`no„výV¶RýO×S0RN*N–öeô•babažX R„vÑyxé`Z0ïSåN(WÑybh„v§M`no§!	c®”-NÀhÆ‰°sXR„v§M`no§!ŒTÖNìN„v/O­dÅ`µQ0"
- TUT_CAM_CHAPTER02_PAGE14_inst_OBJECTIVES:0 "¹pûQ §MNN*N§! çuíu"
- TUT_CAM_CHAPTER02_PAGE15_TITLE:0 "§Ytõ_Äuÿ15/18	ÿ§!"
- TUT_CAM_CHAPTER02_PAGE15_TEXT:0 "(WyršR¶u+R„v§MLˆ?eÑyb§!ã‰•Tÿ`OO·ƒ—_N*Ntõ_ÄuhMO0`ORRã‰•„vÑyb.^©R`O·ƒ—_†N,rŒN*Ntõ_ÄuhMO0tõ_Äu/f.^©R`O„výV¶Rôf RNè•S„vnboŒYÐgNLw#„vo‚¹e0"
- TUT_CAM_CHAPTER02_PAGE15_OBJECTIVES:0 "Sb_§Mtõ_u˜§!åNçuíu"
- TUT_CAM_CHAPTER02_PAGE16_TITLE:0 "§Ytõ_Äuÿ16/18	ÿ§!"
- TUT_CAM_CHAPTER02_PAGE16_TEXT:0 "ã‰•Ntõ_Äu—‰ØNúQ§M400Lˆ?e§!0§MY³N§! b§M›Q‹N§!KN§MT;N¹ppe§!.wOb—KNT;N¹ppe„vÍyŠ|ÿR–tõ_Äuw_.9hnc`O“^XREQÕˆ„vT;N¹peg	ébtõ_ÄuÿMb/ffzf„v‰béb.\n\n§Y÷‹	cNN§MzzŒv„vtõ_ýi§! Q	c§M¢c1ttõ_§!.§W"
- TUT_CAM_CHAPTER02_PAGE16_OBJECTIVES:0 "	éb§M¢c1t§!tõ_ÄuåNçuíu"
- TUT_CAM_CHAPTER02_PAGE17_TITLE:0 "§Ytõ_ (17/18)§!"
- TUT_CAM_CHAPTER02_PAGE17_TEXT:0 "ã‰•3*Ntõ__NOã‰•1*N`O„v§MýV¶Rtõ_§!.Ype'YýVŒTN›NSýVýåb	gìryr„výV¶Rtõ_.\n\n§M¢c1t°eNLu§Y(W§M¢c1t§Ytõ_Äu-Nÿ	ébå‹tõ_SïSåNÛbßR§M¢ci–¶R§YŒT§M_gw§Y.å‹tõ_„vMRÐc:Nã‰•§M–kl’Qi–§Ytõ_"
- TUT_CAM_CHAPTER02_PAGE17_OBJECTIVES:0 "ã‰•§M¢c1t°eNLu§!tõ_åNçuíu"
- TUT_CAM_CHAPTER02_PAGE18_TITLE:0 "§Yàz‚‚ŒRbÿ18/18	ÿ§!"
- TUT_CAM_CHAPTER02_PAGE18_TEXT:0 "‰ísYr^ýVby_‰ísYr—RYeÕl­^KNàzódkÓu_g"
- TUT_CAM_CHAPTER02_PAGE18_OBJECTIVES:0 "¹pûQ§MNN*N§!ÛeQNNàz‚‚"
- TUT_CAM_CHAPTER03_TITLE:0 "°eNLu"
- TUT_CAM_CHAPTER03_DESC:0 "å‹àzSOcüR`OfR`N¢c1tN–kl"
- TUT_CAM_CHAPTER03_BUTTON:0 "°eNLu"
- TUT_CAM_CHAPTER03_PAGE01_TITLE:0 "§Y¢c1tÿ1/8	ÿ§!"
- TUT_CAM_CHAPTER03_PAGE01_TEXT:0 "¢c1tŒT–kl/f'kF–Î˜‘N4„vÍ‘4Yb.¢c1t°e'YF–0ú^Ëz–kl0W/fN*NøvùRŒTs^„v^ýVib/_¹e_"
- TUT_CAM_CHAPTER03_PAGE01_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_CAM_CHAPTER03_PAGE02_TITLE:0 "§Y¢c1tÿ2/8	ÿ§!"
- TUT_CAM_CHAPTER03_PAGE02_TEXT:0 "*gåwKN0W«ˆhÆ‹:N§M*gåwwýN§!.`O—‰NMO§M¢ci–¶R§!bw§M_gw§!egÛeQMOnwýN._ìS¢ci–¶Rb_gw—‰§M¢c1t°eNLu§!tõ_"
- TUT_CAM_CHAPTER03_PAGE02_OBJECTIVES:0 "	-N`OMOŽN§M‰R¾bS‰šN§!„v0‚–åNçuíu"
- TUT_CAM_CHAPTER03_PAGE03_TITLE:0 "§Y*gåwwýNÿ3/8	ÿ§!"
- TUT_CAM_CHAPTER03_PAGE03_TEXT:0 "¢ci–¶Rc%cwm›Qÿ_gwc%cF–›Q.îvMR`O„v0‚–(W¢ci–¶RKQÌ‘¯eY_·åT&O^„vc%cKNN.\n\n§YO(uóS.•¹pûQ§M*gåw:SßW§YS0‚–ûy¨RÇ»S.\n\n°‹—_‰ÖSˆm8nb‚fkP§!"
- TUT_CAM_CHAPTER03_PAGE03_OBJECTIVES:0 "S`O„v0‚–všT‰¹eÿv^N§M¿lOw­r4Yc:y§!åNçuíu§W"
- TUT_CAM_CHAPTER03_PAGE04_TITLE:0 "§Y_cw (4/8)§!"
- TUT_CAM_CHAPTER03_PAGE04_TEXT:0 "1uŽN_cwÿ¢c1tïSýwOEQánqSi–.S_`O„v9‚–Ü*‚¾–åN·ƒ—_eˆÙuöeÿÖNìN1SO_cw.(Wck8^„v8nb-Nÿ`ON—_Nba„v¢c1tÿv^(WÅ_‰öeìSÞV9‚–Í‘te×eŸ.NÇ(WYefR-NÿbìNŠb_cwM–óˆ_NO"
- TUT_CAM_CHAPTER03_PAGE04_OBJECTIVES:0 "S`O„v0‚–všT‰¹eÿv^N§M¿lOw­r4Yc:y§!åNçuíu§W"
- TUT_CAM_CHAPTER03_PAGE05_TITLE:0 "§Y*g–klW0W(5/8)§!"
- TUT_CAM_CHAPTER03_PAGE05_TEXT:0 ">mcNMO§M–klw§!¿OïS(W*g–klW0WNšRES.`OgÜýw(WêTú^Ëz–kl0WÖS³QŽN§M–klÝ»y§!.*g–klW0WNïSýwO	gNšRpeÏ‘„v§MŸSOOl§!ÿÖNìN_N”^·ƒ—_Í‘Æ‰.ŸSOOlLeaŠØš1SŠ	gïSýw;eûQ`O„v–kl0W"
- TUT_CAM_CHAPTER03_PAGE05_OBJECTIVES:0 "¹pûQ§MXbSþV R§!åNçuíu"
- TUT_CAM_CHAPTER03_PAGE06_TITLE:0 "§Y*g–klW0W(6/8)§!"
- TUT_CAM_CHAPTER03_PAGE06_TEXT:0 "(Wò]>mc§M–klw§!„v0W¹eïSåNú^Ëz–kl0W.–klw;N‰Ç§M¢c1t§!ŒT§Mib/_§!tõ_Äu.(W–klwµb¾N*N*g–kl„vwýNöeMbýwÛLˆNNek.NæeÖNµb¾T1SO_ËYú^Ëz–kl0W.\n\n§Y°‹—_‰ÖSˆm8nb‚fkP§!"
- TUT_CAM_CHAPTER03_PAGE06_OBJECTIVES:0 "¹pûQ§M>mc§!åNçuíu"
- TUT_CAM_CHAPTER03_PAGE07_TITLE:0 "§Y–kl (7/8)§!"
- TUT_CAM_CHAPTER03_PAGE07_TEXT:0 "(W_ËY–klKNTÿ–kl0W—‰Ïu†SNµköeô•MbýwêÙuê³.–kl0W-N„v–klwpeÏ‘OÏkgê¨RžX Rÿ(W¾0R1000TsSïS.(W–kl0WN	g–klwýwY R–klwpeÏ‘„vžX R"
- TUT_CAM_CHAPTER03_PAGE07_OBJECTIVES:0 "¹pûQ§MNN*N§!çuíu"
- TUT_CAM_CHAPTER03_PAGE08_TITLE:0 "§YYefRÓu_g(8/8)§!"
- TUT_CAM_CHAPTER03_PAGE08_TEXT:0 "r^—_ŒYÿ‰ísYr^ýVby_„v°eNªuàzŒRb†NÿYefR_N0Rdk:Nbk.`Oò]ÏuŒcác†NEu©s'kF–Î˜‘N4Ob—‰„vúWOxb/gÿ\n\n§Y„U(uÐc:yû|ßuO(W8nböeÙu`OôfY.^©R§!"
- TUT_CAM_CHAPTER03_PAGE08_OBJECTIVES:0 "§M«N×S§!Ù:W8nbÛv´R'Tÿ"
- TT_TUTORIAL_DISABLED:0 "(W,g!kYez-NN§MïS(u§!"

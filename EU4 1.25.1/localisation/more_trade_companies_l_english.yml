@@ -1,0 +1,50 @@
+l_english:
+ trade_company_far_east:0 "远东贸易特许区"
+ TRADE_COMPANY_FAR_EAST_Root_Culture_GetName:0 "[Root.GetAdjective] 远东贸易公司"
+ TRADE_COMPANY_FAR_EAST_Far_East_Trade_Company:0 "远东贸易公司"
+
+ trade_company_red_sea:0 "红海贸易特许区"
+ TRADE_COMPANY_RED_SEA_Root_Culture_GetName:0 "[Root.GetAdjective] 红海贸易公司"
+ TRADE_COMPANY_RED_SEA_Red_Sea_Trade_Company:0 "红海贸易公司"
+
+ trade_company_hormuz:0 "霍尔木兹贸易特许区"
+ TRADE_COMPANY_HORMUZ_Root_Culture_GetName:0 "[Root.GetAdjective] 霍尔木兹贸易公司"
+ TRADE_COMPANY_HORMUZ_Hormuz_Trade_Company:0 "霍尔木兹贸易公司"
+
+ trade_company_basra:0 "巴士拉贸易特许区"
+ TRADE_COMPANY_BASRA_Root_Culture_GetName:0 "[Root.GetAdjective] 巴士拉贸易公司"
+ TRADE_COMPANY_BASRA_Basra_Trade_Company:0 "巴士拉贸易公司"
+
+ trade_company_kashmir:0 "克什米尔 Charter"
+ TRADE_COMPANY_KASHMIR_Root_Culture_GetName:0 "[Root.GetAdjective] 克什米尔贸易公司"
+ TRADE_COMPANY_KASHMIR_Kashmir_Trade_Company:0 "克什米尔贸易公司"
+
+ trade_company_polynesia:0 "波利尼西亚 Charter"
+ TRADE_COMPANY_POLYNESIA_Root_Culture_GetName:0 "[Root.GetAdjective] 波利尼西亚贸易公司"
+ TRADE_COMPANY_POLYNESIA_Polynesia_Trade_Company:0 "波利尼西亚贸易公司"
+
+ trade_company_ethiopia:0 "埃塞俄比亚 Charter"
+ TRADE_COMPANY_ETHIOPIA_Root_Culture_GetName:0 "[Root.GetAdjective] 埃塞俄比亚贸易公司"
+ TRADE_COMPANY_ETHIOPIA_Africa_Trade_Company:0 "埃塞俄比亚贸易公司"
+
+ trade_company_katsina:0 "卡齐纳 Charter"
+ TRADE_COMPANY_KATSINA_Root_Culture_GetName:0 "[Root.GetAdjective] 卡齐纳贸易公司"
+ TRADE_COMPANY_KATSINA_Africa_Trade_Company:0 "卡齐纳贸易公司"
+
+ trade_company_timbuktu:0 "廷巴克图 Charter"
+ TRADE_COMPANY_TIMBUKTU_Root_Culture_GetName:0 "[Root.GetAdjective] 廷巴克图贸易公司"
+ TRADE_COMPANY_TIMBUKTU_Africa_Trade_Company:0 "廷巴克图贸易公司"
+
+ trade_company_great_lakes:0 "五大湖 Charter"
+ TRADE_COMPANY_GREAT_LAKES_Root_Culture_GetName:0 "[Root.GetAdjective] 五大湖贸易公司"
+ TRADE_COMPANY_GREAT_LAKES_Africa_Trade_Company:0 "五大湖贸易公司"
+
+ trade_company_kongo:0 "刚果 Charter"
+ TRADE_COMPANY_KONGO_Root_Culture_GetName:0 "[Root.GetAdjective] 刚果贸易公司"
+ TRADE_COMPANY_KONGO_Africa_Trade_Company:0 "刚果贸易公司"
+
+ trade_company_zambezi:0 "赞比西河 Charter"
+ TRADE_COMPANY_ZAMBEZI_Root_Culture_GetName:0 "[Root.GetAdjective] 赞比西河贸易公司"
+ TRADE_COMPANY_ZAMBEZI_Africa_Trade_Company:0 "赞比西河贸易公司"
+
+

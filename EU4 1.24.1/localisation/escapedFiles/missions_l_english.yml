@@ -1,284 +1,0 @@
-﻿l_english:
- monopolize_british_cot_desc:0 ",g0WFUºN„vONý(W±b(`bìN„v1ÌRýAmeQ†NYýVFUºN„vKbÌ‘gÈuAmeQ†NwmY.ÖNìN‰Bl?eœ^/ecú^ËzùRŽNñ‚ýV8f„v;NüRCg."
- monopolize_japanese_cot_title:0 ";NüRåe,g8f"
- monopolize_italian_cot_title:0 ";NüRa'Y)R8f"
- monopolize_italian_cot_desc:0 "Z<S¯e/f,rN*N_N/fg	gT„vN*N8fýV¶R.	gTg„vFUºNìN‰Bl·ƒ—_/ecOÖNìNýwY;NüRa'Y)R„v8f"
- tradenode_tunis_title:0 "z<S¯e„v8f‰Nïz"
- tradenode_tunis_desc:0 "¶c6Rz<S¯e„v8fïSåNObìN„výV¶R·ƒ—_ŒYYÿObìN(W0W-Nwm:S„v8f	gôf'Y„vÑSŠCg"
- tradenode_alexandria_title:0 "šN†SqS'Y/n‰Nïz"
- tradenode_alexandria_desc:0 "bìN„vFUºNò]ÏuSÕ‹Ç ReQšN†SqS'Y„v8fwÿFO/f²Ì‘Œ˜úV„vçe`NåNÊS†˜üRwN?ab³‹íp²šNOŠ„v8fKbµkÿëObìNêSýwçuíuÂ‰g"
- tradenode_thrace_title:0 "r‚÷–¯e„v8f‰Nïz"
- tradenode_thrace_desc:0 "r‚÷–¯e/f0W-NwmD–ÑOY8fÙz-N„vN*Nÿ_N/fg:NÌR	g„vN*N.bìN„vFUºN:_Èp‰Bl·ƒ—_r‚÷–¯e8f„v¶c6RCgÿbìN”^å‹gqžR."
- tradenode_ragusa_title:0 "ÉbäS(„„v®pðX"
- tradenode_ragusa_desc:0 "šN—_Ì‘šNwm„v/nãSÎW^ÿÌRv™„vÉbäS(„ÿOY_ýVFUÁTåNÊS4ZŸqFUºN„v¶RaN.bìN”^å‹ïSåNˆ_¹Rf1SÿbNƒR„v¶c6RCg."
- tradenode_ferrara_title:0 "9ÉbÉb„vÛv´R"
- tradenode_ferrara_desc:0 "9ÉbÉbåNó—PNŒTz‚/gû•T„v‡eS-NÃ_ÿnn0WSbìN„vFUºNÎNƒRZS'Y„vøw`Ì‘¨c_.ˆ_>f6qÿùRŽNbìNegô‹ÿ¶c6R†N9ÉbÉb1SasTOwbìN¶c6R†N1uvQ/nãSÛúQ„v8f&&"
- tradenode_tangiers_title:0 "9N	TS„v8f‰Nïz"
- tradenode_tangiers_desc:0 "bìN„vFUºN(W9N	TSúQ.UÖNìN„vFUÁTöeG0R†NŠegŠY„v8f‰NïzÿÛwTbìNBl©R.`S†˜9N	TSÿÖNìNô‹Sÿ6qT©‹bìN(W²Ì‘ú^/N*NàeÔk:_'Y„v8f^ýVÿ"
- conquer_levant_title:0 "_gÎžáQyr"
- conquer_levant_desc:0 "bìN„vLeºNlšFzœKQckÙz(WbìN_g#WÎWŒT·ƒÖS™™™e8f6eeQbìN;`/fÊ‰Î‰„vN‰„vïN0bìNÅ_Š˜:cÛÙS)RšNŒTÃWÊSåNObìNôf¥cÑÙ›Nbeuîvh0"
- conquer_egypt_title:0 "_gÃWÊS"
- conquer_egypt_desc:0 "/föePÈuÓulšFzœKQkO:NN*NìrËzýV¶R„vXR(W†N0bìNÅ_Š˜(WÃWÊSú^ËzeY¯eüf„vßu»lÿÙS:NbìN_g?–Éb/OŒTS^—Sb_Sï0"
- conquer_mesopotamia_title:0 "_gŽ1tN¾s|šN"
- conquer_mesopotamia_desc:0 "Ž1tN¾s|šN„väSÎW³/fegêšN2m„v™™™e8f„vÍ‘‰‚‚¹p0¶c6RÖNìNåNÊS·ƒÖSÖNìN„v6eeQ/fN*N^—8^	gñ‹Ñ`›R„vîvh0"
- conquer_hedjaz_title:0 "_gIl×_"
- conquer_hedjaz_desc:0 "Tv^Il×_0W:SSObìNNÅN·ƒ—_#WÎW¦ž RŒT¦ž0W²„vXb¡rºN„v0WMOÿ_NïSåNObìN·ƒ—_N›NùRbìN¶c6R¢uwm8fósQÍ‘‰„vsQ.•/nãS0"
- conquer_mocha_title:0 "_gidaS"
- conquer_mocha_desc:0 "1uŽN–TaUúQT„vidaSÿùRŽNbìN„v^ýV	gOwôfÍ‘‰„v0WMO0YŽN¢uwm„veQãSÿyYïSåNkO:NN*Nwm›QúW0WŒTN*N—SèT0"
- conquer_haasa_title:0 "_gÈT(„0W:S"
- conquer_haasa_desc:0 "bìNÅ_Š˜ÝO³beg0Rô]¯eÉb„vpS¦^8f0(WÈT(„ÿu2m0W:Sú^ËzeY¯eüf„vßu»lSÎNYýV„v«R c-NÝO³bÙNÍ‘‰„v6eeQ0"
- conquer_trebizond_title:0 "_gyrÉb^—R"
- conquer_trebizond_desc:0 "bìN„vô•ŒåwbìNyrÉb^—R„vßu»lwck(WŒTÖNìN„v‰¹eßvËSÆRŒú^ËzN*Nˆ”ùRbìN„v^ýV„vSôVQ0bìNÅ_Š˜HQÑS6RºN©‹ÖNìNŒT^J„viRYOèR«N	gøvT„vŒTÐ0"
- safeguard_eastern_anatolia_title:0 "ÝOkS‰R³uyr)RšNNè"
- safeguard_eastern_anatolia_desc:0 "¶c6RÃWÌ‘)nŒTêšNô]KQS„vbeuaIN8lÜNO«ˆÇ¦^Ïcð0bìNÅ_Š˜Ç_gŒTÍ‘°eåb	gÙ›NŸS,gÌRv™tS1uŽN^(g?Q„v›Q–wRƒŸ^„vW0Weg6e'tùRâl¯e„vMR¿u0"
- conquer_tripolitania_title:0 "_g„vÎžâlÌ‘"
- conquer_tripolitania_desc:0 "„vÎžâlÌ‘„vwm¸SÎW^àQASt^egý/f²›N«R cbìN9‚êS„vwm×v„v¾–Ob0bìN„vwm›QS†˜Ðc®‹bìNÅ_Š˜(WÙ*N0W:Sú^Ëzôv¥c„veY¯eüfßu»leg;–bkÙ›N;eûQ0"
- conquer_tunisia_title:0 "_gz<S¯e"
- conquer_tunisia_desc:0 "‚Yœgz<S¯e=„eQúWcw’_„vKb-NÿbìNùRS^—„vßu»lSO×S0Rcb0×S0RÕ‹þV¶c6R‰0W-Nwm„vúWcw’_‰lÍ‘‹S›R„vS_0WESlSOÆ‰bìN„v›Q–:NïbQewŒTÝO³bww1kÎbìN0"
- subjugate_algiers_title:0 "D–¸^?–SÊS)RšN"
- subjugate_algiers_desc:0 "‚YœgbìNNó`bìNùRlš<hÌ‘^„v)RÊv×S0RÛNekcb„vÝ‹ÿbìNÅ_Š˜(WÙÌ‘ûRBlôf:_„vsQû|0/föeP©‹×S0RúWcw’_‰lÍ‘‹S›R„v?–SÊS)RšNÛeQbìN„v¿R›RƒôV†N0"
- conquer_algeria_title:0 "_g?–SÊS)RšN"
- conquer_algeria_desc:0 "‚YœgbìNNó`bìNùRlš<hÌ‘^„v)RÊv×S0RÛNekcb„vÝ‹ÿbìNÅ_Š˜ÎNS_0W†˜;NKb-N;eNyY0"
- tradenode_gibraltar_title:0 "ôv^WO–„v*jZ"
- tradenode_gibraltar_desc:0 "*jZò]Ïuˆmèx†Nôv^WO–„va×_ÿYuÙubìNFUºNN‰àQNN¡l	g./föePTÖNìNUS:y*jZ„vŸSjO&^egÀNHN7h„vq_ÍT†N&&"
- claim_on_rival_title:0 "²R^$PROVINCENAME$:NbìN„vLeùRwýN"
- claim_on_rival_desc:0 "Oc/N*NbìN¿RLe $COUNTRY$ wýN„v²RðyÿÙ7hbìN1Sýw:NdkwÛ;eÖNìN."
- take_from_rival_title:0 ":YÖS$PROVINCENAME$!"
- take_from_rival_desc:0 "/föePÎNbìN„vLeºN$OWNERNAME$Kb-N:YÖS$PROVINCENAME$†Nÿ"
- insult_rival_title:0 "®O±bìN„vùRKb $COUNTRY$"
- insult_rival_desc:0 "bìNÛuh`ÖNìNÿÙ¹p^gÖNìNýwåwS"
- befriend_rival_rival_title:0 "bìNLeºN„vLeºN"
- befriend_rival_rival_desc:0 "bìN¿RLe„v¿RLe/f$COUNTRY$ÿàVdkÖNìN”^å‹b:NbìN„vgËS."
- take_from_rival_culture_title:0 "ïbQe$PROVINCECULTURE$„vºNlÿ"
- take_from_rival_culture_desc:0 "bìN„vLeºN$OWNERNAME$S$PROVINCENAME$„vDQ_ÐY¹YkO:NºN(N,‚ùR…_ÿ/föePïbQeÖNìN†Nÿ"
- take_from_rival_religion_title:0 "ïbQe$PROVINCENAME$„váOðN'Tÿ"
- take_from_rival_religion_desc:0 "bìN„vLeºN$OWNERNAME$‹kw‘0Wë³ROw$PROVINCENAME$„vDQ_ìNÿbìNÅ_Š˜ïbQeÖNìN„vupB›ÿ"
- befriend_threat_rival_title:0 "bìNLeºN„vZÁw"
- befriend_threat_rival_desc:0 "$COUNTRY$/fN*NZÁwbìN„výV¶R„v¿RLeÿàVdkÖNìN”^å‹b:NbìN„vgËS."
- improve_fort_threat_1_title:0 ":_S×SZÁw¹ƒX„v2–kS"
- improve_fort_threat_1_desc:0 "bìN„v»ESwegˆ_	gZÁwÿ:_SbìNhT¹„v2–kSïSåNObìNÉ‰—_ôf‰RhQÿ"
- improve_fort_threat_2_title:0 "ÛNek:_S×SZÁw¹ƒX„v2–kS"
- improve_fort_threat_2_desc:0 "bìN„v»ESwegˆ_	gZÁwÿÛNek:_SbìNhT¹„v2–kSïSåNObìNÉ‰—_ôf‰RhQÿ"
- royal_marriage_threat_title:0 "N$COUNTRY$?e»lTwûY"
- royal_marriage_threat_desc:0 "egê$COUNTRY$„vZÁw›RÏ‘<riOwbìNÿN:W‹s³RKNô•„vZZ<yb¸‹ïSåN©‹Ù›NŒYbRPRùRbìNËSŒY¹pÿ"
- improve_relations_threat_title:0 "‰Ršb$COUNTRY$"
- improve_relations_threat_desc:0 "$COUNTRY$ùRbìNýV¶R/fN*NZÁwÿbìNÅ_Š˜9e„UNÖNìN„vsQû|åNMQÑSub‹N."
- go_legitimate_title:0 "Á‹fTÕl"
- go_legitimate_desc:0 "bìN„vT;NwwegY×S(‘uÿbìNÅ_Š˜TbìN„vºNlŠ_•^Á‹fbìN„vT;N/fýVl„vTÕlßu»lw0"
- make_core_province_title:0 "Tv^ $PROVINCENAME$"
- make_core_province_desc:0 "$PROVINCENAME$Å_Š˜b:NbìNýV¶R„vN*N8hÃ_wýNÿ"
- change_province_culture_title:0 "ŠbbìN„v‡eS/O­d0R$PROVINCENAME$"
- change_province_culture_desc:0 "$PROVINCENAME$„v‡eSNbìN„v	gˆ_'Yî]_.ÙO—_bìN„vºNl(WÜb¿‹$PROVINCENAME$„vöePaÉ‰ˆ_N”^.Ù¹p”^å‹ˆNåN uck."
- control_the_pope_title:0 "b:NYe—R„v¶c6Rw"
- control_the_pope_desc:0 "YeëXŒTbìN(W#W¶^„vãNhˆfeÃObìNO(uhQèïS(u„vYe÷^q_ÍT›Reg¶c6RYe÷^0"
- achive_religious_unity_title:0 "žR°s—RYeâVÓu"
- achive_religious_unity_desc:0 "bìN„v”N±‚kQè•„váOðNJR1_†NbìNÿ:N†NQ!kØS:_ÿbìNÅ_Š˜©‹bìN„vºNlßuNwck„váOðNÿ"
- migrate_to_neighboring_title:0 "Áûy0R $PROVINCENAME$ "
- migrate_to_neighboring_desc:0 "bìN„vè=„ÍN6qÝOcOw»S¢c1tŒTÑS°s°eW0W„v:g¨R'`ÿbìN”^å‹»y_ $PROVINCENAME$."
- recover_manga_title:0 "b`YbìN„v‡eSW¶N"
- recover_manga_desc:0 "/Oô‹-NÐc0RN*Nåe,gz‚/g¶R(Wù`|`)Y‡vKNTÜpØšÞ˜0 ÖN&^p†NÖNgÍs5„v1ÌRÿ°‹Œ†NØšIrAm>m†SòS„vþVfNÿ1S/fÖN²*Nt^ãNg/OGY„vfkëXObfR`N„vAm>m0 bìN³‹šRÿ÷1Y„v‡eSptR–Ï…(W^—2m„vN—gKN-NÿbìN„vOŒT1S/fb`YƒRÿ"
- vassalize_ramazan_title:0 "D–¸^Éblš^"
- vassalize_ramazan_desc:0 "Éblš^MOŽNSšNÆušNŒTÎžáQyrKNô•0 vQbeuMOnasTOw $COUNTRY$ Nýwý_Æ‰Ù*NS0W¹e0 ©‹bìNÿbNÙWWW0W'T0"
- conquer_the_byzantine_empire_title:0 "_gÜb`S­^^ýV"
- conquer_the_byzantine_empire_desc:0 "–OwTëXfWN!X=„(WbìNKb-NÿÜb`S­^^ýV„vÁkmp<ONN/fgN‰”‰”„v‹NÅ`0 6qwØ	gN›NÜb`S­^YOŒRhˆ:yNán0 /föePã‰>eÖNìN†N0"
- conquer_punjab_MUG_title:0 "pS¦^„v1ÌR"
- conquer_punjab_MUG_desc:0 "zÇ_/OSqSãS1S/fÁennfñ‹ºNÌR³„vs^ŸS0 ©‹bìN¿lOwVyHQ„v³ùÿ:N†Nôf'Y„vcƒwÿÿbNÙÌ‘ÿ"
- vij_reconquest_of_pulicat_title:0 ":YÞVnf)RaSyr"
- vij_reconquest_of_pulicat_desc:0 "bìNNýwPWÆ‰Nè„v/nãS=„eQeYÌ‘(„ºNKNKb0 bìNÅ_Š˜úQKbÿÿbÞV^SŽNbìN„vW0W!"
- conquer_the_wankas_title:0 "_gNaS"
- conquer_the_wankas_desc:0 "NaS‹sýVˆR³bOwbìNŒTS‰R,r¯evQƒR:SßWKNô•„vqS7Œ01uŽNNaSôv¥c0WÒbÝu†NŒTs^ ReQbìN‹sýV„vûNUOagöNÿbìNÅ_Š˜(ufk›RegnxÝOÙ*Nbeu‰0W0"
- conquer_bombay_title:0 "pS¦^úW0W - _RpNN›S"
- conquer_bombay_desc:0 "pS¦^/OGY,‚„v1ÌR_OwàepeºNpN†NòSàeMR‹O„vÜ*‚ÑS°sKNÅe0:N†N(WÙimp„v1ÌR-NRNog¹ÿbìN—‰(WpS¦^!k'YF–·ƒ—_N*NúW0W0býV„vFUºNâVSOZWc³‹:NS·^NW„v_RpNN›S/fÙ7hN*NúW0W„vŒRŽ0W¹p0"
- conquer_goa_title:0 "pS¦^úW0W - œg?–"
- conquer_goa_desc:0 "pS¦^/OGY,‚„v1ÌR_OwàepeºNpN†NòSàeMR‹O„vÜ*‚ÑS°sKNÅe0:N†N(WÙimp„v1ÌR-NRNog¹ÿbìN—‰(WpS¦^!k'YF–·ƒ—_N*NúW0W0býV„vFUºNâVSOZWc³‹:N·^NWwm¸S„vœg?–/fÙ7hN*NúW0W„vŒRŽ0W¹p0"
- conquer_madras_title:0 "pS¦^úW0W - FZÌ‘aS"
- conquer_madras_desc:0 "pS¦^/OGY,‚„v1ÌR_OwàepeºNpN†NòSàeMR‹O„vÜ*‚ÑS°sKNÅe0:N†N(WÙimp„v1ÌR-NRNog¹ÿbìN—‰(WpS¦^!k'YF–·ƒ—_N*NúW0W0býV„vFUºNâVSOZWc³‹:N:NdkbìN”^å‹NèlŽN¾‹Õl_gÌRv™„v/nãSFZÌ‘aS0"
- conquer_pondicherry_title:0 "pS¦^úW0W - ÑyWüf·_"
- conquer_pondicherry_desc:0 "pS¦^/OGY,‚„v1ÌR_OwàepeºNpN†NòSàeMR‹O„vÜ*‚ÑS°sKNÅe0:N†N(WÙimp„v1ÌR-NRNog¹ÿbìN—‰(WpS¦^!k'YF–·ƒ—_N*NúW0W0býV„vFUºNâVSOZWc³‹:NÌRv™ÑyWüf·_wm¸S„vN*N/nãS/fÙ7hN*NúW0W„vŒRŽ0W¹p0"
- conquer_diu_title:0 "pS¦^úW0W - ,rLN"
- conquer_diu_desc:0 "pS¦^/OGY,‚„v1ÌR_OwàepeºNpN†NòSàeMR‹O„vÜ*‚ÑS°sKNÅe0:N†N(WÙimp„v1ÌR-NRNog¹ÿbìN—‰(WpS¦^!k'YF–·ƒ—_N*NúW0W0býV„vFUºNâVSOZWc³‹:NêS	g¶c6RaSÐc?–ætJS›SŒT,rLN›SN„v‰^XMbýwú^ËzÙ7hN*NŒRŽúW0W0"
- conquer_calcutta_title:0 "pS¦^úW0W - _R RÉb"
- conquer_calcutta_desc:0 "pS¦^/OGY,‚„v1ÌR_OwàepeºNpN†NòSàeMR‹O„vÜ*‚ÑS°sKNÅe0:N†N(WÙimp„v1ÌR-NRNog¹ÿbìN—‰(WpS¦^!k'YF–·ƒ—_N*NúW0W0býV„vFUºNâVSOZWc³‹:N_R RÉb„vR`³l	NÒ‰2m/fÙ7hN*NúW0W„vŒRŽ0W¹p0"
- conquer_kotte_title:0 "pS¦^úW0W - Ñyyr"
- conquer_kotte_desc:0 "pS¦^/OGY,‚„v1ÌR_OwàepeºNpN†NòSàeMR‹O„vÜ*‚ÑS°sKNÅe0:N†N(WÙimp„v1ÌR-NRNog¹ÿbìN—‰(WpS¦^!k'YF–·ƒ—_N*NúW0W0býV„vFUºNâVSOZWc³‹:N!•pQ›S„vÑyyrÎW/fÙ7hN*NúW0W„vŒRŽ0W¹p0"
- conquer_kochin_title:0 "pS¦^úW0W - Ñy¦”"
- conquer_kochin_desc:0 "pS¦^/OGY,‚„v1ÌR_OwàepeºNpN†NòSàeMR‹O„vÜ*‚ÑS°sKNÅe0:N†N(WÙimp„v1ÌR-NRNog¹ÿbìN—‰(WpS¦^!k'YF–·ƒ—_N*NúW0W0býV„vFUºNâVSOZWc³‹:NlšÉbô]Swm¸S„vÑy¦”ÎW/fÙ7hN*NúW0W„vŒRŽ0W¹p0"
- make_base_on_spice_islands_title:0 "(W™™™e³›Sú^Ëz $COUNTRY$ nc¹p"
- make_base_on_spice_islands_desc:0 "NpS¦^³›S/fNLu™™™eu¶N„v-NÃ_ÿ(Wdk0W_US™™™e8f„výV¶RS—_0Rè]˜1ÌR0™™™eÅ_SAmÿ"
- protect_religious_minority_title:0 "ÝO³bbìN(W $PROVINCENAME$ „vTÞw"
- protect_religious_minority_desc:0 "bìN(W $PROVINCENAME$ „váOðNTÞwck(Wm×S‹kÍ_„vë³R0S_0WYe:SOO„vãNhˆðXðyêS‰bìNÎN‹SëwKb-Nã‰>eÖNìNÿbìN„v›Q–ŒT˜RXT1SO(WS_0W×S0RgËS,‚„v1kÎ0"
- protect_cultural_minority_title:0 "ïbQe $PROVINCENAME$ „v $PROVINCECULTURE$ ºN"
- protect_cultural_minority_desc:0 "bìN(W $PROVINCENAME$ „vDQ_ck(W×S0R‹kÍ_„v‹Së0egêå‹0W:ST'YÎW^„vãNhˆ^Xán†NbìN„v?eœ^'Y…S0ÖNìNZWðyêS‰bìNÎN‹SëwKb-Nã‰>eÖNìNÿÖNìNSNÜ`NRãN÷N©‹å‹0W:S‡eQbýV0"
- conquer_macau_title:0 "-NýV„v8fúW0W³oè•"
- conquer_macau_desc:0 "QY9N„vè]'Y1ÌR8T_†N`O„vFUºN0ÖNìN‰Bl`O(WÖNìN„v8fùRaŒY·ƒÖSN*N/nãSÿåN/ecÖNìN„vªR›R0ncÖNìNô‹ÿ³oè•/fNYtó`„v	éb0"
- conquer_ningbo_title:0 "-NýV„v8fúW0WRâl"
- conquer_ningbo_desc:0 "QY9N„vè]'Y1ÌR8T_†N`O„vFUºN0ÖNìN‰Bl`O(WÖNìN„v8fùRaŒY·ƒÖSN*N/nãSÿåN/ecÖNìN„vªR›R0ncÖNìNô‹ÿRâl/fNYtó`„v	éb0"
- conquer_canton_title:0 "-NýV„v8fúW0W^Þ]"
- conquer_canton_desc:0 "QY9N„vè]'Y1ÌR8T_†N`O„vFUºN0ÖNìN‰Bl`O(WÖNìN„v8fùRaŒY·ƒÖSN*N/nãSÿåN/ecÖNìN„vªR›R0ncÖNìNô‹ÿ^Þ]/fNYtó`„v	éb0"
- convert_the_pagans_header:0 ""
- convert_the_pagans_title:0 "©‹$PROVINCENAME$ˆvOckßuáOðN! "
- convert_the_pagans_desc:0 "bìN(W°eNLu„vib/_O—_'YÏ‘ŸSËYY^yYe’_YŽNbìN„vßu»lKNN0OÙ›N_Ye’_ˆvO/fbýVgOHQ„v‹Ny˜KNNÿFObìN„v¸‹Y°eãlˆ_¾–áOûNbìN&^0R–kl0W„v/OYeëX0yr+R/f$PROVINCENAME$„v_Ye’_ò]«ˆÁ‹f¾–åNô‹g0b¸‹bìNOå‹:SßWˆvO„vÝ‹ÿvQÖN0W:S_NOßOwHeÿNÿ"
- build_colony_to_city_header:0 ""
- build_colony_to_city_title:0 "S$PROVINCENAME$ØSbN¶^ÎW^"
- build_colony_to_city_desc:0 "²›N	gÃ_(WbýV–kl0WšRES„vºNìNèla0R†N$PROVINCENAME$ÿFO°s(W„všRES¹pàeÕl/ec'YÏ‘ºNãS0‚Yœgå‹–kl0W„vƒôVýwYib'Yÿàe‘uO8T_'YÏ‘°ešRESw0"
- defend_the_lowlands_title:0 "ÝOkSNO0WýV¶R"
- defend_the_lowlands_desc:0 "YýVßu»lw(WþVŒ^—Õl:YÖSbìN—_egNf„vê1u0bìNÅ_Š˜ÍS—b0R•^0"
- retake_corsica_title:0 "6eYÑy‰	V"
- retake_corsica_desc:0 "íp²šN(W1282t^ÎNÔk(„ÖS—_†NÑy‰	V›Sv^³ueQvQßu»lÿbìNÅ_Š˜6eYå‹›SÿS_0WºNló`Å_S/ecbìN„vßu»l0"
- free_croatia_from_the_ottomans_title:0 "ÎNeY¯eüfKb-Nã‰>eKQW0WšN"
- free_croatia_from_the_ottomans_desc:0 "eY¯eüfºNck(W«R cÇ»SŽ=N„vKQW0WšNÿAm¡N„v5ÏeÉ‹ô‹†NÖNìN„vObkOOb:N0åNúWcwYeNLu„vTINÿbìNÅ_Š˜ã‰>eÙGrW0W0"
- vassalize_gujarat_title:0 "_gäS	TÉbyr"
- vassalize_gujarat_desc:0 "hQpS¦^„vÌRºNŒTMR_#WÎW„vFz¯e—gg#WwýÎNäS	TÉbyr„v'Y/nãS/TzÿMR_‰¹e0¶c6Rå‹0W:SÿnxÝO8f‰RhQv^ÝO³bg#Ww/fbìN„vOŒT0"
- ori_conquest_of_the_reddy_kingdom_title:0 "_g‰R·_Éb"
- ori_conquest_of_the_reddy_kingdom_desc:0 "êaSaSÐcšN^ýVpˆ¡NåNegÿðlbSúV'Y0W1S«ˆRÂˆbpe*NS¦ýVÿ1u÷–êÊSôuÉblš„v5Ïeßu»l0Ù›NS¦N*N*N0W«ˆbýV‰¹ÊSWS¹„vLeýV¶c6R0bìN‰lšNúQûQÿOw:Nöe*gZfÿ¾xŽxÙ›NaSaSÐcšNRÂˆúQeg„vSýV0"
- ori_conquest_of_telingana_title:0 "_gyr&Ou³u"
- ori_conquest_of_telingana_desc:0 "–OwÉb>™„·_Ì‘(WKbÿyr&Ou³u„vôuÉblšK‘•ìNMRegHyBlbìNÿSÖNìNÎN°s(WN—_NÍ_×S„v_ýV‹Së-Nã‰>eúQeg0©‹bìN>múQ›Q–ÿSyr&Ou³ußuNŽNbìN„v×e^Nÿ"
- ori_to_the_kaveri_river_and_beyond_title:0 "MR_Øšæ—Ì‘³lÊS³lùRb—ÿ"
- ori_to_the_kaveri_river_and_beyond_desc:0 "bìN¶c6ROwOf6ww)RÙNO'Y!X’WÿÑyWüf·_Swm¸STbìN^e_†N'Yè•0©‹bìNib/_ó›Q–ObÊSKNYÿ_gte*Nwm¸SÿóN0RØšæ—Ì‘³l	NÒ‰2mÊSÌR¶^„vðls|S0"
- keep_rival_out_of_italy_tooltip:0 "`O(W§Ya'Y)R0W:S§!åb	g„vOb	gwýNýO·ƒ—_§YbŸRÝOkSa'Y)R„v)RÊv§!Heœgÿ:Ng§Y10§!t^ÿ‚föežX R§G10%§! §Yu¶NHe‡s§!ÿ ÊS§G1§! §Yz6e§!0"
- make_base_on_spice_islands_makassar_title:0 "(W™™™e³›Sú^Ëz$COUNTRY$g R!•"
- make_base_on_spice_islands_makassar_desc:0 "NpS¦^³›S/fNLu™™™eu¶N„v-NÃ_ÿ(Wdk0W_US™™™e8f„výV¶RS—_0Rè]˜1ÌR0™™™eÅ_SAmÿ"
- make_base_on_spice_islands_pasai_title:0 "(W™™™e³›Sú^Ëz$COUNTRY$kQf"
- make_base_on_spice_islands_pasai_desc:0 "NpS¦^³›S/fNLu™™™eu¶N„v-NÃ_ÿ(Wdk0W_US™™™e8f„výV¶RS—_0Rè]˜1ÌR0™™™eÅ_SAmÿ"
- make_base_on_spice_islands_jakarta_title:0 "(W™™™e³›Sú^Ëz$COUNTRY$vV‡U'T"
- make_base_on_spice_islands_jakarta_desc:0 "NpS¦^³›S/fNLu™™™eu¶N„v-NÃ_ÿ(Wdk0W_US™™™e8f„výV¶RS—_0Rè]˜1ÌR0™™™eÅ_SAmÿ"
- portugal_discovers_central_africa_title:0 "¢c1tNNeÜ„vWS¹e	g›NÀNHN"
- portugal_discovers_central_africa_desc:0 "êS	gSpe¢ci–wêaŒYrwm¸SúQÑSTWSÛÑSÿwÄÊN—_åNR_eg„vôf/fSKNÈSS0(W²Ì‘/f&TØ	gæSNGr'YF–ÿN*NøvÍS„vNLuÿNWWEQ¥eOw/Oô‹-N„vÎ‘ŒQ„vW0Wÿ/föeP»S¢c1tNN²¹	g›NÀNHNÿv^FUKN0"
- portugal_colonizes_central_africa_title:1 "(W‰RåTÉbú^ËzN¶^8fÙz"
- portugal_colonizes_central_africa_desc:0 "–OwùR^—2mwm¸S„vÛNek¢c1tÿˆ_>f6qbìN—‰ú^ËzôfY„v/nãSÿåN›ObìN„v9‚êS(W•Ý»y*‚Lˆ„v-NkPÊl0"
- portugal_rounds_cape_of_good_hope_title:0 "ŠÇŒYgÒ‰"
- portugal_rounds_cape_of_good_hope_desc:0 "Œ†6q†SÏup‚i–ÿ¿lOwRƒÉQ„vwm¸S¿uÿzÇ†NqSi–YØS„v4lßWÿgÈubìNØ/fb0R†NÙÌ‘/Oô‹-N„v^—2mgWSïz0°s(WbìN—‰¢c1tNNæSN¹	g›NÀNHN0"
- portugal_trading_post_in_south_africa_title:0 "(WWS^—wm¸Sú^ËzN¶^8fÙz"
- portugal_trading_post_in_south_africa_desc:0 "ê6qw6q„vÿbìN‰(WÙGr'YF–WS¹e„vwm¸SNú^ËzN¶^8fÙz0sSOÙN/f_pS¦^„vï‚YbìNObáO„v²,‚ÿFOùRêN^—wm¸SÐÄžÑ‘ÞVýV„v9‚êSwŠÿÙ¶^-NlÙz„v÷N<PNïS0OÏ‘0"
- portugal_explore_east_africa_title:0 "¢c1tN^—wm¸S"
- portugal_explore_east_africa_desc:0 "bìNåwS„v/fÿ(WN^—wm¸S	gè]Ï‘„v1ÌRck(WAm08fFUìN_Nò]:d&^OwpS¦^„vå]z‚ÁTÔÞVa„„YrÿÙasTOwšN2m„v1ÌRò]æ‰KbïSÊS0"
- portugal_establish_naval_base_mozambique_title:0 "(W«ƒQhÔkKQú^ËzN¶^wm›QúW0W"
- portugal_establish_naval_base_mozambique_desc:0 "bìN„vO'Y¢c1tò]Ïu¥cÑ'YŸRJTbÿFO:N†N©‹bìN„v8f9‚–êpS¦^mw*‚TýwÏu—_w+o•„vÅeÿbìN—‰ýw(Wï-NÐc›OOo`„vwm/n0"
- portugal_establish_naval_base_zanzibar_title:1 "_g¯eæt^Ì‘8fFU"
- portugal_establish_naval_base_zanzibar_desc:1 "¯eæt^Ì‘Sèwm¸SM^OwÌRv™„v8fÎW^ÿ(W²Ì‘pS¦^ŒTâl¯e„vFUºNâVMRegÇ‘-ÄžÑ‘ŒTaŒYrÿv^åN^9SŒTå]NÁTkO:N³Nbc06qwÿb—ùRŒc¶c†NÙGrwmßW„vºNöeÿÙ›N8fÎW^„vMOnøvS_qSi–0©‹bìN_gÙGrW0WÿSvQnŽNa„„Yr„vŒcác-N0"
- portugal_explore_horn_of_africa_title:0 "¢c1t^—2mKNÒ‰"
- portugal_explore_horn_of_africa_desc:0 "bìN„v¢c1twµb¾†NšNNn„væSN¶Oÿ‚YdkKNY„v™™™eŒT1R1udkYÐ_†N0W-Nwm0‚YœgbìNó`ŠbÙr1ÌR&^ÞVa„„Yr„vÝ‹ÿÅ_Š˜SÙN0W:S„v0WþVØu6RúQeg0"
- portugal_establish_naval_base_horn_of_africa_title:0 "(W^—2mKNÒ‰ú^ËzN¶^wm›QúW0W"
- portugal_establish_naval_base_horn_of_africa_desc:0 "(WN^—2mŒT?–Éb/O„vFU–„vÞz‰N-NÿbìN„vYƒXˆ_p‚¾–0‚YœgbìNó`(W'Y‰m*‚¿u„v'Ð-NŒBlôfY„v)R¦mÿbìNÅ_Š˜:N8f0‚–(W^—2mKNÒ‰nxÝOôf'Y„vCg›R0"
- conquer_nogai_area_title:0 "ûQ‘—|—"
- conquer_nogai_area_desc:0 "Ì‘wmSè„v'YIƒŸSOçe/feQµOw„v'Y,g%„ÿÖNìNN­e0W­ˆpbbìN¹ƒX0W:S„vESl0°s(WbìNÅ_Š˜çuíuÛ;eÿŠb‘—|—ºNvúQbìN„výVLuÿR/úQNGr‰RhQ:Seg›OÄOW¯e–kl–šRES0"
- conquer_western_siberia_region_title:0 "nxÝO‰/O)RšN‰è„v‰RhQ"
- conquer_western_siberia_region_desc:0 "_g‰/O)RšNÿS‡ef/O­dó_–„vRƒŸSÿÙ/fbìN„v)YŒTKNOb(W0N›N=„T„výV¶R<ONN¶Nu†NÖNìN”^ßu»lÙGrW0W„v•É‰ÿFObìN„våT(„KQ’Qi–wìNObìNnxáOÿNæebìNÑSwÛ;eÿÙ›NýV¶ROÏP¸uLr-dw„v?bPRN7h«ˆÉcbNâV0"
- conquer_east_siberia_region_title:0 "_g‰/O)RšN"
- conquer_east_siberia_region_desc:0 "‰/O)RšNˆ_^–ÿ/fbìNýV¶Rib/_„v)Y6qîvh0:N†NObìN„všRESwýwY(W²Ì‘uXRNegÿbìNÅ_Š˜nd–ÙN0W:SOb×S„vYèq_ÍT0bìN„våT(„KQ’Qi–wìNObìNnxáOÙN0W:S„výV¶RýO«ˆŠwf>N0Wˆmmp0"
- gain_foothold_in_ireland_title:0 "(W1rSpQ·ƒ—_Ëz³¹p"
- gain_foothold_in_ireland_desc:0 "–Ow'k2m„vÑS°sÿ·ƒ—_N*N=„¹påNÑSwÛNek„v_g/fˆ_	gÅ_‰„v01rSpQ„vûNUON*NwýNýýwkO:NN*No‚ŒY„vúW0W0"
- gain_foothold_in_spain_title:0 "(W‰ísYr·ƒ—_Ëz³¹p"
- gain_foothold_in_spain_desc:0 "–Ow'k2m„vÑS°sÿ(WOÔk)RšN·ƒ—_ûNNwýNS:NÛNek„vib/_Ðc›OÝusO„vËz³¹p0"
- gain_foothold_in_france_title:0 "(WÕlpQ‰·ƒ—_Ëz³¹p"
- gain_foothold_in_france_desc:0 "'t–Ow'k2m„vÑS°sÿ(WÕlpQ‰ûNNwýN„vËz³¹pýýwY:NÛNek„vib/_Ðc›O:gO0"
- conquer_the_whiteskin_title:0 "_gŒv®vÿ$PROVINCENAME$"
- conquer_the_whiteskin_desc:0 "bìNÅ_Š˜Ùu$PROVINCENAME$„vî†7YìN&^»S‡efŒT_Sÿ"
- kremlin_expansion_title:0 " RúV[Root.GetCapitalName]„vÎW!X"
- kremlin_expansion_desc:0 "bìN„vºNlOVbìNÐc›OÝO³bFOñbkSbìN–™ý„v‰^XtSÄ‰!j‡˜SwN2–¡_„…1_0bìN—‰ibú^[Root.GetCapitalName]„vÎW!Xv^ R:_bìN„v2–¡_ÿÙSO—_te*NwýNôf:N‰RhQÿäNbìN„vºNl(WÙGrW0WN„vu;môf R‰RR0"
- portugal_conquest_of_hormuz_title:0 "_g—S(gyQ›S"
- portugal_conquest_of_hormuz_desc:0 "—S(gyQwmáSùR¶c6RpS¦^ÿOgŒT?–Éb/OOÉbKQKNô•„v8fAm¨R	gOwè]'Y„vq_ÍT0Ç:YÖSùR—S(gyQ›S„v¶c6RCgÿbìNïSåN/eM‘S_0W„v8fÿv^²RðyƒRþfÏuRú^„vwmm^ýV0"
- oma_conquest_of_batinah_title:0 "_gô]Ðc²"
- oma_conquest_of_batinah_desc:0 "YýV¿R›RÍN6q¶c6ROw?–üfMOŽN?–üfnŒTÈT	TSqS	KNô•g¥wƒl„v0W:Sô]‚„³u0bìNÅ_Š˜¶c6Rô]‚„³uÿÙ7hâeýw¶c6Rs^ŸSÿÈSýw¶c6Râl¯en?–üfwm¸S¿uN„v8fÎW^0"
- oma_conquest_of_dhofar_title:0 "_gPOÕlSw"
- oma_conquest_of_dhofar_desc:0 "ùRPOÕlS„v¶c6RNôv/fbìNºNl„vîvh0:N†NôfŒY0WÝO³bêñ]MQ×SaS‰Ì‘ŒTÈkÉb„vµO³Rÿv^·ƒ—_†Nå‹0W:SúQãS„v/Oô‹-N„vsN™™0"
- oma_conquest_of_mombasa_title:0 "_g™„ô](„"
- oma_conquest_of_mombasa_desc:0 "™„ô](„^/fN^—8f„v;N‰¢gÌuÿÙùRŽNûNUOwmN^ýVwŠý/fN*N	g÷N<P„veˆEQ0™„ô](„„vN›N¯eæt‰Ì‘FUºNgÑNbìNTwû|ÿûRBlbìN„vÝO³b....."
- oma_conquest_of_zanzibar_title:0 "_gQhÙuô]S"
- oma_conquest_of_zanzibar_desc:0 "QhÙuô]S›S(Wˆ_Y¹eb—ý/f¶c6R¯eæt^Ì‘í‹wm¸S¿u„vgsOMOn0 ©‹bìNeQµOv^:YÖSÙ*N›SSÿkO:N¶c6Rte*NN^—8f„v«Wów0"
- establish_colonial_nation_mission_canada_title:0 "(W Rÿb'Yú^Ëz–kl†˜"
- establish_colonial_nation_mission_canada_desc:0 "bìN(W Rÿb'Y„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³0"
- establish_colonial_nation_mission_canada_tooltip:0 "(W Rÿb'Y–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- establish_colonial_nation_mission_alaska_title:0 "(W?–Éb¯e Rú^Ëz–kl†˜"
- establish_colonial_nation_mission_alaska_desc:0 "bìN(W?–Éb¯e R„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³0"
- establish_colonial_nation_mission_alaska_tooltip:0 "(W?–Éb¯e R–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- establish_colonial_nation_mission_eastern_america_title:0 "(WŽ2mNèú^Ëz–kl†˜"
- establish_colonial_nation_mission_eastern_america_desc:0 "bìN(WNŽ2m„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³0"
- establish_colonial_nation_mission_eastern_america_tooltip:0 "(WNŽ2m–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- establish_colonial_nation_mission_colonial_australia_title:0 "(W³o'Y)RšNú^Ëz–kl†˜"
- establish_colonial_nation_mission_colonial_australia_desc:0 "bìN(W³o'Y)RšN„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³"
- establish_colonial_nation_mission_colonial_australia_tooltip:0 "(W³o'Y)RšN–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- establish_colonial_nation_mission_colonial_la_plata_title:0 "(WÉbnfÉbTXú^Ëz–kl†˜"
- establish_colonial_nation_mission_colonial_la_plata_desc:0 "bìN(WÉbnfÉbTX„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³0"
- establish_colonial_nation_mission_colonial_la_plata_tooltip:0 "(WÉbnfÉbTX–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- establish_colonial_nation_mission_colonial_peru_title:0 "(WØyœú^Ëz–kl†˜"
- establish_colonial_nation_mission_colonial_peru_desc:0 "bìN(WØyœ„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³"
- establish_colonial_nation_mission_colonial_peru_tooltip:0 "(WØyœ–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- establish_colonial_nation_mission_colonial_colombia_title:0 "(WåT&OÔkšNú^Ëz–kl†˜"
- establish_colonial_nation_mission_colonial_colombia_desc:0 "bìN(WåT&OÔkšN„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³"
- establish_colonial_nation_mission_colonial_colombia_tooltip:0 "(WåT&OÔkšN–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- establish_colonial_nation_mission_colonial_the_carribean_title:0 "(W RÒRÔkú^Ëz–kl†˜"
- establish_colonial_nation_mission_colonial_the_carribean_desc:0 "bìN(W RÒRÔk„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³"
- establish_colonial_nation_mission_colonial_the_carribean_tooltip:0 "(WåT&OÔkšN–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- establish_colonial_nation_mission_colonial_mexico_title:0 "	
-(W¨X‰åTú^Ëz–kl†˜"
- establish_colonial_nation_mission_colonial_mexico_desc:0 "bìN(W¨X‰åT„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³"
- establish_colonial_nation_mission_colonial_mexico_tooltip:0 "(W¨X‰åT–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- establish_colonial_nation_mission_colonial_california_title:0 "(W R)Ry<SšNú^Ëz–kl†˜"
- establish_colonial_nation_mission_colonial_california_desc:0 "bìN(W R)Ry<SšN„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³"
- establish_colonial_nation_mission_colonial_california_tooltip:0 "(W R)Ry<SšN–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- establish_colonial_nation_mission_colonial_louisiana_title:0 "(Wïf¯e‰R²ú^Ëz–kl†˜"
- establish_colonial_nation_mission_colonial_louisiana_desc:0 "bìN(Wïf¯e‰R²„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³"
- establish_colonial_nation_mission_colonial_louisiana_tooltip:0 "(Wïf¯e‰R²–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- establish_colonial_nation_mission_colonial_brazil_title:0 "(Wô]‰ú^Ëz–kl†˜"
- establish_colonial_nation_mission_colonial_brazil_desc:0 "bìN(Wô]‰„v–klw—‰bìN„v/ec0bìN”^å‹ib'Y–kl0Wÿôv0RÖNìNýwYêÙuê³"
- establish_colonial_nation_mission_colonial_brazil_tooltip:0 "(Wô]‰–kl0W–kl5*N0W:Sÿv^(W²Ì‘b_b–kl†˜0"
- discover_ivory_coast_node_title:0 "¢c1taŒYrwm¸S"
- discover_ivory_coast_node_desc:0 "•ENåNegÿNôv	g/Oô‹^—2mhTôV	gNag_šN2m„v*‚S0‚YœgbìNó`:NšN2m™™™eR/°e„v8fï¿uÿbìN”^å‹¢c1tƒR0"
- discover_ivory_coast_tt:0 "¢c1taŒYrwm¸S‚‚¹p"
- ivory_coast_trade:0 "aŒYrwm¸S8fyr¸‹Cg"
- colony_in_ivory_coast_node_title:0 "(W‰^—ÑSUSËz³¹p"
- colony_in_ivory_coast_node_desc:0 "^—2mwm¸S„v¢c1thˆf*‚zSOASR+o•0àVdkÿbìN—‰·ƒ—_kPÊlbìN„v8f9‚–„v/nãS0"
- colonise_ivory_coast_tt:0 "(W‰^—8f‚‚¹pú^Ëz	N*N–kl0W:S"
- atlantic_trading_post_tt:1 "Every Owned Province in the §YIvory Coast§! Trade Node will get the following modifiers for 10 years:\nLocal Trade Power: §G+1.00§!\nLocal Trade Power: §G+20%§!\nTrade Value: §G+0.50§!"
- south_african_trading_post_tt:1 "Every Owned Province in the §YSouth Africa§! Trade Node will get the following modifiers for 10 years:\nLocal Trade Power: §G+1.00§!\nLocal Trade Power: §G+20%§!\nTrade Value: §G+0.50§!"
- discover_good_hope_node_title:0 "¢c1tNNeÜ„vWS¹e	g›NÀNHN"
- discover_good_hope_node_desc:0 "•ENåNegÿNôv	g/Oô‹^—2mhTôV	gNag_šN2m„v*‚S0‚YœgbìNó`:NšN2m™™™eR/°e„v8fï¿uÿbìN”^å‹¢c1tƒR0"
- discover_good_hope_tt:0 "¢c1tWS^—8f‚‚¹p"
- good_hope_trade:0 "ŠÇŒYgÒ‰"
- colony_in_good_hope_node_title:0 "(WWS^—ÑSUSËz³¹p"
- colony_in_good_hope_node_desc:0 "^—2mwm¸S„v¢c1thˆf*‚zSOASR+o•0àVdkÿbìN—‰(WŒYgÒ‰·ƒ—_kPÊlbìN„v8f9‚–„v/nãS0"
- colonise_good_hope_tt:0 "(WWS^—8f‚‚¹pú^Ëz	N*N–kl0W:S"
- cape_trading_post_tt:0 "°e–kl0W„v8f÷N<PŒT8f›RÏ‘‚föeAucƒ"
- discover_zanzibar_node_title:1 "¢c1tŒYgÒ‰T	gÀNHN"
- discover_zanzibar_node_desc:0 "0R¾^—2mWSèwm¸STÿbìNïSåNÛeQN*NhQ°e„vwmmÿ(W²Ì‘bìNSb0RšN2m„v1ÌR0"
- discover_zanzibar_tt:0 "¢c1tQhÙuô]SwmáS„v‚‚¹p0"
- zanzibar_node_trade:0 "QhÙuô]S8fyr¸‹Ïu%„Cg"
- conquer_zanzibar_mission_title:1 "(W¯eæt^Ì‘í‹wm¸S - QhÙuô]S„vËz³¹p"
- conquer_zanzibar_mission_desc:1 "QhÙuô]S/f¯eæt^Ì‘í‹wm¸S„v³Nf¹pKNN0_gƒRSÙubìNÐc›ON*N˜Y„v/nãSÿv^b:N_šN2m„v8f„vNWW«Wów0"
- conquer_zanzibar_tt:1 "_gQhÙuô]S0"
- conquer_mombasa_mission_title:1 "(W¯eæt‰Ì‘wm¸S„vËz³¹p - ™„ô](„"
- conquer_mombasa_mission_desc:1 "™„ô](„/f¯eæt^Ì‘í‹wm¸S„v³Nf¹pKNN0_gƒRSÙubìNÐc›ON*N˜Y„v/nãSÿv^b:N_šN2m„v8f„vNWW«Wów0"
- conquer_mombasa_tt:0 "_g™„ô](„0"
- conquer_mogadishiu_mission_title:1 "1tlšÌ‘wm¸S„vËz³¹p - id Rê™l"
- conquer_mogadishiu_mission_desc:1 "1tlšÌ‘/f¯eæt^Ì‘í‹wm¸S„v³Nf¹pKNN0_gƒRSÙubìNÐc›ON*N˜Y„v/nãSÿv^b:N_šN2m„v8f„vNWW«Wów0"
- conquer_mogadishiu_tt:0 "_gid Rê™l0"
- discover_aden_gulf_node_title:0 "ÑS°sšN2m„v'Yè•"
- discover_aden_gulf_node_desc:0 "?–Éb/OJS›SåNvQ–TaUFŒŒT8f‡eSwû•Tÿv^NôvŒc¶cOwšN'kKNô•„v8f*‚¿u0(WçuíuMR_pS¦^KNMRÿbìN—‰¢c1tÖNìN„v8f‚‚¹p0"
- discover_aden_gulf_tt:0 "¢c1tšNNn8f‚‚¹p0"
- aden_gulf_trade:0 "šNNn8fyr¸‹Ïu%„Cg"
- conquer_masqat_mission_title:0 "(W?–üfÑSUSËz³¹p"
- conquer_masqat_mission_desc:0 "?–Éb/OJS›S„vlš¯eUyr/fÛeQšN2mÿpT™™™eÿNøuŒTvQÖN1ÌR„vè•7b0"
- conquer_masqat_tt:0 "_glš¯eUyr0"
- discover_indus_node_title:0 "ÑS°spS¦^„v'Yè•"
- discover_indus_node_desc:0 "peNªuåNegÿšN2m„v™™™eŒTNøu/fNôvÀo±ROw†N'k2mFUºN„v¦hó`0ÖNìN°s(Wò]Ïu(WbìN„vŒcácKN-NÿFObìN–™HQ—‰¢c1t_pS¦^8f‚‚¹p„v*‚¿u0"
- discover_indus_tt:0 "¢c1tpS¦^³l¿l¸S8f‚‚¹p"
- indus_node_trade:0 "pS¦^³l8fyr¸‹Ïu%„Cg"
- discover_goa_node_title:0 "¢c1tpS¦^‰wm¸S	gÀNHN"
- discover_goa_node_desc:0 "peNªuåNegÿšN2m„v™™™eŒTNøu/fNôvÀo±ROw†N'k2mFUºN„v¦hó`0ÖNìN°s(Wò]Ïu(WbìN„vŒcácKN-NÿFObìN–™HQ—‰¢c1t_pS¦^8f‚‚¹p„v*‚¿u0"
- discover_goa_tt:0 "¢c1tœg?–8f‚‚¹p"
- goa_node_trade:0 "œg?–8fyr¸‹Ïu%„Cg"
- discover_ceylan_node_title:0 "¢c1tpS¦^WSwm¸S	gÀNHN"
- discover_ceylan_node_desc:0 "peNªuåNegÿšN2m„v™™™eŒTNøu/fNôvÀo±ROw†N'k2mFUºN„v¦hó`0ÖNìN°s(Wò]Ïu(WbìN„vŒcácKN-NÿFObìN–™HQ—‰¢c1t_pS¦^8f‚‚¹p„v*‚¿u0"
- discover_ceylan_tt:0 "¢c1tpgpQwmáS8f‚‚¹p0"
- ceylan_node_trade:0 "¢c1t!•pQ8f‚‚¹p"
- discover_bengal_node_title:0 "¢c1tpS¦^Nwm¸S	gÀNHN
- discover_bengal_node_desc:0 "peNªuåNegÿšN2m„v™™™eŒTNøu/fNôvÀo±ROw†N'k2mFUºN„v¦hó`0ÖNìN°s(Wò]Ïu(WbìN„vŒcácKN-NÿFObìN–™HQ—‰¢c1t_pS¦^8f‚‚¹p„v*‚¿u0"
- discover_bengal_tt:0 "¢c1t_R RÉb8f‚‚¹p."
- bengal_node_trade:0 "_R RÉb8fyr¸‹Ïu%„Cg"
- trading_post_modifier:0 "wmY8fAucƒ"
- desc_trading_post_modifier:0 "Our explorers looking for trade routes towards Asia have established ports for the mooring of our discovery fleets. This has lead to a boom of trade with the natives living in the vicinity."
- conquer_al_jazira_hsn_title:0 "Conquer Al Jazira"
- conquer_al_jazira_hsn_desc:0 "bìN„vVyHQþfÏußu»lÇte*NNŽ1tN¾s|šN0bìN	gIN¡Rb`YÙÍyCg)RÿQ!kTNºNUS:y?–3S^‹sg„vcƒw0"
- conquer_aleppo_hsn_title:0 "?–ÒR‡˜Q_g"
- conquer_aleppo_hsn_desc:0 "SÙS)RšN„vW0WþfÏu/f?–3S^‹sýV„vN*NÄubèRÿ_N/fbìN‹sg	gq_ÍT›R„vR/eKNN0°s(W/föePÍ‘°eÞV0RbìNKbN†N"
