@@ -101,6 +101,7 @@
  IS_NOT_HRE_RELIGION:0 "§Y$RELIGION$§! 不是神圣罗马帝国的主流信仰."
  IS_HRE_HERETIC_RELIGION:0 "§Y$RELIGION$§! 是神圣罗马帝国的异端信仰."
  IS_NOT_HERETIC_HRE_RELIGION:0 "§Y$RELIGION$§! 不是神圣罗马帝国的异端信仰."
+ HRE_LEAGUE_LEADER_NO_LEAGUE:1 "There is no religious league."
  HRE_LEAGUE_LEADER_NO_CHANGE_DURING_WAR:0 "The leader of this league cannot change during the league war."
  HRE_LEAGUE_LEADER_WRONG_RELIGION:0 "A §Y$RELIGION$§! country cannot become leader of this league."
  HRE_LEAGUE_LEADER_REGENCY:0 "A country cannot become the league leader during a Regency."
