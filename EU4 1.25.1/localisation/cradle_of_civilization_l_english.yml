@@ -425,7 +425,7 @@
  RELIGIOUS_SCHOLAR_EXPIRY_MAP:0 ""
  MISSIONARY_ZEAL_CONVERSION_SPEED_MOD:0 "$WHO$ 传教士力量: $VAL$\n"
  CONFIRM_SELECT_TRADING_POLICY:0 "选择贸易政策"
- CONFIRM_SELECT_TRADING_POLICY_DESC:1 "\nA你确定你想设置贸易政策在 $NODE|Y$ 到 $NAME|Y$？ 你不能选择一个新的政策为期 §Y$MONTHS$ months§月!.\n"
+ CONFIRM_SELECT_TRADING_POLICY_DESC:1 "\n你确定你想设置贸易政策在 $NODE|Y$ 到 $NAME|Y$？ 你不能选择一个新的政策为期 §Y$MONTHS$ 个月§!.\n"
  TRADING_POLICY_MAINTAINED_IF:1 "\n如果以下列要求未被满足，政策将改回为 $DEFAULT|Y$:\n$IF$"
  growing_merchant_community:0 "不断发展的商业社区"
  merchants_discriminated:0 "商人团受诽谤"
